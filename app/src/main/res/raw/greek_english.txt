@@ -1,0 +1,75 @@
+αγαπώ	v.		to love
+η αδελφή	n.		sister
+ο αδελφός	n.		brother
+το αεροπλάνο	n.		(aero)plane
+ακούω	v.		to hear
+ανοίγω	v.		to open
+αργός (-ή, -ό)	adj.		slow
+αρχίζω	v.		to begin, to start
+άσπρος (-η, -ο)	adj.		white
+το αυτοκίνητο	n.		car
+η βάρκα	n.		(small) boat
+το βιβλίο	n.		book
+βλέπω	v.		to see
+γαλανός (-ή, -ό)	adj.		(light) blue
+η γάτα	n.		cat
+ο γιος	n.		son
+γράφω	v.		to write
+γρήγορος (-η, -ο)	adj.		quick, fast
+διαβάζω	v.		to read
+δίνω	v.		to give
+δουλεύω	v.		to work
+δύσκολος (-η, -ο)	adj.		difficult
+δυστυχής (-ής, -ές)	adj.		unhappy; unfortunate
+εύκολος (-η, -ο)	adj.		easy
+ευτυχής (-ής, -ές)	adj.		happy; fortunate
+ζεστός (-ή, -ό)	adj.		hot, warm
+ζω	v.		to live
+ο ήλιος	n.		sun
+η θάλασσα	n.		sea
+κακός (-ή, -ό)	adj.		bad
+καλός (-ή, -ό)	adj.		good
+η καρέκλα	n.		chair
+καταλαβαίνω	v.		to understand
+κίτρινος (-η, -ο)	adj.		yellow
+κλείνω	v.		to close
+κοιτάζω	v.		to look (at)
+κόκκινος (-η, -ο)	adj.		red
+κοντός (-ή, -ό)	adj.		short
+η κόρη	n.		daughter
+κρύος (-α, -ο)	adj.		cold
+λεπτός (-ή, -ό)	adj.		thin
+μακρύς (-ιά, -ύ)	adj.		long
+μαύρος (-η, -ο)	adj.		black
+μεγάλος (-η, -ο)	adj.		large, big; great, grand
+η μητέρα	n.		mother
+μικρός (-ή, -ό)	adj.		small, little
+μιλώ	v.		to speak
+μισώ	v.		to hate
+το μολύβι	n.		pencil
+μπλε	adj.	inv.	(dark) blue
+ο ουρανός	n.		sky
+παίζω	v.		to play
+παίρνω	v.		to take
+το παράθυρο	n.		window
+ο πατέρας	n.		father
+παχύς (-ιά, -ύ)	adj.		thick, fat
+πεθαίνω	v.		to die
+πίνω	v.		to drink
+το ποδήλατο	n.		bicycle, bike
+η πόρτα	n.		door
+το ποτάμι	n.		river
+πράσινος (-η, -ο)	adj.		green
+η σκάλα	n.		stairs, staircase
+ο σκύλος	n.		dog
+το σπίτι	n.		house
+το στυλό	n.		pen
+το σχολείο	n.		school
+τελειώνω	v.		to finish, to end
+τραγουδώ	v.		to sing
+το τραπέζι	n.		table
+το τρένο	n.		train
+τρώω	v.		to eat
+το φεγγάρι	n.		moon
+το χαρτί	n.		paper
+χορεύω	v.		to dance

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mycolors_app_background">
+
+    <TextView
+        android:id="@+id/tvTitle"
+        style="@style/Base.DialogWindowTitle.AppCompat"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:gravity="center_horizontal"
+        android:text="@string/str_edit_word"
+        android:textColor="@color/mycolors_text" />
+
+    <!--TableLayout android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+        <TableRow android:layout_height="wrap_content" android:layout_width="fill_parent"
+            >
+            <android:padding="@dimen/abc_action_bar_default_padding_material"-->
+    <TextView
+        android:id="@+id/lblWord"
+        style="@style/Base.TextAppearance.AppCompat.Medium"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/str_word_native"
+        android:textColor="@color/mycolors_text" />
+
+    <EditText
+        android:id="@+id/tvNative"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/my_editview"
+        android:inputType="text"
+        android:maxLines="1"
+        android:nextFocusForward="@id/tvPartOfSpeech"
+        android:text="New Text"
+        android:textColor="@color/mycolors_text" />
+        <!--/TableRow>
+
+        <TableRow android:layout_height="wrap_content" android:layout_width="fill_parent"
+            >
+            <android:padding="@dimen/abc_action_bar_default_padding_material"-->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/str_part_of_speech"
+                android:id="@+id/lblPartOfSpeech"
+                android:textColor="@color/mycolors_text"
+                style="@style/Base.TextAppearance.AppCompat.Medium" />
+
+    <EditText
+        android:id="@+id/tvPartOfSpeech"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/my_editview"
+        android:inputType="text"
+        android:maxLines="1"
+        android:text="Small Text"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/mycolors_text" />
+
+        <!--/TableRow>
+        <TableRow android:layout_height="wrap_content" android:layout_width="fill_parent"
+            >
+            <android:padding="@dimen/abc_action_bar_default_padding_material"-->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/str_notes"
+                android:id="@+id/lblNotes"
+                android:textColor="@color/mycolors_text"
+                style="@style/Base.TextAppearance.AppCompat.Medium" />
+
+    <EditText
+        android:id="@+id/tvNotes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/my_editview"
+        android:inputType="text"
+        android:maxLines="1"
+        android:text="Small Text"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/mycolors_text" />
+        <!--/TableRow>
+
+        <TableRow android:layout_height="wrap_content" android:layout_width="fill_parent"
+            >
+< android:padding="@dimen/abc_action_bar_default_padding_material" -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/str_word_foreign"
+                android:id="@+id/lblTranslation"
+                android:textColor="@color/mycolors_text"
+                style="@style/Base.TextAppearance.AppCompat.Medium" />
+
+    <EditText
+        android:id="@+id/tvForeign"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/my_editview"
+        android:inputType="text"
+        android:maxLines="1"
+        android:nextFocusForward="@id/btnOK"
+        android:text="New Text"
+        android:textColor="@color/mycolors_text" />
+        <!--/TableRow>
+
+        <TableRow android:layout_height="wrap_content" android:layout_width="match_parent"
+            android:gravity="center"
+            android:layout_marginTop="@android:dimen/app_icon_size"-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnOK"
+            style="@style/myapp_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="30dp"
+            android:text="@string/str_ok" />
+        <!--android:padding="@dimen/abc_action_bar_default_padding_material"-->
+
+        <Button
+            android:id="@+id/btnCancel"
+            style="@style/myapp_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="30dp"
+            android:text="@string/str_cancel" />
+        <!--android:padding="@dimen/abc_action_bar_default_padding_material"-->
+    </LinearLayout>
+
+    <!--/TableRow>
+</TableLayout-->
+    <com.google.android.gms.ads.AdView android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        ads:adUnitId="@string/banner_ad_unit_id"
+        ads:adSize="SMART_BANNER"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>

@@ -1,0 +1,75 @@
+biały	adj.		white
+brać/wziąć	v.		to take
+brat (-a)	n.		brother
+cienki	adj.		thin
+córka (-i)	n.		daughter
+czarny	adj.		black
+czerwony	adj.		red
+czytać/przeczytać	v.		to read
+dawać/dać	v.		to give
+długi	adj.		long
+długopis (-u)	n.		(ballpoint) pen
+dobry	adj.		good; kind
+dom (-u)	n.		house; home
+drzwi (-)	n.	pl.	door
+duży	adj.		large, big
+gorący	adj.		hot
+grać/zagrać	v.		to play
+gruby	adj.		thick, fat
+jeść/zjeść	v.		to eat
+kochać/pokochać	v.		to love
+kończyć/skończyć	v.		to finish
+kot (-a)	n.		cat
+krótki	adj.		short; brief
+krzesło (-a)	n.		chair
+książka (-i)	n.		book
+księżyc (-a)	n.		moon
+łatwy	adj.		easy
+łódź (łodzi)	n.		boat
+mały	adj.		small, little
+matka (-i)	n.		mother
+morze (-a)	n.		sea
+mówić/powiedzieć	v.		to speak to talk; to say, to tell
+niebieski	adj.		blue
+niebo (-a)	n.		sky
+nienawidzić/znienawidzić	v.		to hate
+oglądać/obejrzeć	v.		to watch, to look at, to see
+ojciec (ojca)	n.		father
+okno (-a)	n.		window
+ołówek (ołówka)	n.		pencil
+otwierać/otworzyć	v.		to open
+papier (-u)	n.		paper
+pić/wypić	v.		to drink
+pies (psa)	n.		dog
+pisać/napisać	v.		to write
+pociąg (-u)	n.		train
+pracować/przepracować	v.		to work
+rower (-u)	n.		bicycle, bike
+rozumieć/zrozumieć	v.		to understand
+rzeka (-i)	n.		river
+samochód (samochodu)	n.		car
+samolot (-u)	n.		(aero)plane
+schody (-ów)	n.	pl.	stairs
+siostra (-y)	n.		sister
+słońce (-a)	n.		sun
+słuchać/posłuchać	v.		to listen
+słyszeć/usłyszeć	v.		to hear
+smutny	adj.		sad
+śpiewać/zaśpiewać	v.		to sing
+stół (stołu)	n.		table
+syn (-a)	n.		son
+szczęśliwy	adj.		happy; fortunate, lucky
+szkoła (-y)	n.		school
+szybki	adj.		quick
+tańczyć/zatańczyć	v.		to dance
+trudny	adj.		difficult
+umierać/umrzeć	v.		to die
+widzieć/zobaczyć	v.		to see
+wolny	adj.		free; slow
+zaczynać/zacząć	v.		to begin, to start
+zamykać/zamknąć	v.		to close, to shut
+zielony	adj.		green
+zimny	adj.		cold
+zły	adj.		bad, evil
+żółty	adj.		yellow
+żyć/przeżyć	v.		to live

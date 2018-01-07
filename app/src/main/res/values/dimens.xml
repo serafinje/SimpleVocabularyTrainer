@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">0dp</dimen>
+    <dimen name="activity_vertical_margin">0dp</dimen>
+    <!-- Tamaño de letra en la lista de diccionarios -->
+    <dimen name="lista_diccionarios">10sp</dimen>
+    <!-- Separación entre botones/componentes -->
+    <dimen name="separacion">2dp</dimen>
+    <dimen name="separacion_doble">18dp</dimen>
+    <dimen name="btnpadding">24dp</dimen>
+</resources>

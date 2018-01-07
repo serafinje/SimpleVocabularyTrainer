@@ -1,0 +1,211 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.sera.android.simplevocabularytrainer.StatsActivity"
+    android:background="@color/mycolors_app_background">
+
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:weightSum="2">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="@string/str_words_learnt"
+                android:id="@+id/lblWordsLearnt"
+                android:textColor="@color/mycolors_text"
+                style="@style/Base.TextAppearance.AppCompat.Title"
+                android:layout_weight="1" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:text="New Text"
+                android:id="@+id/tvWordsLearnt"
+                android:textColor="@color/mycolors_text"
+                style="@style/Base.TextAppearance.AppCompat.Title"
+                android:layout_weight="1"
+                android:gravity="bottom" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:weightSum="2">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="@string/str_words_total"
+                android:id="@+id/lblTotalWords"
+                android:textColor="@color/mycolors_text"
+                style="@style/Base.TextAppearance.AppCompat.Title"
+                android:layout_weight="1" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:text="New Text"
+                android:id="@+id/tvTotalWords"
+                android:textColor="@color/mycolors_text"
+                style="@style/Base.TextAppearance.AppCompat.Title"
+                android:layout_weight="1"
+                android:gravity="bottom" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:weightSum="2">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="@string/str_progress"
+                android:id="@+id/lblProgress"
+                android:textColor="@color/mycolors_text"
+                style="@style/Base.TextAppearance.AppCompat.Title"
+                android:layout_weight="1" />
+
+            <ProgressBar
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:id="@+id/pbProgress"
+                android:layout_weight="1"
+                android:progressDrawable="@drawable/myprogressbar" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:weightSum="2">
+            <!--android:paddingTop="@dimen/abc_action_bar_content_inset_material"-->
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="@string/str_questions_answered"
+                android:id="@+id/lblQuestionsAnswered"
+                android:textColor="@color/mycolors_text"
+                style="@style/Base.TextAppearance.AppCompat.Title"
+                android:layout_weight="1"
+                android:maxLines="2" />
+            <!--android:autoText="false"-->
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:text="New Text"
+                android:id="@+id/tvQuestionsAnswered"
+                android:textColor="@color/mycolors_text"
+                style="@style/Base.TextAppearance.AppCompat.Title"
+                android:layout_weight="1"
+                android:gravity="bottom" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:weightSum="2">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="@string/str_questions_attempted"
+                android:id="@+id/lblQuestionsAttempted"
+                android:textColor="@color/mycolors_text"
+                style="@style/Base.TextAppearance.AppCompat.Title"
+                android:layout_weight="1"
+                android:maxLines="2" />
+            <!--android:autoText="false"-->
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:text="New Text"
+                android:id="@+id/tvQuestionsAttempted"
+                android:textColor="@color/mycolors_text"
+                style="@style/Base.TextAppearance.AppCompat.Title"
+                android:layout_weight="1"
+                android:gravity="bottom" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:weightSum="2">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="@string/str_success_rate"
+                android:id="@+id/lblSuccessRate"
+                android:textColor="@color/mycolors_text"
+                style="@style/Base.TextAppearance.AppCompat.Title"
+                android:layout_weight="1" />
+
+            <ProgressBar
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:id="@+id/pbSuccessRate"
+                android:layout_weight="1"
+                android:progressDrawable="@drawable/myprogressbar" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center_horizontal"
+            android:weightSum="2">
+            <!--android:paddingTop="@dimen/abc_action_bar_content_inset_material"-->
+
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="@string/str_reset"
+                android:id="@+id/btnReset"
+                android:layout_weight="1"
+                style="@style/myapp_button" />
+
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="@string/str_back"
+                android:id="@+id/btnBack"
+                style="@style/myapp_button"
+                android:layout_weight="1" />
+        </TableRow>
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:weightSum="2">
+            <com.google.android.gms.ads.AdView android:id="@+id/adView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                ads:adUnitId="@string/banner_ad_unit_id"
+                ads:adSize="SMART_BANNER"
+                android:layout_gravity="bottom|center_horizontal"
+                android:layout_weight="1"
+                android:layout_span="2" />
+
+            </TableRow>
+
+    </TableLayout>
+
+
+</RelativeLayout>

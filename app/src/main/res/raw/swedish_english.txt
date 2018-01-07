@@ -1,0 +1,74 @@
+arbeta (-r, -de, -t)	v.		to work
+bil (-en, -ar)	n.		car
+blå (-tt, -)	adj.		blue
+bok (-en, böcker)	n.		book
+bord (-et, -)	n.		table
+bror (brodern, bröder)	n.		brother
+båt (-en, -ar)	n.		boat
+börja (-r, -de, -t)	v.		to begin, to start
+cykel (-n, cyklar)	n.		bicycle, bike
+dansa (-r, -de, -t)	v.		to dance
+dotter (-n, döttrar)	n.		daughter
+dricka (dricker, drack, druckit)	v.		to drink
+dålig (-t, -a)	adj.		bad
+dö (dör, dog, dött)	v.		to die
+dörr (-en, -ar)	n.		door
+far (fadern, fäder)	n.		father
+flygplan (-et, -)	n.		(aero)plane
+fönster (fönstret, fönster)	n.		window
+förstå (-r, förstod, förstått)	v.		to understand
+ge (ger, gav, givit)	v.		to give
+glad (glatt, glada)	adj.		happy
+god (gott, goda)	adj.		good
+grön (-t, -a)	adj.		green
+gul (-t, -a)	adj.		yellow
+hata (-r, -de, -t)	v.		to hate
+hav (-et, -)	n.		sea, ocean
+himmel (himlen, himlar)	n.		sky
+hund (-en, -ar)	n.		dog
+hus (-et, -)	n.		house
+höra (hör, hörde, hört)	v.		to hear
+kall (-t, -a)	adj.		cold
+katt (-en, -er)	n.		cat
+kort (-, -a)	adj.		short
+ledsen (ledset, ledsna)	adj.		sad
+leva (lever, levde, levt)	v.		to live
+liten (litet, små)	adj.		small, little
+lyssna (-r, -de, -t)	v.		to listen
+läsa (läser, läste, läst)	v.		to read; to study
+lätt (-, -a)	adj.		light; easy
+lång (-t, -a)	adj.		long
+långsam (-t, -ma)	adj.		slow
+mor (modern, mödrar)	n.		mother
+måne (månen, månar)	n.		moon
+papper (-et, -)	n.		(piece of) paper
+penna (pennan, pennor)	n.		pen; pencil
+röd (rött, röda)	adj.		red
+se (ser, såg, sett)	v.		to see
+sjunga (sjunger, sjöng, sjungit)	v.		to sing
+skola (skolan, skolor)	n.		school
+skriva (skriver, skrev, skrivit)	v.		to write
+sluta (-r, -de, -t)	v.		to finish, to end, to stop
+snabb (-t, -a)	adj.		quick, fast, rapid
+sol (-en, -ar)	n.		sun
+son (-en, söner)	n.		son
+spela (-r, -de, -t)	v.		to play
+stol (-en, -ar)	n.		chair
+stor (-t, -a)	adj.		large, big
+stänga (stänger, stängde, stängt)	v.		to close, to shut
+svart (-, -a)	adj.		black
+svår (-t, -a)	adj.		difficult, hard
+syster (-n, systrar)	n.		sister
+ta (-r, tog, tagit)	v.		to take
+tala (-r, -de, -t)	v.		to speak, to talk
+titta (-r, -de, -t)	v.		to look
+tjock (-t, -a)	adj.		thick; fat
+trappa (trappan, trappor)	n.		stairs, staircase
+tunn (tunt, -a)	adj.		thin
+tåg (-et, -)	n.		train
+varm (-t, -a)	adj.		warm, hot
+vit (-t, -a)	adj.		white
+älska (-r, -de, -t)	v.		to love
+älv (-en, -ar)	n.		river
+äta (äter, åt, ätit)	v.		to eat
+öppna (-r, -de, -t)	v.		to open

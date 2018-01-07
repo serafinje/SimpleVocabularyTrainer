@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mycolors_app_background">#d2ecf7</color>
+    <!--color name="mycolors_app_background">#FF4A8345</color-->
+    <color name="mycolors_word_line_background">@color/mycolors_app_background</color>
+    <color name="mycolors_button_background">#FFFFFFFF</color>
+    <color name="mycolors_text">#ff3d3d3d</color>
+    <color name="mycolors_text_gray">#b0b0b0</color>
+    <color name="mycolors_learned_word">#FF5E5E5E</color>
+</resources>

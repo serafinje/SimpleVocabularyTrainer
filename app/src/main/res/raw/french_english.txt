@@ -1,0 +1,1502 @@
+l'aéroport	n.	m.	airport
+l'Afrique	n.	f.	Africa
+l'Allemagne	n.	f.	Germany
+allemand(e)	adj.		German
+aller à l'étranger			to go abroad
+l'Amérique du Nord			North America
+l'Amérique du Sud			South America
+anglais(e)	adj.		English
+l'Angleterre	n.	f.	England
+arriver (à)	v.		to arrive (in/at), to reach
+l'Asie	n.	f.	Asia
+atterrir	v.		to land, to touch down
+l'auberge de jeunesse			youth hostel
+l'Australie	n.	f.	Australia
+australien(ne)	adj.		Australian
+l'autoroute	n.	f.	motorway
+l'Autriche	n.	f.	Austria
+autrichien(ne)	adj.		Austrian
+l'avion	n.	m.	(aero)plane
+avoir le mal de mer			to be/feel seasick
+avoir le mal du pays			to be/feel homesick
+les bagages	n.	m.	luggage, baggage
+le bateau	n.		boat
+belge	adj.		Belgian
+la Belgique	n.		Belgium
+le billet	n.		ticket
+le Brésil	n.		Brazil
+britannique	adj.		British
+se bronzer	v.		to sunbathe
+bronzer	v.		to get a (sun)tan
+le bus	n.		bus
+le camping	n.		campsite
+le Canada	n.		Canada
+canadien(ne)	adj.		Canadian
+la carte	n.		map
+la carte postale			postcard
+le chemin de fer			railway
+la Chine	n.		China
+chinois(e)	adj.		Chinese
+communiquer	v.		to communicate
+comprendre	v.		to understand
+le Danemark	n.		Denmark
+danois(e)	adj.		Danish
+déballer ses affaires			to unpack (one's things)
+décoller	v.		to take off, to leave the ground
+descendre d'un train			to get off a train
+la direction	n.		direction
+la douane	n.		customs
+écossais(e)	adj.		Scottish
+l'Écosse	n.	f.	Scotland
+l'Égypte	n.	f.	Egypt
+l'équateur	n.	m.	equator
+l'Espagne	n.	f.	Spain
+espagnol(e)	adj.		Spanish
+l'essence	n.	f.	petrol
+l'est	n.	m.	(the) east
+les États-Unis	n.	m.	(the) United States
+étranger/étrangère	adj.		foreign; strange
+l'Europe	n.	f.	Europe
+l'excursion	n.	f.	excursion
+exotique	adj.		exotic
+explorer	v.		to explore
+faire ses bagages			to pack (one's bags)
+fatigant(e)	adj.		tiring
+français(e)	adj.		French
+la France	n.		France
+la frontière	n.		border, frontier
+gallois(e)	adj.		Welsh
+la gare	n.		(railway/train) station
+le gilet de sauvetage			life jacket
+la Grèce	n.		Greece
+grec(que)	adj.		Greek
+hollandais(e)	adj.		Dutch
+la Hollande			Holland
+la Hongrie	n.		Hungary
+hongrois(e)	adj.		Hungarian
+l'hôtel	n.	m.	hotel
+inconnu(e)	adj.		unknown; unfamiliar, strange
+l'Inde	n.	f.	India
+irlandais(e)	adj.		Irish
+l'Irlande	n.	f.	Ireland
+l'Italie	n.	f.	Italy
+italien(ne)	adj.		Italian
+le Japon	n.		Japan
+japonais(e)	adj.		Japanese
+la langue	n.		language
+léger/légère	adj.		light
+lent(e)	adj.		slow
+lointain(e)	adj.		distant, remote, faraway
+lourd(e)	adj.		heavy
+la mer Baltique			Baltic Sea
+la mer du Nord			North Sea
+la mer Méditerranée			Mediterranean Sea
+la mer Noire			Black Sea
+le Mexique	n.		Mexico
+le monde	n.		world
+monter à bord d'un navire			to board a ship
+monter dans un train			to board a train, to get on a train
+la moto(cyclette)	n.		motorbike, motorcycle
+le navire	n.		ship
+le nord	n.		(the) north
+nord-américain(e)	adj.		North American
+la Norvège	n.		Norway
+norvégien(ne)	adj.		Norwegian
+la Nouvelle-Zélande	n.		New Zealand
+l'océan Antarctique			Antarctic Ocean
+l'océan Arctique			Arctic Ocean
+l'océan Atlantique			Atlantic Ocean
+l'océan Indien			Indian Ocean
+l'océan Pacifique			Pacific Ocean
+l'ouest	n.	m.	(the) west
+parler français			to speak French
+partir (de)	v.		to leave, to depart (from)
+partir en vacances			to go (away) on holiday
+le passeport	n.		passport
+le pays	n.		country
+le pays de Galles			Wales
+les Pays-Bas	n.	m.	(the) Netherlands
+la plage	n.		beach
+le pôle Nord			North Pole
+le pôle Sud			South Pole
+la Pologne	n.		Poland
+polonais(e)	adj.		Polish
+le port	n.		port; harbour
+portugais(e)	adj.		Portuguese
+le Portugal	n.		Portugal
+rapide	adj.		fast, quick, rapid; express
+la région	n.		region
+réserver une chambre			to reserve a room
+la route	n.		road; route
+le Royaume-Uni			(the) United Kingdom
+russe	adj.		Russian
+la Russie	n.		Russia
+le sac à dos	n.		rucksack, backpack
+la station-service	n.		petrol station
+le sud	n.		(the) south
+sud-américain(e)	adj.		South American
+la Suède	n.		Sweden
+suédois(e)	adj.		Swedish
+suisse	adj.		Swiss
+la Suisse	n.		Switzerland
+le taxi	n.		taxi
+la tente	n.		tent
+le tourisme	n.		tourism
+le train	n.		train
+le tram	n.		tram
+tropical(e)	adj.		tropical
+turc/turque	adj.		Turkish
+la Turquie	n.		Turkey
+les vacances	n.	f.	holiday(s)
+la valise	n.		suitcase
+le vélo	n.		bike, bicycle
+le village	n.		village
+la ville	n.		town; city
+le visa	n.		visa
+la visite	n.		visit; tour
+la voiture	n.		car
+le voyage	n.		journey, trip
+voyager	v.		to travel
+acheter	v.		to buy, to purchase
+acheter au rabais			to buy at a discount, to get a discount on
+aller en ville			to go (in)to town
+l'argent	n.	m.	money
+l'ascenseur	n.	m.	lift
+le banc	n.		bench, seat
+la banque	n.		bank
+le bar	n.		bar
+le bâtiment	n.		building
+la bibliothèque	n.		library
+la bijouterie	n.		jeweller's (shop), jewellery shop
+le billet	n.		ticket
+le billet (de banque)	n.		(bank)note
+la boîte aux lettres			postbox, pillar box
+la boîte de nuit			nightclub
+bon marché		inv.	cheap, inexpensive
+bondé(e)	adj.		crowded, packed/crammed (full)
+de bonne qualité			(of) good/high quality
+la boucherie	n.		butcher's (shop)
+la boulangerie	n.		baker's (shop), bakery
+le bureau	n.		office
+la cabine d'essayage			fitting/changing room
+la cabine téléphonique			telephone box/booth
+le cadeau	n.		present, gift
+le café	n.		café/cafe
+la caisse	n.		checkout, cash desk; till, cash register
+le carrefour	n.		crossroads
+la carte de crédit			credit card
+la caserne de pompiers			fire station
+la cathédrale	n.		cathedral
+le centre commercial			shopping centre
+le chantier	n.		building site
+le chèque	n.		cheque
+chercher	v.		to look for, to search for, to try to find
+cher/chère	adj.		dear, expensive
+choisir	v.		to choose
+le cinéma	n.		cinema
+la circulation	n.		traffic
+le cirque	n.		circus
+le client	n.		customer, client
+le coin	n.		corner
+le commissariat (de police)	n.		police station
+compter	v.		to count
+le comptoir	n.		counter; bar
+coûter	v.		to cost
+le cul-de-sac	n.		cul-de-sac, dead end, blind alley
+échanger (contre)	v.		to exchange (for)
+l'église	n.	f.	church
+l'embouteillage	n.	m.	traffic jam
+en vitrine			in the window, on display
+l'entrée	n.	f.	entrance, way in
+l'épicerie	n.	f.	grocer's/grocery (shop)
+essayer	v.		to try (on)
+l'étage	n.	m.	floor, storey
+étroit(e)	adj.		narrow
+faire la queue			to queue (up), to form a queue
+faire les courses			to do the shopping, to go shopping
+faire un tour			to go for a walk
+se fatiguer	v.		to get/grow tired
+les feux	n.	m.	(traffic) lights
+la fontaine	n.		fountain
+le grand magasin			department store
+l'hôpital	n.	m.	hospital
+le kiosque	n.		kiosk, stall
+large	adj.		wide
+la librairie	n.		bookshop
+le magasin	n.		shop
+le magasin de chaussures			shoe shop
+la mairie	n.		town hall; town council
+le marché	n.		market
+de mauvaise qualité			(of) poor/low quality
+le monument	n.		monument
+la mosquée	n.		mosque
+le musée	n.		museum; (art) gallery
+les objets trouvés			lost property
+d'occasion			second-hand
+le panier (à provisions)	n.		(shopping) basket
+le panneau de signalisation			road sign
+le parc	n.		park, gardens
+le parking	n.		car park
+le passage souterrain			subway, underpass
+la pâtisserie	n.		cake shop
+payer	v.		to pay (for)
+payer en espèces			to pay (in) cash
+payer par chèque			to pay by cheque
+se perdre	v.		to get lost, to lose one's way
+la pharmacie	n.		chemist's (shop)
+la pièce (de monnaie)	n.		coin
+le piéton	n.		pedestrian
+la piscine	n.		swimming pool/baths
+la place	n.		(town) square
+la plate-bande	n.		flower bed
+plein de monde			crowded, busy
+la poissonnerie	n.		fish shop, fishmonger's (shop)
+le pont	n.		bridge
+la poste	n.		post office
+poster une lettre			to post a letter
+au premier étage			on the first floor
+prestigieux/prestigieuse	adj.		prestigious
+le rabais	n.		reduction; discount
+le reçu	n.		receipt
+le remboursement	n.		refund, repayment
+rencontrer	v.		to meet
+rentrer à la maison			to go/return home
+le restaurant	n.		restaurant
+le réverbère	n.		street light/lamp, lamppost
+au rez-de-chaussée			on the ground floor
+la rue	n.		street, road
+le salon de coiffure			hairdresser's, hair salon
+la sortie	n.		exit, way out
+splendide	adj.		splendid, magnificent
+le stade	n.		stadium
+la statue	n.		statue
+le supermarché	n.		supermarket
+la synagogue	n.		synagogue
+le théâtre	n.		theatre
+les toilettes	n.	f.	toilet(s)
+tourner à droite			to turn right
+tourner à gauche			to turn left
+tout neuf			brand-new
+traverser la rue			to cross the road/street
+le trottoir	n.		pavement
+trouver	v.		to find
+le tunnel	n.		tunnel
+la vitrine	n.		(shop) window
+le zoo	n.		zoo
+accéder au pouvoir			to come (in)to power, to gain power
+accepter	v.		to accept
+agresser	v.		to assault, to mug, to attack
+l'ambassade	n.	f.	embassy
+l'arme	n.	f.	weapon
+l'armée	n.		army
+l'armée de l'air			air force
+arrêter un criminel			to arrest a criminal
+assassiner	v.		to murder; to assassinate
+l'attaque	n.	f.	attack
+attaquer	v.		to attack
+le bénéfice	n.		profit, advantage, benefit
+la bombe	n.		bomb
+le bouddhisme	n.		Buddhism
+le/la bouddhiste	n.		Buddhist
+la cérémonie	n.		ceremony
+le chantage	n.		blackmail
+le chômage	n.		unemployment
+choquant(e)	adj.		shocking
+le chrétien	n.	m.	Christian (man)
+le christianisme	n.		Christianity
+civilisé(e)	adj.		civilized
+le commerce	n.		trade, commerce
+commettre un crime			to commit a crime
+la communauté	n.		community
+la condamnation			sentence, conviction
+condamner à mort			to condemn/sentence to death
+se conformer (à)	v.		to conform (to)
+conquérir	v.		to conquer
+la conquête	n.		conquest
+le contrat	n.		contract
+la corruption	n.		corruption, bribery
+coupable	adj.		guilty
+la coutume	n.		custom
+le crime	n.		crime
+croire	v.		to believe; to think
+la culture	n.		culture
+dangereux/dangereuse	adj.		dangerous
+débattre	v.		to discuss, to debate
+déclarer la guerre (à)			to declare war (on)
+la démocratie	n.		democracy
+la dette	n.		debt
+la dictature	n.		dictatorship
+discutable	adj.		debatable, questionable; doubtful
+discuté(e)	adj.		controversial
+l'économie	n.	f.	economy; economics
+économique	adj.		economic; economical
+efficace	adj.		efficient; effective
+l'élection	n.	f.	election
+élire	v.		to elect
+envahir	v.		to invade
+l'esclavage	n.	m.	slavery
+être d'accord (avec)			to agree (with)
+exploiter	v.		to exploit
+faire du bénéfice			to make a profit
+le fusil	n.		rifle, gun
+le gouvernement	n.		government
+gouverner	v.		to govern, to rule
+la grève	n.		strike, walkout
+la guerre	n.		war
+l'hindou	n.	m.	Hindu (man)
+l'hindouisme	n.	m.	Hinduism
+illégal(e)	adj.		illegal
+impartial(e)	adj.		impartial
+important(e)	adj.		important
+l'incendie criminel			arson
+l'indépendance	n.		independence
+l'industrie	n.	f.	industry
+l'inflation	n.	f.	inflation
+innocent(e)	adj.		innocent
+interdire	v.		to prohibit, to ban, to forbid
+l'invasion	n.	f.	invasion
+l'investissement	n.	m.	investment
+l'Islam	n.	m.	Islam
+le judaïsme	n.		Judaism
+le Juif	n.		Jew, Jewish man
+le jury	n.		jury
+juste	adj.		just, fair; justified
+la justice	n.		justice
+légal(e)	adj.		legal
+la liberté	n.		freedom, liberty
+la loi	n.		law
+la majorité	n.		majority
+la manifestation	n.		demonstration, rally
+la marine	n.		navy
+mettre au chômage			to make redundant, to put out of work
+se mettre en grève			to (go on) strike
+mettre en prison			to put in prison
+le meurtre	n.		murder
+la minorité	n.		minority
+la mitrailleuse	n.		machine gun
+moderne	adj.		modern
+la monarchie	n.		monarchy
+le musulman	n.		Moslem/Muslim (man)
+la nationalité	n.		nationality
+l'oppression	n.	f.	oppression
+la paix	n.		peace
+le parti	n.		(political) party
+la peine capitale			capital punishment
+pieux/pieuse	adj.		pious, devout, religious
+plaider coupable			to plead guilty
+la police	n.		police (force)
+politique	adj.		political
+la politique	n.		politics
+la population	n.		population
+le président	n.		president; chairman
+la prière	n.		prayer
+la prison	n.		prison
+privé(e)	adj.		private
+le procès	n.		trial
+protester (contre)	v.		to protest (against)
+public/publique	adj.		public
+puissant(e)	adj.		powerful
+punir	v.		to punish
+la punition	n.		punishment
+refuser	v.		to refuse; to reject
+la reine	n.		queen
+la religion	n.		religion, faith
+le représentant	n.		representative
+se révolter (contre)	v.		to rebel (against)
+le roi	n.		king
+saint(e)	adj.		holy
+la société	n.		society
+le sondage (d'opinion)	n.		(opinion) poll
+se suicider	v.		to commit suicide
+le syndicat	n.		trade union
+le taux d'intérêt			interest rate
+le témoin	n.		witness
+le terrorisme	n.		terrorism
+torturer	v.		to torture
+la tradition	n.		tradition
+la trahison	n.		treason
+tuer	v.		to kill
+l'usine	n.	f.	factory
+le vandalisme	n.		vandalism
+le verdict	n.		verdict
+le viol	n.		rape
+violer	v.		to rape; to violate
+le vol	n.		theft, robbery
+voler	v.		to steal; to rob
+voter (pour)	v.		to vote (for)
+l'acteur	n.	m.	actor
+l'actrice	n.	f.	actress
+admirer	v.		to admire
+l'adolescence	n.	f.	adolescence
+l'adresse	n.	f.	address
+l'adulte	n.	m. or f.	adult
+l'âge	n.	m.	age
+l'agent (de police)	n.	m.	policeman, police officer
+agressif/agressive	adj.		aggressive
+aimer	v.		to like; to love
+ambitieux/ambitieuse	adj.		ambitious
+l'ami	n.	m.	(male) friend
+amical(e)	adj.		friendly
+l'amie	n.	f.	(female) friend
+l'architecte	n.	m.	architect
+arrogant(e)	adj.		arrogant
+l'artiste	n.	m. or f.	artist; artiste, performer
+l'auteur	n.	m.	author, writer
+beau/belle	adj.		beautiful; handsome
+le beau-fils	n.		son-in-law; stepson
+le beau-père	n.		father-in-law; stepfather
+le bébé	n.		baby
+la belle-fille	n.		daughter-in-law; stepdaughter
+la belle-mère	n.		mother-in-law; stepmother
+bête	adj.		stupid, silly
+le/la bibliothécaire	n		librarian
+célèbre	adj.		famous
+le chanteur	n.		(male) singer
+le chauffeur de bus			bus-driver
+le chauffeur de taxi			taxi-driver
+le chirurgien	n.		surgeon
+le coiffeur	n.		(male) hairdresser
+complimenter	v.		to compliment
+le compositeur	n.		(male) composer
+le/la comptable	n.		accountant
+le conducteur de train			(male) train-driver
+connaître	v.		to know, to be acquainted with
+le cousin	n.		(male) cousin
+la cousine	n.		(female) cousin
+cruel(le)	adj.		cruel
+le cuisinier	n.		(male) cook
+le danseur	n.		(male) dancer
+la date de naissance			date of birth
+le/la dentiste	n.		dentist
+déprimé(e)	adj.		depressed
+le diplomate	n.		diplomat
+le docteur	n.		doctor
+égoïste	adj.		selfish
+l'électricien	n.	m.	(male) electrician
+l'enfance	n.	f.	childhood
+l'enfant	n.	m. or f.	child
+l'enterrement	n.	m.	funeral, burial
+envier	v.		to envy
+l'espion	n.	m.	(male) spy
+le facteur	n.		postman
+faible	adj.		weak
+la famille	n.		family
+la femme	n.		woman; wife
+le fermier	n.		(male) farmer
+fier/fière	adj.		proud
+la fille	n.		girl; daughter
+le fils	n.		son
+flatter	v.		to flatter
+le/la fonctionnaire	n.		state employee, official; civil servant
+fort(e)	adj.		strong
+le frère	n.		brother
+gai(e)	adj.		cheerful, merry
+le garçon	n.		boy
+le garçon (de café)	n.		waiter
+généreux/généreuse	adj.		generous
+gentil(le)	adj.		kind
+la grand-mère	n.		grandmother
+le grand-père	n.		grandfather
+les grands-parents	n.	m.	grandparents
+haïr	v.		to hate, to detest
+heureux/heureuse	adj.		happy
+l'homme	n.	m.	man
+l'homme d'affaires			businessman
+l'infirmier	n.	m.	(male) nurse
+l'ingénieur	n.	m.	engineer
+insulter	v.		to insult
+intelligent(e)	adj.		intelligent
+jaloux/jalouse	adj.		jealous
+le jardinier	n.		(male) gardener
+jeune	adj.		young
+le/la journaliste	n.		journalist
+le juge	n.		judge
+le jumeau	n.		(male) twin
+la jumelle	n.		(female) twin
+le juriste	n.		lawyer
+laid(e)	adj.		ugly
+le maçon	n.		builder; (stone)mason; bricklayer
+le mari	n.		husband
+le mariage	n.		marriage
+se marier (avec)	v.		to marry, to get married (to)
+le marin	n.		sailor
+le mécanicien	n.		(male) mechanic
+la ménagère	n.		housewife
+mépriser	v.		to scorn, to despise
+la mère	n.		mother
+le mineur	n.		miner
+modeste	adj.		modest
+la mort	n.		death
+mourir	v.		to die
+le musicien	n.		(male) musician
+la naissance	n.		birth
+naître	v.		to be born
+nerveux/nerveuse	adj.		nervous
+le nom	n.		name
+le nom de famille			surname, last name
+le numéro de téléphone			telephone number
+l'occupation	n.	f.	occupation
+l'oncle	n.	m.	uncle
+pardonner	v.		to forgive, to pardon
+le parent	n.		(male) relative/relation
+la parente	n.		(female) relative/relation
+les parents	n.	m.	parents; ancestors
+partager	v.		to share
+pauvre	adj.		poor
+le pêcheur	n.		fisherman
+le peintre	n.		painter
+le père	n.		father
+la personne	n.		person
+le petit ami			boyfriend
+la petite amie	n.		girlfriend
+la petite-fille	n.		granddaughter
+le petit-fils	n.		grandson
+les petits-enfants	n.	m.	grandchildren
+le/la photographe	n.		photographer
+le pilote	n.		pilot
+le plombier	n.		plumber
+le politicien	n.		(male) politician
+le pompier	n.		fireman, fire-fighter
+le prénom	n.		first name, forename
+reconnaître	v.		to recognize
+ressentir	v.		to feel
+riche	adj.		rich
+le routier	n.		lorry driver
+sage	adj.		wise
+le/la scientifique	n.		scientist
+le/la secrétaire	n.		secretary
+la serveuse	n.		waitress
+la sœur	n.		sister
+le soldat	n.		soldier
+sympathique	adj.		nice, friendly, likeable
+la tante	n.		aunt, aunty/auntie
+tomber amoureux (de)			to fall in love (with)
+triste	adj.		sad
+la vedette de cinéma			film star
+le vendeur	n.		(male) shop/sales assistant
+la vie	n.		life
+vieux/vieille	adj.		old
+vivre	v.		to live
+l'abeille	n.	f.	bee
+s'accoupler	v.		to mate
+l'aigle	n.	m.	eagle
+l'air	n.	m.	air
+l'âne	n.	m.	donkey, ass
+l'animal	n.	m.	animal
+apprivoisé(e)	adj.		tame
+l'araignée	n.	f.	spider
+l'arbre	n.	m.	tree
+l'arc-en-ciel	n.	m.	rainbow
+l'atmosphère	n.	f.	atmosphere
+l'avalanche	n.	f.	avalanche
+l'averse	n.	f.	shower
+la baie	n.		bay
+le bois	n.		wood(s)
+le bourgeon	n.		bud
+la branche	n.		branch
+briller	v.		to shine
+la brise	n.		breeze
+le brouillard	n.		fog, mist
+la bruine	n.		drizzle
+brûler	v.		to burn
+le buisson	n.		bush
+le cafard	n.		cockroach
+le chat	n.		cat
+la chauve-souris	n.		bat
+le cheval	n.		horse
+le chien	n.		dog
+la chute (d'eau)	n.		waterfall
+le ciel	n.		sky
+le climat	n.		climate
+le cochon	n.		pig
+la colline	n.		hill
+la congère	n.		snowdrift
+la constellation	n.		constellation
+le continent	n.		continent
+la côte	n.		coast
+couler	v.		to flow
+couvert(e)	adj.		overcast, cloudy
+le crocodile	n.		crocodile
+le désert	n.		desert
+l'eau	n.	f.	water
+l'éclaircie	n.	f.	bright interval, sunny spell
+l'éléphant	n.	m.	elephant
+l'épine	n.	f.	thorn
+éroder	v.		to erode
+l'escargot	n.	m.	snail
+l'espace	n.	m.	space
+l'étang	n.	m.	pond
+l'étoile	n.	f.	star
+il fait chaud			it's hot/warm
+il fait du brouillard			it's foggy
+il fait du soleil			it's sunny
+il fait du vent			it's windy
+il fait froid			it's cold
+fertile	adj.		fertile
+le feu	n.		fire
+la feuille	n.		leaf
+la fleur	n.		flower
+fleurir	v.		to flower; to blossom
+la forêt	n.		forest
+la foudre	n.		lightning
+la fourmi	n.		ant
+la galaxie	n.		galaxy
+le gel	n.		frost
+la glace	n.		ice
+la graine	n.		seed
+la grêle	n.		hail
+la guêpe	n.		wasp
+l'herbe	n.	f.	grass
+le hibou	n.		owl
+humide	adj.		damp; moist; humid
+l'île	n.	f.	island
+l'inondation	n.	f.	flood
+l'insecte	n.	m.	insect
+la jungle	n.		jungle
+le lac	n.		lake
+le lapin	n.		rabbit
+le lion	n.		lion
+le loup	n.		wolf
+la lune	n.		moon
+le marais	n.		marsh, swamp
+la marée	n.		tide
+la mer	n.		sea
+la montagne	n.		mountain(s)
+mort(e)	adj.		dead
+mouillé(e)	adj.		wet
+le moustique	n.		mosquito
+le mouton	n.		sheep
+la nature	n.		nature
+naturel(le)	adj.		natural
+la neige	n.		snow
+il neige			it's snowing
+le nuage	n.		cloud
+l'océan	n.	m.	ocean
+l'oiseau	n.	m.	bird
+l'orage	n.	m.	(thunder)storm
+orbiter	v.		to orbit
+l'ouragan	n.	m.	hurricane
+l'ours	n.	m.	bear
+la pierre	n.		stone
+la planète	n.		planet
+la plante	n.		plant
+il pleut			it's raining
+la pluie	n.		rain
+pluvieux/pluvieuse	adj.		rainy, wet
+le poisson	n.		fish
+le poulet	n.		chicken
+pourrir	v.		to rot
+le pré	n.		meadow
+prendre feu			to catch fire
+profond(e)	adj.		deep
+la racine	n.		root
+le renard	n.		fox
+se reproduire	v.		to reproduce, to breed
+la rive	n.		shore, (river)bank
+la rivière	n.		river
+la roche	n.		rock
+le ruisseau	n.		stream, brook
+le sable	n.		sand
+sauvage	adj.		wild
+sec/sèche	adj.		dry
+le serpent	n.		snake
+le soleil	n.		sun
+souffler	v.		to blow
+la souris	n.		mouse
+le temps	n.		weather
+la terre	n.		earth, land, soil, ground
+la tige	n.		stem, stalk
+le tigre	n.		tiger
+le tonnerre	n.		thunder
+le tremblement de terre			earthquake
+le tronc (d'arbre)	n.		(tree) trunk
+l'univers	n.	m.	universe
+la vache	n.		cow
+la vague	n.		wave
+la vallée	n.		valley
+la végétation	n.		vegetation
+le vent	n.		wind
+le ver	n.		worm
+vivant(e)	adj.		living, alive
+le volcan	n.		volcano
+l'activité	n.	f.	activity
+agréable	adj.		pleasant, nice
+l'alpinisme	n.	m.	climbing, mountaineering
+s'amuser	v.		to amuse oneself, to play; to enjoy oneself, to have fun
+applaudir	v.		to applaud, to clap
+les applaudissements	n.	m.	applause, clapping
+l'arbitre	n.	m.	referee
+arriver le premier			to come/finish first
+l'art	n.	m.	art
+l'as	n.	m.	ace
+l'as de pique			ace of spades
+l'athlétisme	n.	m.	athletics
+le ballet	n.		ballet
+le ballon (de football)	n.		(foot)ball
+le basket-ball	n.		basketball
+la batterie	n.		drums, drum kit
+le billard	n.		billiards, pool
+la boxe	n.		boxing
+les cartes (à jouer)	n.	f.	(playing) cards
+la chanson	n.		song
+chanter	v.		to sing
+le chapitre	n.		chapter
+la clarinette	n.		clarinet
+la comédie	n.		comedy
+le concert	n.		concert
+le coup d'envoi			kick-off
+la course	n.		race; running
+la course automobile			motor racing
+le cricket	n.		cricket
+la dame de cœur			queen of hearts
+danser	v.		to dance
+désagréable	adj.		unpleasant
+le dessin	n.		drawing
+dessiner	v.		to draw
+le documentaire	n.		documentary
+drôle	adj.		funny, amusing; strange, peculiar
+les échecs	n.	m.	chess
+écouter	v.		to listen (to)
+effrayant(e)	adj.		frightening
+l'émission	n.	f.	transmission, broadcast, (television) programme
+émouvant(e)	adj.		moving, touching
+l'entracte	n.	m.	interval
+épuisant(e)	adj.		exhausting
+l'équipe	n.	f.	team
+l'esquisse	n.	f.	sketch
+l'exposition	n.	f.	exhibition
+faire de la voile			to go sailing, to sail
+faire du ski			to go skiing, to ski
+favori(te)	adj.		favourite
+le feuilleton (télévisé)	n.		(television) series/serial
+le film	n.		film, movie
+le film d'épouvante			horror film/movie
+la flûte	n.		flute
+le football	n.		football
+formidable	adj.		great, excellent, fantastic, brilliant
+gagner	v.		to win
+le golf	n.		golf
+la guitare	n.		guitar
+la gymnastique	n.		gymnastics
+le hautbois	n.		oboe
+improviser	v.		to improvise
+l'instrument (de musique)	n.		(musical) instrument
+le jazz	n.		jazz
+le jeu	n.		game
+le jeu vidéo			computer game, video game
+jouer	v.		to play; to perform
+jouer à l'oreille			to play by ear
+jouer au football			to play football
+jouer au tennis			to play tennis
+jouer aux cartes			to play cards
+jouer aux échecs			to play chess
+jouer de la guitare			to play the guitar
+jouer du piano			to play the piano
+le journal	n.		newspaper; magazine
+lire	v.		to read
+la littérature	n.		literature
+le livre	n.		book
+les loisirs	n.	m.	leisure (activities), spare time (activities)
+marquer un but			to score a goal
+le match	n.		match
+le match nul			draw, tie
+la mi-temps	n.	inv.	half-time
+les mots croisés			crossword
+la musique classique			classical music
+la natation	n.		swimming
+les nouvelles	n.	f.	news
+l'opéra	n.	m.	opera
+passer le ballon			to pass the ball
+le passe-temps	n.	inv.	pastime, hobby
+passionnant(e)	adj.		fascinating; exciting, gripping
+le patinage	n.		skating
+peindre	v.		to paint
+la peinture	n.		painting
+perdre	v.		to lose
+la performance	n.		performance
+le piano	n.		piano
+la pièce (de théâtre)	n.		(stage) play
+le pinceau	n.		(paint)brush
+le ping-pong	n.		table tennis
+le poème	n.		poem
+la poésie	n.		poetry
+le pop	n.	inv.	pop (music)
+populaire	adj.		popular
+le portrait	n.		portrait
+la raquette	n.		racket/racquet, bat
+regarder	v.		to look (at), to watch
+la répétition	n.		rehearsal
+le roi de trèfle			king of clubs
+le roman	n.		novel
+le score	n.		score
+la sculpture	n.		sculpture
+sentimental(e)	adj.		sentimental
+le ski	n.		skiing; ski
+le spectacle	n.		show
+les spectateurs	n.	m.	audience; spectators
+le sport	n.		sport
+les sports d'équipe			team sports
+le supporter	n.		supporter, fan
+le tambour	n.		drum
+le tennis	n.		tennis
+le titre	n.		title
+la toile	n.		canvas; painting
+le tour de cartes			card trick
+le tournoi	n.		tournament
+la tragédie	n.		tragedy
+tricher	v.		to cheat
+la trompette	n.		trumpet
+le valet de carreau			jack of diamonds
+le violon	n.		violin
+le violoncelle	n.		cello
+la voile	n.		sailing; sail
+à la maison			(at) home
+allumer	v.		to light; to turn/switch on
+l'appartement	n.	m.	flat, apartment
+l'armoire	n.	f.	(tall) cupboard, wardrobe
+l'aspirateur	n.	m.	vacuum cleaner, hoover
+s'asseoir	v.		to sit (down)
+le balai	n.		broom, brush
+balayer	v.		to sweep (up)
+le balcon	n.		balcony
+la bibliothèque	n.		bookcase
+la bouilloire	n.		kettle
+la brosse	n.		brush
+le buffet	n.		sideboard
+le bureau	n.		desk; study
+le canapé	n.		settee, sofa
+la chaise	n.		chair
+la chambre	n.		bedroom
+le chauffage central			central heating
+la cheminée	n.		chimney; fireplace, hearth
+clair(e)	adj.		light, bright
+la clé	n.		key
+la commode	n.		chest of drawers
+confortable	adj.		comfortable
+le congélateur	n.		freezer
+construire	v.		to build, to construct
+se coucher	v.		to go to bed, to lie down
+le coussin	n.		cushion
+la couverture	n.		blanket
+la cuisine	n.		kitchen
+la cuisinière	n.		cooker
+dedans			inside, indoors
+dehors			outside, outdoors
+le dentifrice	n.		toothpaste
+la douche	n.		shower
+le drap	n.		sheet
+en bas			downstairs
+en haut			upstairs
+l'encaustique	n.	f.	polish, wax
+s'endormir	v.		to go to sleep; to fall asleep
+l'escalier	n.	m.	staircase, stairs
+essuyer	v.		to wipe
+l'étage	n.	m.	floor, storey
+éteindre	v.		to turn/switch off
+étendre le linge			to hang out/up the washing/laundry
+l'évier	n.	m.	(kitchen) sink
+faire la lessive			to do the washing/laundry
+le fauteuil	n.		armchair
+la fenêtre	n.		window
+le fer (à repasser)	n.		iron
+fermer	v.		to close, to shut
+le four	n.		oven
+le four à micro-ondes			microwave (oven)
+le frigidaire	n.		refrigerator, fridge
+le garage	n.		garage
+le grenier	n.		attic; loft
+humide	adj.		damp; moist; humid
+le jardin	n.		garden
+le lavabo	n.		washbasin, (bathroom) sink
+se laver	v.		to wash (oneself), to have a wash
+se laver les dents			to clean/brush one's teeth
+la lavette	n.		cloth
+le lave-vaisselle	n.	inv.	dishwasher
+se lever	v.		to get up, to rise
+la machine à laver			washing machine
+le magnétophone	n.		tape recorder, cassette recorder/player
+le magnétoscope	n.		video (cassette) recorder, video
+la maison	n.		house
+les meubles	n.	m.	furniture
+le miroir	n.		mirror
+moderne	adj.		modern
+le mur	n.		wall
+nettoyer	v.		to clean
+l'oreiller	n.	m.	pillow
+ouvrir	v.		to open
+ouvrir les rideaux			to open/draw the curtains
+le papier peint			wallpaper
+se peigner	v.		to comb one's hair
+la pelouse	n.		lawn
+la pièce	n.		room
+le placard	n.		cupboard
+le plafond	n.		ceiling
+le portail	n.		gate
+la porte	n.		door
+le poste de télévision			television (set)
+la poubelle	n.		(rubbish) bin, dustbin
+la poussière	n.		dust
+poussiéreux/poussiéreuse	adj.		dusty
+prendre un bain			to have/take a bath
+prendre une douche			to have/take a shower
+la prise (de courant)	n.		(electric) socket, power point
+propre	adj.		clean; neat, tidy
+le radiateur	n.		radiator
+la radio	n.		radio
+ranger	v.		to tidy
+le rayon	n.		shelf
+rénover	v.		to renovate, to do up
+réparer	v.		to repair
+repasser	v.		to iron
+se réveiller	v.		to wake up
+le rideau	n.		curtain
+sale	adj.		dirty
+la saleté	n.		dirtiness; dirt, filth
+la salle à manger			dining room
+la salle de bains			bathroom
+le salon	n.		living/sitting room, lounge
+le savon	n.		soap; bar of soap
+le seau	n.		bucket
+sec/sèche	adj.		dry
+la serrure	n.		lock
+la serviette (de toilette)	n.		towel
+le shampooing	n.		shampoo
+le sol	n.		floor, ground
+sombre	adj.		dark, gloomy
+spacieux/spacieuse	adj.		spacious, roomy
+le store	n.		blind
+la table	n.		table
+le tableau	n.		picture, painting
+le tabouret	n.		stool
+le tapis	n.		carpet
+le téléphone	n.		telephone
+tirer les rideaux			to close/draw the curtains
+le tiroir	n.		drawer
+le toit	n.		roof
+le vase	n.		vase
+le volet	n.		shutter
+l'accident	n.	m.	accident
+aigu(ë)	adj.		acute, sharp
+l'aine	n.	f.	groin
+l'ambulance	n.	f.	ambulance
+l'antibiotique	n.	m.	antibiotic
+l'antidépresseur	n.	m.	antidepressant
+l'antiseptique	n.	m.	antiseptic
+arrêter de fumer			to give up smoking, to stop/quit smoking
+l'asthme	n.	m.	asthma
+avoir mal à la tête			to have a headache
+avoir mal au ventre			to have (a) stomach ache
+avoir mal aux dents			to have (a) toothache
+le bandage	n.		bandage
+le battement de cœur			heartbeat
+bénin/bénigne	adj.		minor, mild; benign
+la béquille	n.		crutch
+la blessure	n.		wound, injury
+le bleu	n.		bruise
+en bonne forme			fit, in good shape
+en bonne santé			healthy, in good health
+la bouche	n.		mouth
+le bouton	n.		spot, pimple
+le bras	n.		arm
+le calmant	n.		tranquilliser, sedative; painkiller
+le cancer	n.		cancer
+se casser la jambe			to break one's leg
+le cerveau	n.		brain
+la chair	n.		flesh
+les cheveux	n.	m.	hair
+la cheville	n.		ankle
+la chirurgie	n.		surgery
+le cil	n.		eyelash
+le cœur	n.		heart
+la colonne vertébrale			spine, spinal column
+le comprimé	n.		tablet
+consoler	v.		to console, to comfort
+le corps	n.		body
+le cou	n.		neck
+le coude	n.		elbow
+le crâne	n.		skull
+la cuisse	n.		thigh
+la dent	n.		tooth
+le diabète	n.		diabetes
+le diagnostic	n.		diagnosis
+le doigt	n.		finger
+le dos	n.		back
+la dose	n.		dose
+la douleur	n.		pain; grief, distress
+douloureux/douloureuse	adj.		painful
+la drogue	n.		drug(s), narcotic(s)
+l'écharpe	n.	f.	sling
+l'effet secondaire			side effect
+efficace	adj.		effective
+s'enrhumer	v.		to catch/get a cold
+enroué(e)	adj.		hoarse
+l'épaule	n.	f.	shoulder
+l'épidémie	n.	f.	epidemic
+l'estomac	n.	m.	stomach
+s'évanouir	v.		to faint
+le fauteuil roulant			wheelchair
+le foie	n.		liver
+fragile	adj.		frail; fragile, delicate
+le front	n.		forehead, brow
+fumer	v.		to smoke
+le furoncle	n.		boil
+le genou	n.		knee
+la gorge	n.		throat
+grave	adj.		serious
+la grippe	n.		flu, influenza
+le gros orteil	n.		big toe
+la hanche	n.		hip
+incurable	adj.		incurable
+infectieux/infectieuse	adj.		infectious
+l'injection	n.	f.	injection
+la jambe	n.		leg
+la joue	n.		cheek
+la langue	n.		tongue
+la lèvre	n.		lip
+la mâchoire	n.		jaw
+la main	n.		hand
+le/la malade	n.		sick person, invalid; patient
+malade	adj.		ill, sick, poorly
+la maladie	n.		illness, sickness; disease
+le médicament	n.		medicine, drug
+le membre	n.		limb
+le menton	n.		chin
+mourir	v.		to die
+les moustaches	n.	f.	moustache
+le muscle	n.		muscle
+le nez	n.		nose
+la nutrition	n.		nutrition
+l'œil	n.	m.	eye
+l'ongle	n.	m.	(finger/toe)nail
+l'opération	n.	f.	operation
+l'ordonnance	n.	f.	prescription
+l'oreille	n.	f.	ear
+l'orteil	n.	m.	toe
+l'os	n.	m.	bone
+pâle	adj.		pale
+le pansement	n.		dressing, bandage
+le pansement adhésif			(sticking) plaster
+la peau	n.		skin
+le pénis	n.		penis
+le pied	n.		foot
+la pilule	n.		pill
+pleurer	v.		to cry
+le plombage	n.		filling
+le poignet	n.		wrist
+le poison	n.		poison
+la poitrine	n.		chest
+le pouce	n.		thumb
+le pouls	n.		pulse
+le poumon	n.		lung
+prendre de l'exercice			to (take) exercise, to do/get some exercise
+prendre la pilule			to be on the pill
+le préservatif	n.		condom
+le rein	n.		kidney
+le remède	n.		medicine; remedy, cure
+se reposer	v.		to rest
+respirer	v.		to breathe
+se rétablir	v.		to recover, to recuperate
+le rhume	n.		cold
+sain(e)	adj.		healthy, wholesome
+le sang	n.		blood
+la santé	n.		health
+les seins	n.	m.	breasts
+la seringue	n.		syringe
+le somnifère	n.		sleeping pill/tablet
+souffrir	v.		to suffer
+le sourcil	n.		eyebrow
+le squelette	n.		skeleton
+la sueur	n.		sweat
+survivre	v.		to survive
+la taille	n.		waist
+le talon	n.		heel
+la tempe	n.		temple
+la tension	n.		blood pressure
+la tête	n.		head
+le thermomètre	n.		thermometer
+tomber malade			to fall/become ill
+le traitement	n.		treatment
+la tumeur	n.		growth, tumour
+l'ulcère	n.	m.	ulcer
+le vagin	n.		vagina
+le ventre	n.		belly, tummy, stomach
+la vessie	n.		bladder
+vigoureux/vigoureuse	adj.		strong, robust; vigorous
+le visage	n.		face
+les yeux	n.	m.	eyes
+l'abricot	n.	m.	apricot
+l'addition	n.	f.	bill (in restaurant)
+l'agneau	n.	m.	lamb
+aigre	adj.		sour
+l'ail	n.	m.	garlic
+amer/amère	adj.		bitter
+l'ananas	n.	m.	pineapple
+l'assiette	n.	f.	plate
+l'aubergine	n.	f.	aubergine
+avoir faim			to be hungry
+avoir soif			to be thirsty
+la banane	n.		banana
+la betterave	n.		beetroot
+le beurre	n.		butter
+bien cuit			well done, well cooked
+la bière	n.		beer
+le bifteck	n.		(beef)steak
+le blé	n.		wheat
+le bœuf	n.		beef
+boire	v.		to drink
+la boisson	n.		drink
+la boîte (de conserve)	n.		tin, can
+le bol	n.		bowl
+bouillant(e)	adj.		boiling (hot)
+bouillir	v.		to boil
+le brocoli	n.		broccoli
+le café	n.		coffee
+la carotte	n.		carrot
+la carte	n.		(printed) menu
+la casserole	n.		(sauce)pan
+le cassis	n.		blackcurrant
+le céleri (en branches)	n.		celery
+la cerise	n.		cherry
+le champignon	n.		mushroom
+chaud(e)	adj.		warm, hot
+le chocolat	n.		chocolate
+le chou	n.		cabbage
+le chou-fleur	n.		cauliflower
+le cidre	n.		cider
+le citron	n.		lemon
+le concombre	n.		cucumber
+la confiture	n.		jam
+congelé(e)	adj.		frozen
+le couteau	n.		knife
+la crème	n.		cream
+cru(e)	adj.		raw
+la cuillère	n.		spoon
+débarrasser la table			to clear the table
+le déjeuner	n.		lunch
+déjeuner	v.		to (have) lunch; to (have) breakfast
+délicieux/délicieuse	adj.		delicious
+le dessert	n.		dessert
+le dîner	n.		dinner, supper
+dîner	v.		to have dinner/supper, to dine
+l'entrée	n.	f.	starter, first course
+l'épice	n.	f.	spice
+épicé(e)	adj.		spicy
+les épinards	n.	m.	spinach
+faire de la pâtisserie			to bake (cakes), to do some baking
+faire la cuisine			to cook, to do the cooking
+faire la vaisselle			to wash up, to do the washing-up/dishes
+la farine	n.		flour
+la fourchette	n.		fork
+la fraise	n.		strawberry
+frais/fraîche	adj.		fresh; cool, chilled
+la framboise	n.		raspberry
+frire	v.		to fry
+froid(e)	adj.		cold
+le fromage	n.		cheese
+le fruit	n.		fruit
+les fruits de mer			seafood(s)
+le gâteau	n.		cake
+la graisse	n.		fat
+le haricot	n.		bean
+l'huile	n.	f.	oil
+le jambon	n.		ham
+le jus	n.		juice
+le lait	n.		milk
+le légume	n.		vegetable
+la limonade	n.		lemonade
+le maïs	n.		maize, sweetcorn
+manger	v.		to eat
+le melon	n.		melon
+le melon d'eau			watermelon
+mettre la table			to set/lay the table
+le miel	n.		honey
+la moutarde	n.		mustard
+la mûre	n.		blackberry
+la nourriture	n.		food
+l'œuf	n.	m.	egg
+l'oignon	n.	m.	onion
+l'orange	n.	f.	orange
+le pain	n.		bread; loaf (of bread)
+le pamplemousse	n.		grapefruit
+la pêche	n.		peach
+le petit déjeuner			breakfast
+la petite cuillère			teaspoon
+le plat	n.		dish
+la poêle	n.		frying pan
+la poire	n.		pear
+le poireau	n.		leek
+le pois	n.		pea
+le poisson	n.		fish
+le poivre	n.		(ground) pepper
+le poivron	n.		pepper (vegetable)
+la pomme	n.		apple
+la pomme de terre			potato
+le porc	n.		pork
+le poulet	n.		chicken
+pourri(e)	adj.		rotten
+la prune	n.		plum
+le raisin	n.		grape
+le raisin sec			raisin
+rassis(e)	adj.		stale
+le riz	n.		rice
+rôtir	v.		to roast
+la salade	n.		salad; lettuce
+salé(e)	adj.		salty
+le sandwich	n.		sandwich
+la sauce	n.		sauce
+la saucisse	n.		sausage
+le sel	n.		salt
+sentir bon			to smell good
+la soucoupe	n.		saucer
+la soupe	n.		soup
+le sucre	n.		sugar
+sucré(e)	adj.		sweet
+la tarte	n.		tart
+la tasse	n.		cup
+tendre	adj.		tender
+le thé	n.		tea
+la tomate	n.		tomato
+trop cuit			overdone, overcooked
+le verre	n.		glass, tumbler
+verser	v.		to pour
+la viande	n.		meat
+le vin	n.		wine
+le vinaigre	n.		vinegar
+apprendre	v.		to learn
+apprendre par cœur			to learn by heart
+l'art	n.	m.	art
+l'athlétisme	n.	m.	athletics
+attentif/attentive	adj.		attentive
+avoir raison			to be right
+avoir tort			to be wrong
+barrer	v.		to cross out
+la biologie	n.		biology
+le bulletin (scolaire)	n.		(school) report
+le cahier	n.		exercise book, notebook
+le certificat	n.		certificate
+la chimie	n.		chemistry
+compliqué(e)	adj.		complicated
+comprendre	v.		to understand
+copier	v.		to copy
+correct(e)	adj.		correct, right
+la cour de récréation			(school) playground, schoolyard
+les cours du soir			evening classes, night school
+le cours par correspondance			correspondence course
+la craie	n.		chalk
+le crayon	n.		pencil
+créatif/créative	adj.		creative
+demander	v.		to ask; to request, to ask for
+les deux-points	n.	m.	colon
+les devoirs	n.	m.	homework
+la dictée	n.		dictation
+le dictionnaire	n.		dictionary
+difficile	adj.		difficult
+le diplôme	n.		degree, diploma
+le directeur	n.		(male) headteacher, headmaster
+la dissertation	n.		essay
+donner le bon exemple			to set a good example
+doué(e)	adj.		gifted, talented
+échouer à un examen			to fail an exam
+l'école	n.	f.	school
+l'école maternelle			nursery school, kindergarten
+l'écolier	n.	m.	schoolboy
+l'écolière	n.	f.	schoolgirl
+l'économie politique			economics
+écrire	v.		to write
+l'éducation	n.	f.	education
+l'éducation physique			physical education, PE
+effacer	v.		to rub out, to erase
+l'élève	n.	m. or f.	pupil
+l'emploi du temps			timetable
+ennuyeux/ennuyeuse	adj.		boring
+enseigner	v.		to teach
+enthousiaste	adj.		enthusiastic
+l'erreur	n.	f.	mistake, error
+l'étudiant	n.	m.	(male) student
+l'examen	n.	m.	exam
+l'examen d'entrée			entrance exam
+l'exemple	n.	m.	example
+l'exercice	n.	m.	exercise
+facile	adj.		easy
+la géographie	n.		geography
+la gomme	n.		rubber, eraser
+la grammaire	n.		grammar
+l'histoire	n.	f.	history; story
+incorrect(e)	adj.		incorrect, wrong
+l'informatique	n.	f.	computer science, information technology
+l'instruction religieuse			religious education
+intéressant(e)	adj.		interesting
+la leçon	n.		lesson
+lire	v.		to read
+la littérature	n.		literature
+le livre	n.		book
+les mathématiques	n.	f.	mathematics, maths
+la matière	n.		(school) subject
+méchant(e)	adj.		nasty, spiteful, mean; bad, naughty
+montrer	v.		to show
+la musique	n.		music
+la natation	n.		swimming
+la note	n.		mark, grade
+obéissant(e)	adj.		obedient
+l'ordinateur	n.	m.	computer
+oublier	v.		to forget
+la page	n.		page
+le paragraphe	n.		paragraph
+paresseux/paresseuse	adj.		lazy
+passer un examen			to take/sit an exam
+la philosophie	n.		philosophy
+la phrase	n.		sentence
+la physique	n.		physics
+le point	n.		full stop; point; dot
+le point d'exclamation			exclamation mark
+le point d'interrogation			question mark
+le point-virgule	n.		semicolon
+la ponctuation	n.		punctuation
+poser une question			to ask a question
+le professeur	n.		teacher, lecturer
+le programme (d'études)	n.		syllabus; curriculum
+la psychologie	n.		psychology
+la qualification	n.		qualification
+la question	n.		question
+quitter l'école			to leave school
+se rappeler	v.		to recall, to remember
+la récréation	n.		break; recreation
+la règle	n.		ruler
+répéter	v.		to repeat
+répondre	v.		to answer, to reply, to respond
+la réponse	n.		answer, reply, response
+le résultat	n.		result
+réussir à un examen			to pass an exam
+sage	adj.		wise; good, well-behaved
+la salle de classe			classroom
+savoir	v.		to know
+la science	n.		science
+les sciences politiques			(study of) politics, political science
+simple	adj.		simple
+la sociologie	n.		sociology
+souligner	v.		to underline
+le stylo	n.		pen
+suivre un cours			to take/attend a course
+le tableau noir			blackboard
+le terrain de sport			playing field, sports ground
+la théologie	n.		theology
+travailleur/travailleuse	adj.		hard-working, industrious
+l'université	n.	f.	university
+la virgule	n.		comma
+l'aiguille	n.	f.	needle
+l'anneau	n.	m.	ring
+en argent			silver, (made) of silver
+argenté(e)	adj.		silver (in colour), silvery
+attrayant(e)	adj.		attractive
+le bas	n.		stocking
+les bijoux	n.	m.	jewellery, jewels
+blanc/blanche	adj.		white
+bleu(e)	adj.		blue
+la botte	n.		boot
+la boucle d'oreille			earring
+le bouton	n.		button
+boutonner	v.		to button (up), to do up
+le bracelet	n.		bracelet
+brillant(e)	adj.		shiny; bright
+brun(e)	adj.		brown
+le caleçon	n.		(pair of) underpants
+la ceinture	n.		belt
+le chapeau	n.		hat
+la chaussette	n.		sock
+la chaussure	n.		shoe
+la chemise	n.		shirt
+la chemise de nuit			nightdress, nightie
+le chemisier	n.		blouse
+le col	n.		collar
+le collant	n.		(pair of) tights
+le collier	n.		necklace
+confortable	adj.		comfortable
+le costume	n.		(man's) suit
+le coton	n.		cotton
+coudre	v.		to sew
+la couleur	n.		colour
+court(e)	adj.		short
+la cravate	n.		tie
+le cuir	n.		leather
+la culotte (de femme)	n.		(pair of) knickers
+déboutonner	v.		to unbutton, to undo
+déchirer	v.		to tear, to rip
+déguenillé(e)	adj.		ragged, tattered
+dénouer	v.		to undo, to untie
+se déshabiller	v.		to undress (oneself), to get undressed
+doré(e)	adj.		gold (in colour), golden
+la doublure	n.		lining
+doux/douce	adj.		soft
+l'écharpe	n.	f.	scarf
+élégant(e)	adj.		elegant
+enlever	v.		to take off, to remove
+épais(se)	adj.		thick
+l'épingle	n.	f.	pin
+étroit(e)	adj.		tight(-fitting)
+la fermeture éclair			zip
+le fil	n.		thread
+la fourrure	n.		fur
+le gant	n.		glove
+le gilet	n.		waistcoat
+gris(e)	adj.		grey
+s'habiller	v.		to dress (oneself), to get dressed
+l'imperméable	n.	m.	raincoat, waterproof (coat)
+jaune	adj.		yellow
+le jean	n.		(pair of) jeans
+la jupe	n.		skirt
+le lacet	n.		(shoe)lace
+la laine	n.		wool
+la lanière	n.		strap
+lisse	adj.		smooth
+long(ue)	adj.		long
+les lunettes	n.	f.	glasses, spectacles
+les lunettes de soleil			sunglasses
+la machine à coudre			sewing machine
+le maillot de bain			swimming/bathing costume, swimming trunks
+la manche	n.		sleeve
+le manteau	n.		coat
+le maquillage	n.		make-up
+à la mode			fashionable, in fashion
+la montre	n.		watch
+le mouchoir	n.		handkerchief
+noir(e)	adj.		black
+nouer	v.		to knot, to tie
+nu(e)	adj.		naked, bare, nude
+le nylon	n.		nylon
+en or			gold, (made) of gold
+orange	adj.	inv.	orange
+le pantalon	n.		(pair of) trousers
+la pantoufle	n.		slipper
+le parapluie	n.		umbrella
+le parfum	n.		perfume, scent
+la poche	n.		pocket
+le portefeuille	n.		wallet
+le porte-monnaie	n.	inv.	purse
+le pyjama	n.		(pair of) pyjamas
+réparer	v.		to repair, to mend
+la robe	n.		(woman's) dress; robe, gown
+rose	adj.		pink
+rouge	adj.		red
+le rouge (à lèvres)	n.		lipstick
+rugueux/rugueuse	adj.		rough, coarse
+le sac à main			handbag
+la sandale	n.		sandal
+le short	n.		(pair of) shorts
+la soie	n.		silk
+les sous-vêtements	n.	m.	underwear, underclothes
+le soutien-gorge	n.		bra
+la tache	n.		stain, mark, spot
+le tee-shirt	n.		T-shirt/tee-shirt
+teindre	v.		to dye
+le tissu	n.		fabric, material, cloth
+le tricot	n.		jumper, pullover, sweater
+le tricot de corps			vest
+l'uniforme	n.	m.	uniform
+user	v.		to wear out
+vague	adj.		loose(-fitting)
+le velours	n.		velvet
+vert(e)	adj.		green
+la veste	n.		jacket
+les vêtements	n.	m.	clothes, clothing
+violet(te)	adj.		purple, violet
+le voile	n.		veil

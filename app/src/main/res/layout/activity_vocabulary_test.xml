@@ -1,0 +1,196 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.sera.android.simplevocabularytrainer.VocabularyTestActivity"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/mycolors_app_background">
+
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/lblQuestion"
+        style="@style/Base.TextAppearance.AppCompat.Title"
+        android:textColor="@color/mycolors_text"
+        android:gravity="center_horizontal"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/abc_action_bar_content_inset_material"
+        android:layout_gravity="center_vertical">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/strTranslation"
+            android:id="@+id/lblAnswer"
+            android:textStyle="bold"
+            android:textColor="@color/mycolors_text"
+            android:layout_weight="1"
+            style="@style/Base.TextAppearance.AppCompat.Title"
+            android:layout_gravity="center_vertical" />
+        <!--android:padding="@dimen/abc_action_bar_default_padding_start_material"-->
+
+        <!--EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/etAnswer"
+            android:layout_weight="1" /-->
+        <AutoCompleteTextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/etAnswer"
+            android:layout_weight="2"
+            android:lines="1"
+            android:maxLines="1"
+            android:textColor="@color/mycolors_text"
+            android:background="@drawable/my_editview"
+            android:gravity="center_vertical"
+            android:layout_gravity="center_vertical" />
+
+        <Button
+            style="@style/myapp_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/str_ok"
+            android:id="@+id/btnOK"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            />
+        <!--android:padding="@dimen/abc_action_bar_default_padding_material"-->
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="@string/str_part_of_speech"
+            android:id="@+id/lblPartOfSpeech"
+            android:textStyle="bold"
+            android:textColor="@color/mycolors_text"
+            style="@style/Base.TextAppearance.AppCompat.Title" />
+        <!--android:padding="@dimen/abc_action_bar_default_padding_material"-->
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:id="@+id/tvPartOfSpeech"
+            android:layout_weight="1"
+            android:text="@string/str_empty"
+            android:textColor="@color/mycolors_text"
+            style="@style/Base.TextAppearance.AppCompat.Title" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView2" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:visibility="visible"
+        android:id="@+id/answerLayout">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/str_correct_answer"
+            android:id="@+id/lblCorrectAnswer"
+            android:paddingRight="10dp"
+            android:textStyle="bold"
+            android:textColor="@color/mycolors_text"
+            style="@style/Base.TextAppearance.AppCompat.Title"
+            android:layout_weight="1" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="New Text"
+            android:id="@+id/tvCorrectAnswer"
+            android:layout_weight="2"
+            android:textStyle="bold"
+            android:textColor="@color/mycolors_text"
+            style="@style/Base.TextAppearance.AppCompat.Title" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/buttonsLayout">
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:text="@string/str_next"
+            android:id="@+id/btnNext"
+            style="@style/myapp_button"
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:text="@string/str_edit_word"
+            android:id="@+id/btnEdit"
+            style="@style/myapp_button"
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:text="@string/str_end"
+            android:id="@+id/btnEnd"
+            style="@style/myapp_button"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="New Text"
+            android:id="@+id/tvStatus"
+            android:gravity="center_horizontal"
+            android:textStyle="bold"
+            android:textColor="@color/mycolors_text"
+            android:paddingTop="@dimen/abc_action_bar_content_inset_material" />
+    </LinearLayout>
+    <com.google.android.gms.ads.AdView android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        ads:adUnitId="@string/banner_ad_unit_id"
+        ads:adSize="SMART_BANNER"
+        android:layout_gravity="bottom|center_horizontal" />
+
+</LinearLayout>
+
+

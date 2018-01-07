@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_text_size_title_material">14sp</dimen>
+    <!-- Tamaño de letra en la lista de diccionarios -->
+    <dimen name="lista_diccionarios">10sp</dimen>
+</resources>

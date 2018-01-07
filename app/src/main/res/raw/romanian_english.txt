@@ -1,0 +1,75 @@
+alb	adj.		white
+albastru	adj.		blue
+asculta	v.		to listen (to)
+auzi	v.		to hear
+avion (avioane)	n.	nt.	(aero)plane
+barcă (bărci)	n.	f.	boat
+bea	v.		to drink
+bicicletă (biciclete)	n.	f.	bicycle, bike
+bun	adj.		good
+câine (câini)	n.	m.	dog
+cald	adj.		warm, hot
+cânta	v.		to sing
+carte (cărţi)	n.	f.	book
+casă (case)	n.	f.	house
+cer (ceruri)	n.	nt.	sky
+citi (citesc)	v.		to read
+creion (creioane)	n.	nt.	pencil
+da	v.		to give
+dansa (dansez)	v.		to dance
+deschide	v.		to open
+dificil	adj.		difficult
+fereastră (ferestre)	n.	f.	window
+fericit	adj.		happy
+fiică (fiice)	n.	f.	daughter
+fiu (fii)	n.	m.	son
+frate (fraţi)	n.	m.	brother
+galben	adj.		yellow
+gros	adj.		thick, fat
+hârtie (hârtii)	n.	f.	paper
+începe	v.		to begin, to start
+încet	adj.		slow
+închide	v.		to close, to shut
+înţelege	v.		to understand
+iubi (iubesc)	v.		to love
+se juca (joc)	v.		to play
+lua	v.		to take
+lună (luni)	n.	f.	moon; month
+lung	adj.		long
+mamă (mame)	n.	f.	mother
+mânca	v.		to eat
+mare	adj.		large, big
+mare (mări)	n.	f.	sea
+masă (mese)	n.	f.	table; meal
+maşină (maşini)	n.	f.	car
+mic	adj.		small, little
+munci (muncesc)	v.		to work
+muri	v.		to die
+negru	adj.		black
+pisică (pisici)	n.	f.	cat
+privi (privesc)	v.		to look (at), to watch
+rău	adj.		bad
+râu (râuri)	n.	nt.	river
+rece	adj.		cold, cool
+repede	adj.		quick, fast
+roşu	adj.		red
+scară (scări)	n.	f.	staircase, (flight of) stairs
+scaun (scaune)	n.	nt.	chair
+şcoală (şcoli)	n.	f.	school
+scrie	v.		to write
+scurt	adj.		short
+soare (sori)	n.	m.	sun
+soră (surori)	n.	f.	sister
+stilou (stilouri)	n.	nt.	pen
+subţire	adj.		thin
+tată (taţi)	n.	m.	father
+termina	v.		to finish, to end
+trăi (trăiesc)	v.		to live
+tren (trenuri)	n.	nt.	train
+trist	adj.		sad
+urî	v.		to hate
+uşă (uşi)	n.	f.	door
+uşor	adj.		easy
+vedea	v.		to see
+verde	adj.		green
+vorbi (vorbesc)	v.		to speak, to talk

@@ -1,0 +1,1485 @@
+akut	adj.		acute
+die Allergie (-n)	n.		allergy
+ansteckend	adj.		infectious
+der Arm (-e)	n.		arm
+das Asthma	n.		asthma
+atmen	v.		to breathe
+das Auge (-n)	n.		eye
+die Augenbraue (-n)	n.		eyebrow
+sich ausruhen	v.		to rest
+der Ausschlag (Ausschläge)	n.		rash
+der Bauch (Bäuche)	n.		belly, abdomen
+die Behandlung (-en)	n.		treatment
+sich das Bein brechen			to break one's leg
+das Bein (-e)	n.		leg
+die Blase (-n)	n.		bladder; blister
+blass	adj.		pale; weak, faint
+das Blut	n.		blood
+der Blutdruck (Blutdrücke)	n.		blood pressure
+die Brust (Brüste)	n.		breast; chest
+die Chirurgie	n.		surgery
+chronisch	adj.		chronic
+der Daumen (-)	n.		thumb
+die Diagnose (-n)	n.		diagnosis
+die Dosis (Dosen)	n.		dose
+die Droge (-n)	n.		drug
+der Ellenbogen (-)	n.		elbow
+die Epidemie (-n)	n.		epidemic
+sich erholen	v.		to recover, to recuperate, to get better
+sich erkälten	v.		to catch/get a cold
+die Erkältung (-en)	n.		cold
+die Ernährung	n.		nutrition
+die Ferse (-n)	n.		heel
+der Finger (-)	n.		finger
+sich fit halten			to keep fit
+das Fleisch	n.		flesh
+der/das Furunkel (-)	n.		boil
+der Fuß (Füße)	n.		foot
+das Geschlechtsorgan (-e)	n.		sex(ual) organ
+das Gesicht (-er)	n.		face
+gesund	adj.		healthy
+die Gesundheit	n.		health
+das Gift (-e)	n.		poison
+die Grippe	n.		flu, influenza
+der Hals (Hälse)	n.		throat
+die Hand (Hände)	n.		hand
+das Handgelenk (-e)	n.		wrist
+die Haut (Häute)	n.		skin
+das Heilmittel (-)	n.		remedy, cure
+heiser	adj.		hoarse
+das Herz (-en)	n.		heart
+der Herzschlag (Herzschläge)	n.		heartbeat
+die Hüfte (-n)	n.		hip
+ich fühle mich nicht wohl			I don't feel (very) well
+die Impfung (-en)	n.		vaccination
+der Kiefer (-)	n.		jaw
+das Kinn (-e)	n.		chin
+das Knie (-)	n.		knee
+der Knöchel (-)	n.		knuckle; ankle
+der Knochen (-)	n.		bone
+der/das Kondom (-e)	n.		condom
+der Kopf (Köpfe)	n.		head
+Kopfschmerzen haben			to have a headache
+der Körper (-)	n.		body
+kräftig	adj.		strong; healthy
+krank	adj.		ill, unwell, sick
+krank werden			to fall/become ill, to be taken ill
+der Krankenwagen (-)	n.		ambulance
+die Krankheit (-en)	n.		illness, sickness, disease
+die Krücke (-n)	n.		crutch
+leben	v.		to live
+die Leber (-n)	n.		liver
+leicht	adj.		mild, light, slight
+leiden (an +dat.)	v.		to suffer (from)
+die Lippe (-n)	n.		lip
+die Lunge (-n)	n.		lung
+der Magen (-/Mägen)	n.		stomach
+Magenschmerzen haben			to have (a) stomach/tummy ache
+die Medizin (-en)	n.		medicine
+der Mund (Münder)	n.		mouth
+der Muskel (-n)	n.		muscle
+der Nagel (Nägel)	n.		(finger/toe)nail
+die Narbe (-n)	n.		scar
+die Nase (-n)	n.		nose
+die Nebenwirkung (-en)	n.		side effect
+die Niere (-n)	n.		kidney
+der Oberschenkel (-)	n.		thigh
+das Ohr (-en)	n.		ear
+die Operation (-en)	n.		operation
+der Patient (-en)	n.		(male) patient
+das Pflaster (-)	n.		(sticking) plaster
+der Pickel (-)	n.		spot, pimple
+die Plombe (-n)	n.		filling
+der Puls (-e)	n.		pulse
+rauchen	v.		to smoke
+das Rauchen aufgeben			to give up smoking, to stop/quit smoking
+das Rezept (-e)	n.		prescription
+der Rollstuhl (Rollstühle)	n.		wheelchair
+der Rücken (-)	n.		back
+Rückenschmerzen haben			to have (a) backache
+der Schädel (-)	n.		skull
+die Schläfe (-n)	n.		temple
+die Schlinge (-n)	n.		sling
+der Schmerz (-en)	n.		pain
+schmerzhaft	adj.		painful
+das Schmerzmittel (-)	n.		painkiller
+der Schnitt (-e)	n.		cut
+der Schnurrbart (Schnurrbärte)	n.		moustache
+die Schulter (-n)	n.		shoulder
+schwach	adj.		weak
+der Schweiß	n.		sweat
+die schwere Krankheit			serious illness
+das Skelett (-e)	n.		skeleton
+die Spritze (-n)	n.		syringe; injection
+sterben	v.		to die
+die Stirn (-en)	n.		forehead, brow
+die Tablette (-n)	n.		tablet, pill
+eine Tablette nehmen			to take a tablet/pill
+die Taille (-n)	n.		waist
+der Termin (-e)	n.		appointment
+das Thermometer (-)	n.		thermometer
+trösten	v.		to comfort, to console
+überleben	v.		to survive
+der Unfall (Unfälle)	n.		accident
+unheilbar	adj.		incurable
+der Verband (Verbände)	n.		bandage
+das Verhütungsmittel (-)	n.		contraceptive
+die Verletzung (-en)	n.		injury
+die Verstopfung (-en)	n.		constipation
+die Wange (-n)	n.		cheek
+weinen	v.		to cry, to weep
+die Wimper (-n)	n.		eyelash
+die Wirbelsäule (-n)	n.		spinal column, spine
+wirksam	adj.		effective
+wohl	adj.		well
+der Zahn (Zähne)	n.		tooth
+Zahnschmerzen haben			to have (a) toothache
+die Zehe (-n)	n.		toe
+die Zuckerkrankheit	n.		diabetes
+die Zunge (-n)	n.		tongue
+abfahren	v.		to depart, to leave
+(das) Afrika	n.		Africa
+(das) Ägypten	n.		Egypt
+ankommen	v.		to arrive
+der Äquator	n.		equator
+(das) Asien	n.		Asia
+der Atlantische Ozean			Atlantic Ocean
+der Ausflug (Ausflüge)	n.		excursion, outing
+ins Ausland gehen			to go abroad
+der Ausländer (-)	n.		(male) foreigner
+auspacken	v.		to unpack
+(das) Australien	n.		Australia
+australisch	adj.		Australian
+das Auto (-s)	n.		car
+die Autobahn (-en)	n.		motorway
+der Bahnhof (Bahnhöfe)	n.		(railway/train) station
+(das) Belgien	n.		Belgium
+belgisch	adj.		Belgian
+das Benzin (-e)	n.		petrol
+bleiben	v.		to stay
+brasilianisch	adj.		Brazilian
+(das) Brasilien	n.		Brazil
+braun werden			to get a (sun)tan
+britisch	adj.		British
+der Bus (-se)	n.		bus
+die Bushaltestelle (-n)	n.		bus stop
+der Campingplatz (Campingplätze)	n.		campsite
+(das) China	n.		China
+chinesisch	adj.		Chinese
+(das) Dänemark	n.		Denmark
+dänisch	adj.		Danish
+deutsch	adj.		German
+Deutsch sprechen			to speak German
+(das) Deutschland	n.		Germany
+die Devisen	n.	pl.	foreign currency
+das Dorf (Dörfer)	n.		village
+einpacken	v.		to pack
+die Eisenbahn (-en)	n.		railway
+(das) England	n.		England
+englisch	adj.		English
+erforschen	v.		to explore
+(das) Europa	n.		Europe
+exotisch	adj.		exotic
+die Fahrkarte (-n)	n.		ticket
+das Fahrrad (Fahrräder)	n.		bicycle, bike
+der Flughafen (Flughäfen)	n.		airport
+das Flugzeug (-e)	n.		(aero)plane
+(das) Frankreich	n.		France
+französisch	adj.		French
+fremd	adj.		strange; foreign
+das Gebiet (-e)	n.		area, region, district
+das Gepäck	n.		luggage, baggage
+die Grenze (-n)	n.		border
+(das) Griechenland	n.		Greece
+griechisch	adj.		Greek
+der Hafen (Häfen)	n.		harbour, port
+Heimweh haben			to be/feel homesick
+(das) Holland	n.		Holland
+das Hotel (-s)	n.		hotel
+(das) Indien	n.		India
+indisch	adj.		Indian
+der Indische Ozean			Indian Ocean
+irisch	adj.		Irish
+(das) Irland	n.		Ireland
+(das) Italien	n.		Italy
+italienisch	adj.		Italian
+(das) Japan	n.		Japan
+japanisch	adj.		Japanese
+die Jugendherberge (-n)	n.		youth hostel
+(das) Kanada	n.		Canada
+kanadisch	adj.		Canadian
+der Koffer (-)	n.		suitcase
+das Land (Länder)	n.		land; country; state
+landen	v.		to land
+langsam	adj.		slow
+leicht	adj.		light
+mexikanisch	adj.		Mexican
+(das) Mexiko	n.		Mexico
+das Mittelmeer	n.		Mediterranean (Sea)
+das Motorrad (Motorräder)	n.		motorcycle, motorbike
+(das) Neuseeland	n.		New Zealand
+die Niederlande	n.	pl.	(the) Netherlands
+(das) Nordamerika	n.		North America
+nordamerikanisch	adj.		North American
+der Norden	n.		(the) north
+der Nordpol	n.		North Pole
+das Nordpolarmeer	n.		Arctic Ocean
+die Nordsee	n.		North Sea
+(das) Norwegen	n.		Norway
+norwegisch	adj.		Norwegian
+der Osten	n.		(the) east
+(das) Österreich	n.		Austria
+österreichisch	adj.		Austrian
+die Ostsee	n.		Baltic (Sea)
+der Pass (Pässe)	n.		passport; pass
+der Pazifische Ozean			Pacific Ocean
+(das) Polen	n.		Poland
+polnisch	adj.		Polish
+(das) Portugal	n.		Portugal
+portugiesisch	adj.		Portuguese
+die Postkarte (-n)	n.		postcard
+die Reise (-n)	n.		journey
+reisen	v.		to travel
+die Richtung (-en)	n.		direction
+der Roller (-)	n.		scooter
+der Rucksack (Rucksäcke)	n.		rucksack, backpack
+russisch	adj.		Russian
+(das) Russland	n.		Russia
+das Schiff (-e)	n.		ship
+schnell	adj.		fast, quick, rapid
+schottisch	adj.		Scottish
+(das) Schottland	n.		Scotland
+das Schwarze Meer			Black Sea
+(das) Schweden	n.		Sweden
+schwedisch	adj.		Swedish
+die Schweiz	n.		Switzerland
+schweizerisch	adj.		Swiss
+schwer	adj.		heavy
+die Schwimmweste (-n)	n.		life jacket
+seekrank	adj.		seasick
+die Sehenswürdigkeiten sehen			to see the sights
+sich sonnen	v.		to sunbathe
+(einen) Sonnenbrand bekommen			to get (sun)burnt
+(das) Spanien	n.		Spain
+spanisch	adj.		Spanish
+die Sprache (-n)	n.		language
+die Stadt (Städte)	n.		town, city
+der Stadtplan (Stadtpläne)	n.		street map/plan
+der Strand (Strände)	n.		beach; shore
+die Straßenbahn (-en)	n.		tram
+(das) Südamerika	n.		South America
+südamerikanisch	adj.		South American
+der Süden	n.		(the) south
+der Südpol	n.		South Pole
+das Südpolarmeer	n.		Antarctic Ocean
+die Tankstelle (-n)	n.		petrol station
+das Taxi (-/-s)	n.		taxi
+die Tour (-en)	n.		tour; trip
+der Tourismus	n.		tourism
+tropisch	adj.		tropical
+die Türkei	n.		Turkey
+türkisch	adj.		Turkish
+ungarisch	adj.		Hungarian
+(das) Ungarn	n.		Hungary
+verbringen	v.		to spend (time)
+das Vereinigte Königreich			(the) United Kingdom
+die Vereinigten Staaten		pl.	(the) United States
+verstehen	v.		to understand
+das Visum (Visa/Visen)	n.		visa
+(das) Wales	n.		Wales
+walisisch	adj.		Welsh
+weit entfernt			far away, remote
+die Welt (-en)	n.		world
+der Westen	n.		(the) west
+das Zelt (-e)	n.		tent
+zelten	v.		to camp
+ein Zimmer reservieren			to reserve a room
+der Zoll (Zölle)	n.		customs; duty
+aus dem Zug aussteigen			to get off the train
+in den Zug einsteigen			to get on the train, to board the train
+der Zug (Züge)	n.		train
+zu Abend essen			to have dinner/supper
+das Abendessen	n.		dinner, supper, evening meal
+die Ananas (-/-se)	n.		pineapple
+der Apfel (Äpfel)	n.		apple
+der Apfelwein (-e)	n.		cider
+die Aprikose (-n)	n.		apricot
+die Aubergine (-n)	n.		aubergine
+die Banane (-n)	n.		banana
+der Becher (-)	n.		cup, mug, tumbler, beaker
+das Bier (-e)	n.		beer
+die Birne (-n)	n.		pear
+bitter	adj.		bitter
+der Blumenkohl (-e)	n.		cauliflower
+die Bohne (-n)	n.		bean
+braten	v.		to fry; to bake, to roast
+die Brombeere (-n)	n.		blackberry
+das Brot (-e)	n.		bread; loaf (of bread)
+die Butter	n.		butter
+das Butterbrot (-e)	n.		(piece of) bread and butter, (open) sandwich
+der Champignon (-s)	n.		(button) mushroom
+die Dose (-n)	n.		tin, can; box
+Durst haben			to be thirsty
+das Ei (-er)	n.		egg
+die Erbse (-n)	n.		pea
+die Erdbeere (-n)	n.		strawberry
+essen	v.		to eat
+das Essen (-)	n.		food; meal
+der Essig	n.		vinegar
+das Fett (-e)	n.		fat
+der Fisch (-e)	n.		fish
+eine Flasche Wein bestellen			to order a bottle of wine
+das Fleisch	n.		meat, flesh
+frisch	adj.		fresh
+die Frucht (Früchte)			(piece of) fruit
+das Frühstück (-e)	n.		breakfast
+frühstücken	v.		to (have) breakfast
+die Gabel (-n)	n.		fork
+das Gemüse	n.		vegetables
+das Geschirr spülen			to wash up, to do the washing-up/dishes
+das Getränk (-e)	n.		drink, beverage
+das Gewürz (-e)	n.		spice, seasoning, condiment
+das Glas (Gläser)	n.		glass; jar
+ein gutes Essen			a good/nice meal
+das Hähnchen (-)	n.		chicken
+das Hauptgericht (-e)	n.		main course
+das Heißgetränk (-e)	n.		hot drink
+die Himbeere (-n)	n.		raspberry
+der Honig	n.		honey
+Hunger haben			to be hungry
+der Kaffee	n.		coffee
+die Kartoffel (-n)	n.		potato
+der Käse	n.		cheese
+der Keks (-e)	n.		biscuit
+die Kirsche (-n)	n.		cherry
+der Knoblauch	n.		garlic
+kochen	v.		to boil, to cook
+der Kohl (-e)	n.		cabbage
+das Kraut (Kräuter)	n.		herb; cabbage
+der Krug (Krüge)	n.		jug; (beer-)mug, tankard
+der Kuchen (-)	n.		cake
+einen Kuchen backen			to bake a cake
+das Lammfleisch	n.		lamb
+der Lauch (-e)	n.		leek
+die Limonade (-n)	n.		lemonade
+der Löffel (-)	n.		spoon
+der Mais	n.		maize, sweetcorn
+das Mehl	n.		flour
+die Melone (-n)	n.		melon
+das Messer (-)	n.		knife
+die Milch	n.		milk
+zu Mittag essen			to (have) lunch
+das Mittagessen (-)	n.		lunch, midday meal
+die Nachspeise (-n)	n.		dessert
+die Nuss (Nüsse)	n.		nut
+das Öl (-e)	n.		oil
+die Paprika (-s)	n.		paprika; pepper (vegetable)
+die Pfanne (-n)	n.		frying pan
+der Pfeffer	n.		(ground) pepper
+der Pfirsich (-e)	n.		peach
+die Pflaume (-n)	n.		plum
+die Rechnung (-n)	n.		bill (in restaurant)
+der Reis	n.		rice
+riechen	v.		to smell
+das Rindfleisch	n.		beef
+roh	adj.		raw
+die Rosine (-n)	n.		raisin
+der Saft (Säfte)	n.		juice
+die Sahne	n.		cream
+der Salat (-e)	n.		lettuce; salad
+das Salz (-e)	n.		salt
+salzig	adj.		salty
+satt sein			to be full (up), to have had enough (to eat)
+sauer	adj.		sour, sharp; pickled
+scharf	adj.		hot, spicy; sharp
+der Schinken (-)	n.		ham
+die Schokolade (-n)	n.		chocolate; hot/drinking chocolate
+die Schüssel (-n)	n.		bowl, basin; dish
+die schwarze Johannisbeere			blackcurrant
+das Schweinefleisch	n.		pork
+der Senf	n.		mustard
+die Soße (-n)	n.		sauce; dressing
+der Spargel (-)	n.		asparagus
+die Speisekarte (-n)	n.		(printed) menu
+der Spinat	n.		spinach
+das Steak (-s)	n.		steak
+die Suppe (-n)	n.		soup
+süß	adj.		sweet
+die Tasse (-n)	n.		cup
+der Tee	n.		tea
+der Teller (-)	n.		plate
+den Tisch abräumen			to clear the table
+den Tisch decken			to set/lay the table
+ein Tisch für zwei Personen			(a) table for two
+die Tomate (-n)	n.		tomato
+der Topf (Töpfe)	n.		(sauce)pan, (cooking-)pot
+die Traube (-n)	n.		grape
+trinken	v.		to drink
+die Untertasse (-n)	n.		saucer
+die Vorspeise (-n)	n.		starter, hors d'oeuvre
+der Wein (-e)	n.		wine
+die Weinkarte (-n)	n.		wine list
+der Weizen	n.		wheat
+die Wurst (Würste)	n.		(large/slicing) sausage
+zart	adj.		tender, soft
+die Zitrone (-n)	n.		lemon
+der Zucker	n.		sugar
+die Zwiebel (-n)	n.		onion
+der Absatz (Absätze)	n.		paragraph
+abschreiben	v.		to copy
+die Antwort (-en)	n.		answer, reply
+antworten	v.		to answer
+artig	adj.		good, well-behaved
+aufmerksam	adj.		attentive, observant
+die Aufnahmeprüfung (-en)	n.		entrance exam
+der Aufsatz (Aufsätze)	n.		essay
+die Ausbildung (-en)	n.		training, instruction; education
+das Ausrufezeichen (-e)	n.		exclamation mark
+ausstreichen	v.		to cross out, to delete
+begabt	adj.		gifted
+begeistert	adj.		enthusiastic; keen, eager
+das Beispiel (-e)	n.		example
+die Biologie	n.		biology
+der Bleistift (-e)	n.		pencil
+die Chemie	n.		chemistry
+der Computer (-)	n.		computer
+das Diktat (-e)	n.		dictation
+der Direktor (-en)	n.		(male) headteacher, headmaster
+der Doppelpunkt (-e)	n.		colon
+der Dozent (-en)	n.		(male) lecturer
+einfach	adj.		simple
+die Erdkunde	n.		geography
+sich erinnern (an +acc.)	v.		to remember
+die Erziehung	n.		upbringing; education
+das Fach (Fächer)	n.		(school) subject; field
+falsch	adj.		incorrect, wrong; false
+faul	adj.		lazy
+der Fehler (-)	n.		mistake
+der Fernkurs (-e)	n.		correspondence course
+fleißig	adj.		hard-working, industrious, diligent
+die Forschung (-en)	n.		research
+die Frage (-n)	n.		question
+eine Frage stellen			to ask a question
+fragen	v.		to ask
+das Fragezeichen (-e)	n.		question mark
+die Fremdsprache (-n)	n.		foreign language
+gebildet	adj.		educated
+gehorsam	adj.		obedient
+genau	adj.		exact, precise, accurate
+die Geschichte (-n)	n.		history
+die Grammatik (-en)	n.		grammar
+mit gutem Beispiel vorangehen			to set a good example
+die Hausaufgabe (-n)	n.		(piece of) homework
+das Heft (-e)	n.		exercise book
+der Hochschulabschluss (Hochschulabschlüsse)	n.		degree
+der Hochschulabsolvent (-e)	n.		(male) graduate
+die Informatik	n.		computer science, information technology
+interessant	adj.		interesting
+der Kindergarten (Kindergärten)	n.		nursery school, kindergarten
+das Klassenzimmer (-)	n.		classroom
+das Komma (-s/-ta)	n.		comma
+kompliziert	adj.		complicated
+kreativ	adj.		creative
+die Kreide (-n)	n.		chalk
+der Kugelschreiber (-)	n.		(ball-point) pen
+die Kunst (Künste)	n.		art; skill
+einen Kurs(us) besuchen			to go on a course, to take/attend a course
+langweilig	adj.		boring
+das Lehrbuch (Lehrbücher)	n.		textbook
+der Lehrer (-)	n.		(male) teacher
+der Lehrplan (Lehrpläne)	n.		syllabus, curriculum
+lernen	v.		to learn
+lesen	v.		to read
+das Lineal (-e)	n.		ruler
+die Literatur	n.		literature
+die Lösung (-en)	n.		solution, answer
+die Mathematik	n.		mathematics, maths
+die Mittagspause (-n)	n.		lunch break
+die Musik	n.		music
+die Note (-n)	n.		mark, grade
+die Philosophie (-n)	n.		philosophy
+die Phrase (-n)	n.		phrase
+die Physik	n.		physics
+die Politik	n.		politics
+eine Prüfung bestehen			to pass an exam
+die Prüfung (-en)	n.		exam, test
+eine Prüfung machen			to sit/take an exam
+eine Prüfung nicht bestehen			to fail an exam
+das Prüfungsergebnis (-se)	n.		exam result
+die Psychologie	n.		psychology
+der Punkt (-e)	n.		full stop; point; dot
+die Qualifikation (-en)	n.		qualification
+der Radiergummi (-s)	n.		rubber, eraser
+Recht haben			to be right
+der Religionsunterricht	n.		religious studies/education/instruction
+richtig	adj.		right, correct
+der Satz (Sätze)	n.		sentence
+schreiben	v.		to write
+die Schule (-n)	n.		school
+die Schule verlassen			to leave school
+der Schüler (-)	n.		(male) pupil, schoolboy
+der Schulhof (Schulhöfe)	n.		(school) playground, schoolyard
+schwer	adj.		difficult, hard
+die Seite (-n)	n.		page; side
+die Soziologie	n.		sociology
+der Sportplatz (Sportplätze)	n.		playing field, sports ground
+der Student (-e)	n.		(male) student
+studieren	v.		to study
+das Studium (Studien)	n.		study, studies
+die Stunde (-n)	n.		lesson, class; hour
+der Stundenplan (Stundenpläne)	n.		(school) timetable
+der Taschenrechner (-)	n.		(pocket) calculator
+das Thema (Themen)	n.		theme, topic, subject
+die Theologie	n.		theology
+die Übung (-en)	n.		practice; exercise
+unaufmerksam	adj.		inattentive, unobservant
+ungehorsam	adj.		disobedient
+ungenau	adj.		inexact, imprecise, inaccurate
+die Universität (-en)	n.		university
+Unrecht haben			to be wrong
+unterrichten	v.		to teach, to instruct
+unterstreichen	v.		to underline
+vergessen	v.		to forget
+verstehen	v.		to understand
+die Wandtafel (-n)	n.		blackboard
+wiederholen	v.		to repeat
+die Wirtschaftswissenschaft (-en)	n.		economics
+wissen	v.		to know
+die Wissenschaft (-en)	n.		science
+das Wörterbuch (Wörterbücher)	n.		dictionary
+die Zeichensetzung	n.		punctuation
+zeigen	v.		to show
+das Zeugnis (-se)	n.		certificate; (school) report
+der Adler (-)	n.		eagle
+die Ameise (-n)	n.		ant
+der Ast (Äste)	n.		branch
+die Atmosphäre (-n)	n.		atmosphere
+der Bach (Bäche)	n.		stream, brook
+der Bär (-en)	n.		bear
+der Baum (Bäume)	n.		tree
+der Berg (-e)	n.		mountain
+bewölkt	adj.		cloudy, overcast
+die Biene (-n)	n.		bee
+das Blatt (Blätter)	n.		leaf
+der Blitz (-e)	n.		(flash of) lightning
+blühen	v.		to flower, to bloom
+die Blume (-n)	n.		flower
+brennen	v.		to burn, to be on fire
+die Brise (-n)	n.		breeze
+die Bucht (-en)	n.		bay
+der Donner (-)	n.		thunder
+der Dorn (-en)	n.		thorn
+das Eis (-)	n.		ice
+der Elefant (-en)	n.		elephant
+das Erdbeben (-)	n.		earthquake
+die Erde (-n)	n.		earth, soil
+der Esel (-)	n.		donkey
+die Eule (-n)	n.		owl
+feucht	adj.		damp, moist; humid
+das Feuer (-)	n.		fire
+Feuer fangen			to catch fire
+der Fisch (-e)	n.		fish
+flach	adj.		flat; shallow
+die Fledermaus (Fledermäuse)	n.		bat
+fließen	v.		to flow
+der Fluss (Flüsse)	n.		river
+der Frost (Fröste)	n.		frost
+fruchtbar	adj.		fruitful; fertile
+der Fuchs (Füchse)	n.		fox
+die Gezeiten	n.	pl.	tides
+das Gras (Gräser)	n.		grass
+der Hagel (-s)	n.		hail
+der Himmel (-)	n.		sky
+der Hügel (-)	n.		hill
+das Huhn (Hühner)	n.		hen; chicken
+der Hund (-e)	n.		dog
+das Insekt (-en)	n.		insect
+die Insel (-n)	n.		island
+es ist kalt			it's cold
+das Kaninchen (-)	n.		rabbit
+die Katze (-n)	n.		cat
+das Klima (-s/-te)	n.		climate
+die Knospe (-n)	n.		bud
+der Kontinent (-e)	n.		continent
+das Krokodil (-e)	n.		crocodile
+die Küchenschabe (-n)	n.		cockroach
+die Kuh (Kühe)	n.		cow
+die Küste (-n)	n.		coast, shore
+die Lawine (-n)	n.		avalanche
+lebend	adj.		alive, living
+der Löwe (-n)	n.		lion
+die Luft (Lüfte)	n.		air
+die Maus (Mäuse)	n.		mouse
+der Mond (-e)	n.		moon
+nass	adj.		wet
+die Natur (-en)	n.		nature
+natürlich	adj.		natural
+der Nebel (-)	n.		fog, mist
+es ist neblig			it's foggy/misty
+der Nieselregen (-)	n.		drizzle
+der Orkan (-e)	n.		hurricane
+der Ozean (-e)	n.		ocean
+sich paaren	v.		to mate
+das Pferd (-e)	n.		horse
+die Pflanze (-n)	n.		plant
+der Planet (-en)	n.		planet
+der Regen (-)	n.		rain
+der Regenbogen (-)	n.		rainbow
+es regnet			it's raining
+der Sand (-e)	n.		sand
+das Schaf (-e)	n.		sheep
+der Schauer (-)	n.		shower
+scheinen	v.		to shine
+die Schlange (-n)	n.		snake
+der Schmetterling (-e)	n.		butterfly
+die Schnecke (-n)	n.		snail
+der Schnee (-s)	n.		snow
+der Schneesturm (Schneestürme)	n.		snowstorm, blizzard
+die Schneewehe (-n)	n.		snowdrift
+es schneit			it's snowing
+das Schwein (-e)	n.		pig
+der See (-n)	n.		lake
+die Sonne (-n)	n.		sun
+das Sonnensystem (-e)	n.		solar system
+es ist sonnig			it's sunny
+die Spinne (-n)	n.		spider
+die Stechmücke (-n)	n.		mosquito, midge, gnat
+der Stein (-e)	n.		stone
+der Stern (-e)	n.		star
+das Sternbild (-er)	n.		constellation
+der Stiel (-e)	n.		stalk, stem
+der Strauch (Sträucher)	n.		shrub, bush
+der Sturm (Stürme)	n.		storm
+der Sumpf (Sümpfe)	n.		marsh, swamp, bog
+das Tal (Täler)	n.		valley
+der Teich (-e)	n.		pond, pool
+tief	adj.		deep
+das Tier (-e)	n.		animal; beast
+der Tiger (-)	n.		tiger
+tot	adj.		dead
+trocken	adj.		dry
+die Überschwemmung (-en)	n.		flood
+das Ufer (-)	n.		shore, (river)bank
+umkreisen	v.		to circle; to orbit
+das Universum	n.		universe
+die Vegetation (-en)	n.		vegetation
+vermehren	v.		to increase, to multiply; to breed
+verrotten	v.		to rot, to decay
+der Vogel (Vögel)	n.		bird
+der Vulkan (-e)	n.		volcano
+der Wald (Wälder)	n.		wood(s), forest
+es ist warm			it's hot/warm
+das Wasser (-)	n.		water
+der Wasserfall (Wasserfälle)	n.		waterfall
+die Welle (-n)	n.		wave
+die Welt (-en)	n.		world
+der Weltraum	n.		(outer) space
+die Wespe (-n)	n.		wasp
+das Wetter (-s)	n.		weather
+die Wiese (-n)	n.		meadow
+wild	adj.		wild
+der Wind (-e)	n.		wind
+es ist windig			it's windy
+der Wolf (Wölfe)	n.		wolf
+die Wolke (-n)	n.		cloud
+der Wurm (Würmer)	n.		worm
+die Wurzel (-n)	n.		root
+die Wüste (-n)	n.		desert
+zahm	adj.		tame
+die Adresse (-n)	n.		address
+aggressiv	adj.		aggressive
+alt	adj.		old
+das Alter (-)	n.		age
+der Architekt (-en)	n.		(male) architect
+arm	adj.		poor
+der Arzt (Ärzte)	n.		(male) doctor
+aufwachsen	v.		to grow up
+das Baby (-s)	n.		baby
+der Bauarbeiter (-)	n.		(male) builder
+der Bauer (-n)	n.		(male) farmer
+die Beerdigung (-en)	n.		funeral, burial
+beleidigen	v.		to insult
+beneiden	v.		to envy
+der Beruf (-e)	n.		occupation, profession
+berühmt	adj.		famous
+bescheiden	adj.		modest
+bewundern	v.		to admire
+der Bibliothekar (-e)	n.		(male) librarian
+böse	adj.		evil
+boshaft	adj.		malicious, spiteful
+der Briefträger (-)	n.		postman
+der Bruder (Brüder)	n.		brother
+der Buchhalter (-)	n.		(male) bookkeeper/accountant
+der Busfahrer (-)	n.		(male) bus driver
+der Chirurg (-en)	n.		(male) surgeon
+der Cousin (-s)	n.		(male) cousin
+die Cousine (-n)	n.		(female) cousin
+die Dame (-n)	n.		lady
+deprimiert	adj.		depressed
+der Diplomat (-en)	n.		(male) diplomat
+dumm	adj.		stupid, foolish
+egoistisch	adj.		selfish
+die Ehe (-n)	n.		marriage, matrimony
+ehrgeizig	adj.		ambitious
+ehrlich	adj.		honest
+eifersüchtig	adj.		jealous
+der Elektriker (-)	n.		(male) electrician
+die Eltern	n.	pl.	parents
+der Enkel (-)	n.		grandchild; grandson
+die Enkelin (-nen)	n.		granddaughter
+erkennen	v.		to recognise
+die Familie (-n)	n.		family
+faul	adj.		lazy
+der Feuerwehrmann (Feuerwehrmänner)	n.		fireman, fire-fighter
+der Filmstar (-s)	n.		film star
+der Fischer (-)	n.		fisherman
+der Fotograf (-en)	n.		(male) photographer
+die Frau (-en)	n.		woman; wife
+der Freund (-e)	n.		(male) friend; boyfriend
+die Freundin (-nen)	n.		(female) friend; girlfriend
+freundlich	adj.		friendly
+der Friseur (-e)	n.		(male) hairdresser
+der Gärtner (-)	n.		(male) gardener
+geboren werden			to be born
+die Geburt (-en)	n.		birth
+das Geburtsdatum (Geburtsdaten)	n.		date of birth
+die Geschäftsfrau (-en)	n.		businesswoman
+der Geschäftsmann (Geschäftsmänner)	n.		businessman
+geschieden	adj.		divorced; separated
+gierig	adj.		greedy
+glücklich	adj.		happy
+grausam	adj.		cruel
+die Großeltern	n.	pl.	grandparents
+die Großmutter (Großmütter)	n.		grandmother
+der Großvater (Großväter)	n.		grandfather
+großzügig	adj.		generous
+hassen	v.		to hate, to detest
+hässlich	adj.		ugly; nasty
+die Hausfrau (-en)	n.		housewife
+heiraten	v.		to get married, to marry
+die Hochzeit (-en)	n.		wedding, marriage
+intelligent	adj.		intelligent
+der Journalist (-en)	n.		(male) journalist
+jung	adj.		young
+der Junge (-n)	n.		boy
+der Kellner (-)	n.		waiter
+kennen	v.		to know, to be acquainted with
+das Kind (-er)	n.		child
+die Kindheit (-en)	n.		childhood
+der Klempner (-)	n.		(male) plumber
+der Koch (Köche)	n.		(male) cook
+der Komponist (-en)	n.		(male) composer
+die Krankenschwester (-n)	n.		(female) nurse
+der Künstler (-)	n.		(male) artist
+der Lastwagenfahrer (-)	n.		(male) lorry driver
+das Leben (-)	n.		life
+lieben	v.		to love
+lustig	adj.		funny; happy, cheerful
+das Mädchen (-)	n.		girl
+der Maler (-)	n.		painter
+der Mann (Männer)	n.		man; husband
+der Mechaniker (-)	n.		(male) mechanic
+mitfühlen (mit +dat.)	v.		to sympathize (with)
+der Musiker (-)	n.		(male) musician
+die Mutter (Mütter)	n.		mother
+der Nachname (-n)	n.		surname, last name
+nervös	adj.		nervous
+nett	adj.		nice
+der Onkel (-)	n.		uncle
+die Person (-en)	n.		person
+der Pilot (-en)	n.		(male) pilot
+der Politiker (-)	n.		(male) politician
+der Polizist (-en)	n.		policeman
+reich	adj.		rich
+der Richter (-)	n.		(male) judge
+der Sänger (-)	n.		(male) singer
+der Schauspieler (-)	n.		actor
+die Schauspielerin (-nen)	n.		actress
+schmeicheln (+dat.)	v.		to flatter
+schön	adj.		beautiful, lovely; handsome; nice
+der Schriftsteller (-)	n.		(male) writer/author
+schüchtern	adj.		shy, timid
+schwach	adj.		weak
+die Schwester (-n)	n.		sister
+die Schwiegermutter (Schwiegermütter)	n.		mother-in-law
+der Schwiegersohn (Schwiegersöhne)	n.		son-in-law
+die Schwiegertochter (Schwiegertöchter)	n.		daughter-in-law
+der Schwiegervater (Schwiegerväter)	n.		father-in-law
+der Sekretär (-e)	n.		(male) secretary
+der Sohn (Söhne)	n.		son
+der Soldat (-en)	n.		soldier
+der Spion (-e)	n.		(male) spy
+stark	adj.		strong
+sterben	v.		to die
+die Stiefmutter (Stiefmütter)	n.		stepmother
+der Stiefsohn (Stiefsöhne)	n.		stepson
+die Stieftochter (Stieftöchter)	n.		stepdaughter
+der Stiefvater (Stiefväter)	n.		stepfather
+stolz	adj.		proud
+die Tante (-n)	n.		aunt, aunty/auntie
+der Tänzer (-)	n.		(male) dancer
+der Taxifahrer (-)	n.		(male) taxi driver
+die Telefonnummer (-n)	n.		telephone number
+die Tochter (Töchter)	n.		daughter
+der Tod (-e)	n.		death
+traurig	adj.		sad, unhappy
+der Vater (Väter)	n.		father
+verachten	v.		to despise
+verheiratet	adj.		married
+der Verkäufer (-)	n.		(male) shop/sales assistant
+sich verlieben (in + acc.)	v.		to fall in love (with)
+verlobt	adj.		engaged
+vertrauen (+dat.)	v.		to trust, to have faith (in)
+der Vorfahr (-en)	n.		(male) ancestor
+der Vorname (-n)	n.		first name, forename
+vorstellen (+dat.)	v.		to introduce (to)
+weise	adj.		wise
+der Wissenschaftler (-)	n.		(male) scientist
+die Witwe (-n)	n.		widow
+der Witwer (-)	n.		widower
+der Zahnarzt (Zahnärzte)	n.		(male) dentist
+der Zwilling (-e)	n.		twin
+amüsant	adj.		amusing, entertaining
+sich amüsieren	v.		to enjoy oneself
+angenehm	adj.		pleasant
+der Applaus	n.		applause
+aufführen	v.		to perform
+aufregend	adj.		exciting
+ausgezeichnet	adj.		excellent
+die Ausstellung (-en)	n.		exhibition
+das Ballett (-e)	n.		ballet
+das Bergsteigen	n.		mountaineering, (mountain) climbing
+das Billard (-e)	n.		billiards
+vom Blatt spielen			to sight-read, to play at sight
+der Boxkampf (Boxkämpfe)	n.		boxing match
+das Buch (Bücher)	n.		book
+die Bühne (-n)	n.		stage
+das Cello (-s/Celli)	n.		cello
+der Chor (Chöre)	n.		choir
+das Computerspiel (-e)	n.		computer game
+der Dokumentarfilm (-e)	n.		documentary (film)
+enttäuschend	adj.		disappointing
+der Fan (-s)	n.		fan, supporter
+die Fernsehsendung (-en)	n.		(television) programme
+der Film (-e)	n.		film, movie
+die Flöte (-n)	n.		flute
+die Freizeit	n.		spare/free time; leisure (time)
+der Fußball (Fußbälle)	n.		football
+Fußball spielen			to play football
+das Gedicht (-e)	n.		poem
+nach (dem) Gehör spielen			to play by ear
+die Geige (-n)	n.		violin
+das Gemälde (-)	n.		picture, painting
+die Generalprobe (-n)	n.		dress rehearsal
+die Geschichte (-n)	n.		story; history
+gewinnen	v.		to win
+die Gitarre (-n)	n.		guitar
+das Golf	n.		golf
+die Gymnastik	n.	sg.	gymnastics
+die Halbzeit (-en)	n.		half-time
+die Herz-Dame	n.		queen of hearts
+das Hobby (-s)	n.		hobby, pastime
+der Horrorfilm (-e)	n.		horror film
+improvisieren	v.		to improvise
+das Instrument (-e)	n.		instrument
+interessant	adj.		interesting
+das Interesse (-n)	n.		interest
+der Jazz	n.		jazz
+jubeln	v.		to rejoice, to cheer
+der Kanal (Kanäle)	n.		(television) channel
+das Kapitel (-)	n.		chapter
+der Karo-Bube	n.		jack of diamonds
+Karten spielen			to play cards
+das Kartenspiel (-e)	n.		card game; pack/deck (of cards)
+die Klarinette (-n)	n.		clarinet
+die klassische Musik			classical music
+klatschen	v.		to clap, to applaud
+das Klavier (-e)	n.		piano
+Klavier spielen			to play the piano
+komisch	adj.		funny, comic; strange, odd
+die Komödie (-n)	n.		comedy
+das Konzert (-e)	n.		concert
+der Kreuz-König	n.		king of clubs
+das Kreuzworträtsel (-)	n.		crossword (puzzle)
+das Kricket	n.		cricket
+laut	adj.		loud
+die Leichtathletik	n.	sg.	athletics
+die Leinwand	n.		(cinema) screen
+leise	adj.		quiet
+lesen	v.		to read
+der Lieblingsfilm (-e)	n.		favourite film
+das Lied (-er)	n.		song
+die Literatur	n.		literature
+malen	v.		to paint
+die Mannschaft (-en)	n.		team
+die Musik	n.		music
+die Oboe (-n)	n.		oboe
+die Oper (-n)	n.		opera
+das Orchester (-)	n.		orchestra
+das Pik-As	n.		ace of spades
+der Pinsel (-)	n.		paintbrush
+die Poesie	n.		poetry
+die Popgruppe (-n)	n.		pop group
+die Popmusik	n.		pop music
+das Porträt (-s)	n.		portrait
+die Posaune (-n)	n.		trombone
+Radio hören			to listen to the radio
+der Radiosender (-)	n.		radio station
+der Roman (-e)	n.		novel
+rührend	adj.		touching, moving
+das Saxofon (-e)	n.		saxophone
+das Schach (-s)	n.		chess
+der Schiedsrichter (-)	n.		referee, umpire
+der Schläger (-)	n.		bat, racket/racquet
+das Schlagzeug (-e)	n.		drum kit, drums; percussion
+Schlittschuh laufen			to (ice-)skate
+das Schwimmen	n.		swimming
+segeln	v.		to sail
+sentimental	adj.		sentimental
+die Serie (-n)	n.		(television) series/serial
+singen	v.		to sing
+die Skulptur (-en)	n.		sculpture
+das Spiel (-e)	n.		game
+spielen	v.		to play; to act
+die Spielshow (-s)	n.		game show
+der Spielstand (Spielstände)	n.		score
+der Sport	n.		sport
+tanzen	v.		to dance
+tauchen	v.		to dive
+das Tennis	n.		tennis
+das Theaterstück (-e)	n.		(stage) play
+der Thriller (-s)	n.		thriller
+das Tischtennis	n.		table tennis
+der Titel (-)	n.		title
+das Tor (-e)	n.		goal
+ein Tor schießen			to score a goal
+die Tragödie (-n)	n.		tragedy
+der Trickfilm (-e)	n.		cartoon
+die Trommel (-n)	n.		drum
+die Trompete (-n)	n.		trumpet
+das Turnier (-e)	n.		tournament
+das Unentschieden (-)	n.		draw, tie
+die Unterhaltung (-en)	n.		entertainment, amusement
+verlieren	v.		to lose
+die Volksmusik	n.		(traditional) folk music
+die Vorstellung (-en)	n.		performance
+wandern	v.		to hike; to wander
+der Western (-)	n.		western
+der Wettbewerb (-e)	n.		competition, contest
+zeichnen	v.		to draw
+die Zeichnung (-en)	n.		drawing
+die Zeitschrift (-en)	n.		magazine
+die Zeitung (-en)	n.		newspaper
+alt	adj.		old
+altmodisch	adj.		old-fashioned
+anstreichen	v.		to paint
+das Arbeitszimmer (-)	n.		study
+aufräumen	v.		to tidy/clear up
+aufstehen	v.		to get up, to rise
+aufwachen	v.		to wake up
+ausschalten	v.		to turn/switch off
+ein Bad nehmen			to have/take a bath
+das Badezimmer (-)	n.		bathroom
+der Balkon (-e/-s)	n.		balcony
+bauen	v.		to build
+der Besen (-)	n.		broom, brush
+das Bett (-en)	n.		bed
+ins/zu Bett gehen			to go to bed
+die Bettdecke (-n)	n.		blanket; quilt
+das Bild (-er)	n.		picture
+der Boden (Böden)	n.		floor, ground
+das Bügeleisen (-)	n.		iron
+bügeln	v.		to iron
+der Bungalow (-s)	n.		bungalow
+das Dach (Dächer)	n.		roof
+der Dachboden (Dachböden)	n.		attic, loft
+die Decke (-n)	n.		ceiling
+dunkel	adj.		dark
+die Dusche (-n)	n.		shower
+(sich) duschen	v.		to have/take a shower
+der Eimer (-)	n.		bucket
+einschalten	v.		to turn/switch on
+einschlafen	v.		to go to sleep; to fall asleep
+elektrisch	adj.		electric(al)
+das Esszimmer (-)	n.		dining room
+das Fenster (-)	n.		window
+die Fensterbank (Fensterbänke)	n.		window sill
+der Fensterladen (Fensterläden)	n.		shutter
+der Fernseher (-)	n.		television (set)
+feucht	adj.		damp
+die Frisierkommode (-n)	n.		dressing table
+die Fußmatte (-n)	n.		doormat
+die Garage (-n)	n.		garage
+der Garten (Gärten)	n.		garden
+gemütlich	adj.		cosy, comfortable
+geräumig	adj.		spacious, roomy
+großartig	adj.		grand, splendid
+das Handtuch (Handtücher)	n.		towel
+das Haus (Häuser)	n.		house
+zu Hause			at home
+der Heizkörper (-)	n.		radiator, heater
+hell	adj.		light; bright; clear
+der Herd (-e)	n.		cooker
+sich hinlegen	v.		to lie down
+sich hinsetzen	v.		to sit down
+der Hocker (-)	n.		stool
+kalt	adj.		cold
+der Kamin (-e)	n.		fireplace; chimney
+der/das Kaminsims (-e)	n.		mantelpiece
+sich kämmen	v.		to comb one's hair
+der Kassettenrekorder (-)	n.		cassette recorder/player
+der Kessel (-)	n.		kettle
+das Kissen (-)	n.		cushion
+der Kleiderschrank (Kleiderschränke)	n.		wardrobe
+die Kommode (-n)	n.		chest of drawers
+das Kopfkissen (-)	n.		pillow
+die Küche (-n)	n.		kitchen
+der Kühlschrank (Kühlschränke)	n.		refrigerator, fridge
+das Laken (-)	n.		(bed)sheet
+der Lappen (-)	n.		cloth, rag
+der Lichtschalter (-)	n.		(light) switch
+die Mauer (-n)	n.		(exterior) wall
+die Mikrowelle (-n)	n.		microwave (oven)
+die Möbel	n.	pl.	furniture
+die Möbelpolitur (-en)	n.		furniture polish
+der Mopp (-s)	n.		mop
+der Mülleimer (-)	n.		(rubbish) bin, dustbin
+der Nachbar (-n)	n.		(male) neighbour
+nass	adj.		wet
+oben			above; upstairs
+öffnen	v.		to open
+ordentlich	adj.		tidy, neat
+die Pflanzen gießen			to water the plants
+das Radio (-s)	n.		radio
+der Rasen (-)	n.		lawn
+das Regal (-e)	n.		shelf
+renovieren	v.		to renovate, to do up
+reparieren	v.		to repair, to fix
+sauber	adj.		clean
+sauber machen	v.		to clean
+saugen	v.		to vacuum, to hoover; to suck
+das Schlafzimmer (-)	n.		bedroom
+schließen	v.		to close, to shut
+das Schloss (Schlösser)	n.		lock; padlock
+der Schlüssel (-)	n.		key
+der Schmutz	n.		dirt, filth
+schmutzig	adj.		dirty, filthy
+der Schrank (Schränke)	n.		cupboard
+der Schreibtisch (-e)	n.		(writing) desk
+die Schublade (-n)	n.		drawer
+der Schuppen (-)	n.		shed
+die Seife	n.		soap
+der Sessel (-)	n.		armchair
+das Shampoo	n.		shampoo
+sicher	adj.		safe, secure
+das Sofa (-s)	n.		sofa, settee
+der Spiegel (-)	n.		mirror
+die Spüle (-n)	n.		(kitchen) sink
+die Spülmaschine (-n)	n.		dishwasher
+der Staub	n.		dust
+staubig	adj.		dusty
+der Staubsauger (-)	n.		vacuum cleaner, hoover
+die Steckdose (-n)	n.		(electric) socket, power point
+der Stecker (-)	n.		(electric) plug
+der Stuhl (Stühle)	n.		chair
+die Tapete (-n)	n.		wallpaper
+tapezieren	v.		to (wall)paper
+das Telefon (-e)	n.		telephone
+der Teppich (-e)	n.		carpet
+der Tisch (-e)	n.		table
+die Toilette (-n)	n.		toilet, lavatory
+die Treppe (-n)	n.	sg.	stairs, staircase, steps
+trocken	adj.		dry
+die Tür abschließen			to lock the door
+die Tür (-en)	n.		door
+unordentlich	adj.		untidy
+unten			below; downstairs
+die Vase (-n)	n.		vase
+der Videorekorder (-)	n.		video (cassette) recorder, video
+der Vorhang (Vorhänge)	n.		curtain
+die Vorhänge aufziehen			to open/draw the curtains
+die Vorhänge zuziehen			to close/draw the curtains
+die Wand (Wände)	n.		(interior) wall
+warm	adj.		warm
+das Waschbecken (-)	n.		washbasin, (bathroom) sink
+die Wäsche aufhängen			to hang out/up the washing/laundry
+die Wäsche waschen			to do the washing/laundry
+sich waschen	v.		to wash (oneself), to have a wash
+die Waschmaschine (-n)	n.		washing machine
+der Wecker (-)	n.		alarm clock
+die Wohnung (-en)	n.		flat, apartment
+das Wohnzimmer (-)	n.		living/sitting room, lounge
+sich die Zähne putzen			to clean/brush one's teeth
+die Zahnpasta (Zahnpasten)	n.		toothpaste
+der Zaun (Zäune)	n.		fence
+die Zentralheizung (-en)	n.		central heating
+zugig	adj.		draughty
+ablehnen	v.		to reject; to disapprove of; to decline, to refuse
+angreifen	v.		to attack
+der Angriff (-e)	n.		attack
+die Arbeitslosigkeit	n.		unemployment
+die Armee (-n)	n.		army
+ausbeuten	v.		to exploit
+die Aussage (-n)	n.		statement; evidence
+besiegen	v.		to defeat, to overcome, to conquer
+bestrafen	v.		to punish
+beten	v.		to pray
+der Betrug	n.		deception; fraud
+die Bevölkerung (-en)	n.		population
+die Bombe (-n)	n.		bomb
+die Botschaft (-en)	n.		embassy
+die Brandstiftung (-en)	n.		arson, fire-raising
+der Brauch (Bräuche)	n.		custom, tradition
+der Buddhismus	n.		Buddhism
+der Buddhist (-en)	n.		(male) Buddhist
+der Christ (-en)	n.		(male) Christian
+das Christentum	n.		Christianity
+debattieren	v.		to debate
+die Demokratie (-n)	n.		democracy
+die Demonstration (-en)	n.		demonstration, protest
+der Diebstahl (Diebstähle)	n.		theft
+die Diktatur (-en)	n.		dictatorship
+entlassen	v.		to sack, to dismiss; to make redundant, to lay off
+ermorden	v.		to murder, to assassinate
+die Eroberung (-en)	n.		conquest
+die Erpressung (-en)	n.		blackmail, extortion
+die Fabrik (-en)	n.		factory
+foltern	v.		to torture
+die Freiheit (-en)	n.		freedom
+der Frieden	n.		peace
+das Gebet (-e)	n.		prayer
+gefährlich	adj.		dangerous
+ins Gefängnis kommen			to go to prison, to be sent to prison
+das Gefängnis (-se)	n.		prison, jail
+die Gemeinschaft (-en)	n.		community
+gerecht	adj.		fair, just
+die Gesellschaft (-en)	n.		society
+das Gesetz (-e)	n.		law, statute, rule
+das Gewehr (-e)	n.		rifle, shotgun
+die Gewerkschaft (-en)	n.		trade union
+der Glaube (-n)	n.		faith, belief
+glauben (an +acc.)	v.		to believe (in)
+der Handel	n.		trade
+heilig	adj.		holy, sacred
+herrschen	v.		to rule; to prevail
+der Hindu (-s)	n.		(male) Hindu
+der Hinduismus	n.		Hinduism
+illegal	adj.		illegal, unlawful
+die Industrie (-n)	n.		industry
+die Inflation (-en)	n.		inflation
+die Invasion (-en)	n.		invasion
+die Investition (-en)	n.		investment
+der Islam	n.		Islam
+der Judaismus	n.		Judaism
+der Jude (-n)	n.		(male) Jew
+kämpfen	v.		to fight, to struggle
+der König (-e)	n.		king
+die Königin (-nen)	n.		queen
+die Korruption	n.		corruption
+der Krieg (-e)	n.		war
+den Krieg erklären			to declare war
+die Kultur (-en)	n.		culture
+legal	adj.		legal, lawful
+die Luftwaffe (-n)	n.		air force
+an die Macht kommen			to come (in)to power, to gain power
+mächtig	adj.		powerful, mighty
+die Marine (-n)	n.		navy
+die Mehrheit (-en)	n.		majority
+die Meinungsumfrage (-n)	n.		opinion poll
+die Minderheit (-en)	n.		minority
+modern	adj.		modern
+die Monarchie (-n)	n.		monarchy
+der Mord (-e)	n.		murder
+der Moslem (-s)	n.		(male) Muslim/Moslem
+öffentlich	adj.		public
+die Partei (-en)	n.		(political) party
+die Politik	n.		politics; policy
+politisch	adj.		political
+die Polizei	n.		police
+der Präsident (-en)	n.		(male) president
+privat	adj.		private
+einen Profit machen			to make a profit
+protestieren	v.		to protest
+der Prozess (-e)	n.		trial; case
+der Raub	n.		robbery
+rebellieren	v.		to rebel
+das Recht (-e)	n.		right; law, justice
+die Regierung (-en)	n.		government
+die Religion (-en)	n.		religion
+die Schöffen	n.	pl.	jury
+schuldig	adj.		guilty
+sich schuldig bekennen			to plead guilty
+Selbstmord begehen			to commit suicide
+sicher	adj.		safe, secure; confident, sure
+die Sklaverei	n.		slavery
+die Staatsangehörigkeit (-en)	n.		nationality
+stehlen	v.		to steal
+eine Straftat begehen			to commit an offence/crime
+der Streik (-s)	n.		strike, walkout
+streiken	v.		to go/be on strike
+der Terrorismus	n.		terrorism
+zum Tode verurteilen			to condemn to death
+die Todesstrafe (-n)	n.		(the) death penalty, capital punishment
+töten	v.		to kill
+die Tradition (-en)	n.		tradition
+überfallen	v.		to raid; to attack, to mug
+umstritten	adj.		disputed; controversial
+die Unabhängigkeit	n.		independence
+unparteiisch	adj.		impartial
+unschuldig	adj.		innocent
+die Unterdrückung	n.		oppression
+der Urteilsspruch (Urteilssprüche)	n.		sentence; verdict
+der Vandalismus	n.		vandalism
+verbieten	v.		to prohibit, to ban, to forbid
+das Verbrechen (-)	n.		crime, criminal act
+vergewaltigen	v.		to rape
+die Vergewaltigung (-en)	n.		rape
+verhaften	v.		to arrest
+der Verrat	n.		treachery; treason
+der Vertrag (Verträge)	n.		contract, agreement; treaty
+die Verurteilung (-en)	n.		condemnation; sentence; conviction
+die Waffe (-n)	n.		weapon
+die Wahl (-en)	n.		election; choice
+wählen	v.		to elect; to vote for
+wichtig	adj.		important
+die Wirtschaft (-en)	n.		economy
+die Zeremonie (-n)	n.		ceremony
+der Zeuge (-n)	n.		witness
+der Zinssatz (Zinssätze)	n.		interest rate
+zivilisiert	adj.		civilized
+zustimmen (+dat.)	v.		to agree (with)
+abgetragen	adj.		worn(-out)
+anprobieren	v.		to try on
+sich anziehen	v.		to dress (oneself), to get dressed
+der Anzug (Anzüge)	n.		(man's) suit
+das Armband (Armbänder)	n.		bracelet
+der Ärmel (-)	n.		sleeve
+sich ausziehen	v.		to undress (oneself), to get undressed
+der Badeanzug (Badeanzüge)	n.		swimming/bathing costume, swimsuit
+die Badehose (-n)	n.	sg.	(pair of) swimming trunks
+die Baumwolle (-n)	n.		cotton
+bequem	adj.		comfortable
+blau	adj.		blue
+die Bluse (-n)	n.		blouse
+braun	adj.		brown
+die Brieftasche (-n)	n.		wallet
+die Brille (-n)	n.	sg.	(pair of) glasses/spectacles
+eng	adj.		narrow; tight(-fitting)
+die Farbe (-n)	n.		colour
+farbig	adj.		coloured
+der Farbstoff (-e)	n.		dye
+der Fleck (-e)	n.		stain, mark, spot
+gelb	adj.		yellow
+der Geldbeutel (-)	n.		purse
+grau	adj.		grey
+die Größe (-n)	n.		size
+grün	adj.		green
+der Gürtel (-)	n.		belt
+der Handschuh (-e)	n.		glove
+die Handtasche (-n)	n.		handbag
+der Hausschuh (-e)	n.		slipper, indoor shoe
+das Hemd (-en)	n.		shirt
+die Hose (-n)	n.	sg.	(pair of) trousers
+der Hut (Hüte)	n.		hat
+die Jacke (-n)	n.		jacket
+die Jeans	n.	pl.	jeans
+der Jogginganzug (Jogginganzüge)	n.		tracksuit, jogging suit
+die Kette (-n)	n.		chain, necklace
+das Kleid (-er)	n.		(woman's) dress; garment, piece of clothing
+die Kleider	n.	pl.	clothes, clothing
+der Knopf (Knöpfe)	n.		button
+das Kostüm (-e)	n.		(woman's) suit; costume
+der Kragen (-)	n.		collar
+die Krawatte (-n)	n.		tie
+kurz	adj.		short
+lang	adj.		long
+das Leder (-)	n.		leather
+das Leinen (-)	n.		linen
+der Lippenstift (-e)	n.		lipstick
+das Make-up (-s)	n.		make-up
+der Mantel (Mäntel)	n.		coat
+die Mode (-n)	n.		fashion
+modisch	adj.		fashionable
+die Mütze (-n)	n.		cap
+das Nachthemd (-en)	n.		nightdress, nightie
+nackt	adj.		naked, bare, nude
+die Nadel (-n)	n.		needle
+nähen	v.		to sew
+die Nähmaschine (-n)	n.		sewing machine
+das Nylon (-s)	n.		nylon
+der Ohrring (-e)	n.		earring
+orange	adj.		orange
+das Paar (-e)	n.		pair
+das Parfüm (-s)	n.		perfume, scent
+passen (+dat.)	v.		to fit; to suit
+der Pelz (-e)	n.		fur
+der Pullover (-)	n.		jumper, pullover, sweater
+der Regenmantel (Regenmäntel)	n.		raincoat, waterproof (coat)
+den Reißverschluss einer Jacke aufmachen			to unzip a jacket
+den Reißverschluss eines Kleides zumachen			to zip up a dress
+der Reißverschluss (Reißverschlüsse)	n.		zip
+reparieren	v.		to repair, to mend, to fix
+der Ring (-e)	n.		ring
+der Rock (Röcke)	n.		skirt
+rot	adj.		red
+der Samt (-e)	n.		velvet
+die Sandale (-n)	n.		sandal
+der Satin (-s)	n.		satin
+der Schal (-s)	n.		scarf
+der Schirm (-e)	n.		umbrella
+der Schlafanzug (Schlafanzüge)	n.		(pair of) pyjamas
+der Schleier (-)	n.		veil
+der Schlüpfer (-)	n.		(pair of) knickers
+der Schmuck (-e)	n.		jewellery
+der Schnürsenkel (-)	n.		(shoe)lace
+der Schuh (-e)	n.		shoe
+sich die Schuhe aufbinden			to untie/undo one's (shoe)laces
+sich die Schuhe binden			to tie one's (shoe)laces, to do up one's (shoe)laces
+schwarz	adj.		black
+die Seide (-n)	n.		silk
+die Shorts	n.	pl.	shorts
+die Socke (-n)	n.		sock
+die Sonnenbrille (-n)	n.	sg.	(pair of) sunglasses
+der Stiefel (-)	n.		boot
+der Stoff (-e)	n.		material, fabric, cloth
+stricken	v.		to knit
+der Strumpf (Strümpfe)	n.		stocking
+die Strumpfhose (-n)	n.	sg.	(pair of) tights
+die Tasche (-n)	n.		pocket
+das Taschentuch (Taschentücher)	n.		handkerchief
+das T-Shirt (-s)	n.		T-shirt, tee-shirt
+der Turnschuh (-e)	n.		gym shoe, trainer
+sich umziehen	v.		to change (one's clothes), to get changed
+die Uniform (-en)	n.		uniform
+das Unterhemd (-en)	n.		vest
+die Unterhose (-n)	n.	sg.	(pair of) underpants
+die Unterwäsche	n.		underwear; lingerie
+sich verkleiden (als)	v.		to dress up (as), to disguise oneself (as)
+weich	adj.		soft, smooth
+weiß	adj.		white
+weit	adj.		wide; loose(-fitting)
+die Weste (-n)	n.		waistcoat
+die Wolle (-n)	n.		wool
+zerreißen	v.		to tear, to rip
+zuknöpfen	v.		to button (up)
+zumachen	v.		to fasten, to do up
+die Ampel (-n)	n.		(set of) traffic lights
+anprobieren	v.		to try on
+die Apotheke (-n)	n.		chemist's (shop)
+der Aufzug (Aufzüge)	n.		lift
+der Ausgang (Ausgänge)	n.		exit, way out
+auswählen	v.		to choose
+die Bäckerei (-en)	n.		baker's (shop), bakery
+die Bank (Bänke)	n.		bench
+die Bank (-en)	n.		bank
+bar bezahlen			to pay (in) cash
+das Bargeld	n.		cash
+die Baustelle (-n)	n.		building site
+beeindruckend	adj.		impressive
+bezahlen	v.		to pay (for)
+billig	adj.		cheap
+das Blumenbeet (-e)	n.		flower-bed
+breit	adj.		broad, wide
+der Briefkasten (Briefkästen)	n.		postbox, pillar box
+die Brücke (-n)	n.		bridge
+der Brunnen (-)	n.		fountain; well
+die Bücherei (-en)	n.		library
+die Buchhandlung (-en)	n.		bookshop
+der Bürgersteig (-e)	n.		pavement
+das Büro (-s)	n.		office
+das Café (-s)	n.		café/cafe
+das Denkmal (Denkmäler)	n.		monument, memorial
+der Dom (-e)	n.		cathedral
+die Ecke (-n)	n.		corner
+der Eingang (Eingänge)	n.		entrance, way in
+einkaufen gehen			to go shopping
+der Einkaufskorb (Einkaufskörbe)	n.		shopping basket
+das Einkaufszentrum (Einkaufszentren)	n.		shopping centre
+die Eisenwarenhandlung (-en)	n.		ironmonger's (shop), hardware shop
+eng	adj.		narrow
+im Erdgeschoss			on the ground floor
+im ersten Stock			on the first floor
+die Feuerwache (-n)	n.		fire station
+finden	v.		to find
+das Fischgeschäft (-e)	n.		fish shop, fishmonger's (shop)
+die Fleischerei (-en)	n.		butcher's (shop)
+das Freizeitzentrum (Freizeitzentren)	n.		leisure centre
+der Friseursalon (-s)	n.		hairdresser's, hair salon
+die Fundsachen	n.	pl.	lost property
+die Galerie (-n)	n.		(art) gallery
+das Gebäude (-)	n.		building
+gebraucht	adj.		second-hand
+das Geld (-er)	n.		money
+der Geldautomat (-en)	n.		cash machine/dispenser
+der Gerichtshof (Gerichtshöfe)	n.		(law) court
+das Geschäft (-e)	n.		shop
+das Geschenk (-e)	n.		present, gift
+großartig	adj.		great, grand, magnificent, splendid
+von guter Qualität			(of) good/high quality
+die Hauptstraße (-n)	n.		main/high street
+das Juweliergeschäft (-e)	n.		jeweller's (shop), jewellery shop
+die Kasse	n.		checkout, cash desk; till, cash register
+kaufen	v.		to buy
+das Kaufhaus (Kaufhäuser)	n.		department store
+das Kino (-s)	n.		cinema
+der Kiosk (-e)	n.		kiosk
+die Kirche (-n)	n.		church
+die Konditorei (-en)	n.		cake shop
+kosten	v.		to cost
+das Krankenhaus (Krankenhäuser)	n.		hospital
+die Kreditkarte (-n)	n.		credit card
+die Kreuzung (-en)	n.		junction, crossroads
+der Kunde (-n)	n.		customer
+das Lebensmittelgeschäft (-e)	n.		grocer's/grocery (shop)
+links abbiegen			to turn left
+der Markt (Märkte)	n.		market
+die Moschee (-n)	n.		mosque
+die Münze (-n)	n.		coin
+das Museum (Museen)	n.		museum
+der Park (-s)	n.		park
+der Parkplatz (Parkplätze)	n.		car park
+der Platz (Plätze)	n.		square
+die Polizeiwache (-n)	n.		police station
+die Post (-en)	n.		post office
+die Quittung (-en)	n.		receipt
+der Rabatt (-)	n.		discount
+das Rathaus (Rathäuser)	n.		town hall
+rechts abbiegen			to turn right
+das Restaurant (-s)	n.		restaurant
+die Rolltreppe (-n)	n.		escalator
+die Rückerstattung (-en)	n.		refund, reimbursement
+die Sackgasse (-n)	n.		dead end, cul-de-sac, blind alley
+der Schalter (-)	n.		counter
+das Schaufenster (-)	n.		shop window
+mit (einem) Scheck bezahlen			to pay by cheque
+der Scheck (-s)	n.		cheque
+von schlechter Qualität			(of) poor/low quality
+das Schuhgeschäft (-e)	n.		shoe shop
+das Schwimmbad (Schwimmbäder)	n.		swimming pool/baths
+das Sonderangebot (-e)	n.		special offer
+spazieren gehen			to go for a walk
+das Stadion (Stadien)	n.		stadium
+die Statue (-n)	n.		statue
+die Straße (-n)	n.		road, street
+die Straße überqueren			to cross the road/street
+die Straßenlaterne (-n)	n.		street light/lamp
+suchen	v.		to look/search for, to seek
+der Supermarkt (Supermärkte)	n.		supermarket
+die Synagoge (-n)	n.		synagogue
+die Telefonzelle (-n)	n.		telephone box/booth
+teuer	adj.		expensive, dear
+das Theater (-)	n.		theatre
+sich treffen (mit +dat.)	v.		to meet, to meet up (with)
+der Tunnel (-/-s)	n.		tunnel
+der Turm (Türme)	n.		tower
+der Überweg (-e)	n.		(pedestrian) crossing
+die Umkleidekabine (-n)	n.		changing/fitting room
+umtauschen	v.		to exchange
+die Unterführung (-en)	n.		underpass, subway
+der Verkehr	n.		traffic
+das Verkehrszeichen (-)	n.		road sign
+sich verlaufen	v.		to get lost
+zählen	v.		to count
+der Zaun (Zäune)	n.		fence, railing(s)
+der Zirkus (-se)	n.		circus
+der Zoo (-s)	n.		zoo

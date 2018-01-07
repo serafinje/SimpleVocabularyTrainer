@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextoGrande">
+        <![CDATA[<style name="Base.DialogWindowTitle.AppCompat" parent="android:Widget">         <item name="android:maxLines">1</item>         <item name="android:scrollHorizontally">true</item>         <item name="android:textAppearance">@style/TextAppearance.AppCompat.Title</item>     </style>]]></style>
+</resources>

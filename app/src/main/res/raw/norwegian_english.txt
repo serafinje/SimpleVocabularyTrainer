@@ -1,0 +1,74 @@
+arbeide (-t, -t)	v.		to work
+begynne (begynte, begynt)	v.		to begin, start
+bil (en, -er)	n.		car
+blyant (en, -er)	n.		pencil
+blå	adj.		blue
+bok (en, bøker)	n.		book
+bord (et, -)	n.		table
+bror (en, brødre)	n.		brother
+båt (en, -er)	n.		boat
+danse (-t, -t)	v.		to dance
+datter (en/ei, døtre)	n.		daughter
+drikke (drakk, drukket)	v.		to drink
+dø (døde, dødd)	v.		to die
+dør (en/ei, -er)	n.		door
+dårlig	adj.		bad
+elske (-t, -t)	v.		to love
+elv (en/ei, -er)	n.		river
+far (en, fedre)	n.		father
+fly (et, -)	n.		(aero)plane
+forstå (forstod, forstått)	v.		to understand
+gi (gav, gitt)	v.		to give
+glad	adj.		happy, cheerful, pleased
+god	adj.		good
+grønn	adj.		green
+gul	adj.		yellow
+hate (-t, -t)	v.		to hate
+hav (et, -)	n.		sea, ocean
+himmel (en, himler)	n.		sky; heaven
+hund (en, -er)	n.		dog
+hurtig	adj.		quick, fast
+hus (et, -)	n.		house
+hvit	adj.		white
+høre (hørte, hørt)	v.		to hear
+kald	adj.		cold
+katt (en, -er)	n.		cat
+kort	adj.		short
+lang	adj.		long
+langsom	adj.		slow
+lese (leste, lest)	v.		to read
+lett	adj.		easy; light
+leve (levde, levd)	v.		to live, to be alive
+liten	adj.		small, little
+lukke (-t, -t)	v.		to close
+lytte (-t, -t)	v.		to listen
+mor (en/ei, mødre)	n.		mother
+måne (en)	n.		moon
+papir (et)	n.		paper
+penn (en, -er)	n.		pen
+rød	adj.		red
+se (så, sett)	v.		to see, to look
+skole (en, -r)	n.		school
+skrive (skrev, skrevet)	v.		to write
+slutte (-t, -t)	v.		to finish, to end, to stop
+snakke (-t, -t)	v.		to speak, to talk
+sol (en/ei)	n.		sun
+spille (spilte, spilt)	v.		to play
+spise (spiste, spist)	v.		to eat
+stol (en, -er)	n.		chair
+stor	adj.		large, big
+svart	adj.		black
+sykkel (en, sykler)	n.		bicycle, bike
+synge (sang, sunget)	v.		to sing
+sønn (en, -er)	n.		son
+søster (en/ei, søstre)	n.		sister
+ta (tok, tatt)	v.		to take
+tog (et, -)	n.		train
+trapp (en/ei, -er)	n.		(flight of) stairs, staircase
+trist	adj.		sad
+tykk	adj.		thick, fat
+tynn	adj.		thin
+vanskelig	adj.		difficult
+varm	adj.		warm, hot
+vindu (et, -er)	n.		window
+åpne (-t, -t)	v.		to open

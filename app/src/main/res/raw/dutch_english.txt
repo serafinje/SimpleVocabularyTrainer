@@ -1,0 +1,74 @@
+de auto (-'s)	n.		car
+beginnen (begon, begonnen, begonnen)	v.		to begin, to start
+begrijpen (begreep, begrepen, begrepen)	v.		to understand
+blauw	adj.		blue
+het boek (-en)	n.		book
+de boot (boten)	n.		boat
+de broeder (-s)	n.		brother
+dansen (danste, dansten, gedanst)	v.		to dance
+de deur (-en)	n.		door
+dichtdoen (deed dicht, deden dicht, dichtgedaan)	v.		to close, to shut
+dik	adj.		thick, fat
+de dochter (-s)	n.		daughter
+drinken (dronk, dronken, gedronken)	v.		to drink
+droevig	adj.		sad
+dun	adj.		thin
+eindigen (eindigde, eindigden, geëindigd)	v.		to end, to finish
+eten (at, aten, gegeten)	v.		to eat
+de fiets (-en)	n.		bicycle, bike
+geel	adj.		yellow
+gelukkig	adj.		happy; fortunate, lucky
+gemakkelijk	adj.		easy
+geven (gaf, gaven, gegeven)	v.		to give
+goed	adj.		good
+groen	adj.		green
+groot	adj.		large, big
+haten (haatte, haatten, gehaat)	v.		to hate
+heet	adj.		hot
+de hemel (-s)	n.		sky; heaven
+de hond (-en)	n.		dog
+horen (hoorde, hoorden, gehoord)	v.		to hear
+het huis (huizen)	n.		house
+de kat (-ten)	n.		cat
+kijken (keek, keken, gekeken)	v.		to look
+klein	adj.		small, little
+kort	adj.		short
+koud	adj.		cold
+lang	adj.		long
+langzaam	adj.		slow
+leven (leefde, leefden, geleefd)	v.		to live
+lezen (las, lazen, gelezen)	v.		to read
+luisteren (luisterde, luisterden, geluisterd)	v.		to listen
+de maan (manen)	n.		moon
+de moeder (-s)	n.		mother
+moeilijk	adj.		difficult
+nemen (nam, namen, genomen)	v.		to take
+openen (opende, openden, geopend)	v.		to open
+het papier (-en)	n.		paper
+de pen (-nen)	n.		pen
+het potlood (potloden)	n.		pencil
+de raam (ramen)	n.		window
+de rivier (-en)	n.		river
+rood	adj.		red
+de school (scholen)	n.		school
+schrijven (schreef, schreven, geschreven)	v.		to write
+slecht	adj.		bad
+snel	adj.		fast, quick
+spelen (speelde, speelden, gespeeld)	v.		to play
+spreken (sprak, spraken, gesproken)	v.		to speak
+sterven (stierf, stierf, gestorven)	v.		to die
+de stoel (-en)	n.		chair
+de tafel (-s)	n.		table
+de trap (-pen)	n.		stair(s), staircase
+de trein (-en)	n.		train
+de vader (-s)	n.		father
+het vliegtuig (-en)	n.		(aero)plane
+werken (werkte, werkten, gewerkt)	v.		to work
+wit	adj.		white
+de zee (-ën)	n.		sea
+zien (zag, zagen, gezien)	v.		to see
+zingen (zong, zongen, gezongen)	v.		to sing
+de zon (-nen)	n.		sun
+de zoon (zonen)	n.		son
+de zuster (-s)	n.		sister
+zwart	adj.		black

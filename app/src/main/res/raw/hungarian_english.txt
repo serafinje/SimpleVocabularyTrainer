@@ -1,0 +1,75 @@
+ablak (-ot)	n.		window
+ad (-j)	v.		to give
+ajtó (-t)	n.		door
+anya (anyát)	n.		mother
+apa (apát)	n.		father
+asztal (-t)	n.		table
+autó (-t)	n.		car
+befejez (-z)	v.		to finish
+beszél (-)	v.		to speak, to talk
+bezár (bezárj)	v.		to close, to shut
+bicikli (-t)	n.		bicycle, bike
+boldog	adj.		happy
+ceruza (ceruzát)	n.		pencil
+csónak (-ot)	n.		boat
+dolgozik (dolgozz)	v.		to work
+égbolt (-ot)	n.		sky
+él (-j)	v.		to live
+énekel (-j)	v.		to sing
+eszik (egy)	v.		to eat
+fehér	adj.		white
+fekete	adj.		black
+fiú (-t)	n.		boy; son
+fiútestvér (-t)	n.		brother
+folyó (-t)	n.		river
+gyors	adj.		fast, quick
+gyűlöl (-j)	v.		to hate
+hall (hallj)	v.		to hear
+hallgat (hallgass)	v.		to listen (to)
+ház (-at)	n.		house
+hideg	adj.		cold
+hold (-at)	n.		moon
+hosszú	adj.		long
+ír (írj)	v.		to write
+iskola (iskolát)	n.		school
+iszik (így)	v.		to drink
+játszik (játssz)	v.		to play
+jó	adj.		good
+kék	adj.		blue
+kezd (kezdj)	v.		to begin, to start
+kicsi	adj.		small, little
+kinyit (kinyiss)	v.		to open (up)
+könnyű	adj.		easy
+könyv (-et)	n.		book
+kövér	adj.		fat
+kutya (kutyát)	n.		dog
+lány (-t)	n.		girl; daughter
+lánytestvér (-t)	n.		sister
+lassú	adj.		slow
+lát (láss)	v.		to see
+lépcső (-t)	n.		stairs, staircase
+macska (macskát)	n.		cat
+megért (megérts)	v.		to understand
+meghal (meghalj)	v.		to die
+meleg	adj.		warm, hot
+nagy	adj.		large, big
+nap (-ot)	n.		sun
+nehéz	adj.		difficult
+néz (nézz)	v.		to look (at), to watch
+olvas (olvass)	v.		to read
+papír (-t)	n.		paper
+piros	adj.		red
+repülőgép (-et)	n.		(aero)plane
+rossz	adj.		bad
+rövid	adj.		short
+sárga	adj.		yellow
+szék (-et)	n.		chair
+szeret (szeress)	v.		to like, to love
+szomorú	adj.		sad
+táncol (táncolj)	v.		to dance
+tenger (-t)	n.		sea
+toll (-at)	n.		pen
+vékony	adj.		thin
+vesz (végy)	v.		to take; to buy
+vonat (-ot)	n.		train
+zöld	adj.		green

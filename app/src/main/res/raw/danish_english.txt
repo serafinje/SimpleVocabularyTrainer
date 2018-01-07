@@ -1,0 +1,74 @@
+arbejde (-de, -t)	v.		to work
+begynde (begyndte, begyndt)	v.		to begin, to start
+bil (-en, -er)	n.		car
+blyant (-en, -er)	n.		pencil
+blå	adj.		blue
+bog (-en, bøger)	n.		book
+bord (-et, -e)	n.		table
+bror/broder (-en, brødre)	n.		brother
+båd (-en, -e)	n.		boat
+cykel (cyklen, cykler)	n.		bicycle, bike
+danse (-de, -t)	v.		to dance
+datter (-en, døtre)	n.		daughter
+drikke (drak, drukket)	v.		to drink
+dø (døde, død)	v.		to die
+dør (-en, -e)	n.		door
+elske (-de, -t)	v.		to love
+ende (endte, endt)	v.		to finish, to end
+far/fader (-en, fædre)	n.		father
+flod (-en, -er)	n.		river
+fly (-et, -)	n.		(aero)plane
+forstå (forstod, forstået)	v.		to understand
+give (gav, givet)	v.		to give
+god	adj.		good
+grøn	adj.		green
+gul	adj.		yellow
+hade (-de, -t)	v.		to hate
+hav (-et, -e)	n.		sea
+himmel (-en, himle)	n.		sky; heaven
+hund (-en, -e)	n.		dog
+hurtig	adj.		quick, fast
+hus (-et, -e)	n.		house
+hvid	adj.		white
+høre (hørte, hørt)	v.		to hear
+kat (-ten, -te)	n.		cat
+kold	adj.		cold
+kort	adj.		short
+lang	adj.		long
+langsom	adj.		slow
+let	adj.		easy
+leve (-de, -t)	v.		to live, to be alive
+lille	adj.		small, little
+lukke (-de, -t)	v.		to close, to shut
+lykkelig	adj.		happy
+lytte (-de, -t)	v.		to listen
+læse (læste, læst)	v.		to read; to study
+mor/moder (-en, mødre)	n.		mother
+måne (-n, -r)	n.		moon
+papir (-et)	n.		paper
+pen (-nen, -ne)	n.		pen
+rød	adj.		red
+se (så, set)	v.		to see; to look
+skole (-n, -r)	n.		school
+skrive (skrev, skrevet)	v.		to write
+slem	adj.		bad
+sol (-en, -e)	n.		sun
+sort	adj.		black
+spille (-de, -t)	v.		to play
+spise (spiste, spist)	v.		to eat
+stol (-en, -e)	n.		chair
+stor	adj.		large, big; great
+svær	adj.		difficult
+synge (sang, sunget)	v.		to sing
+søn (-nen, -ner)	n.		son
+søster (-en, søstre)	n.		sister
+tage (tog, taget)	v.		to take
+tale (talte, talt)	v.		to talk, to speak
+tog (-et, -)	n.		train
+trappe (-n, -r)	n.		staircase, stairs
+trist	adj.		sad
+tyk	adj.		thick, fat
+tynd	adj.		thin
+varm	adj.		warm, hot
+vindue (-t, -r)	n.		window
+åbne (-de, -t)	v.		to open

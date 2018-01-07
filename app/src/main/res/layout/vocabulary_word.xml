@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/mycolors_word_line_background">
+
+    <ImageButton
+        android:src="@drawable/ic_delete"
+        android:id="@+id/btnWordDelete"
+        android:contentDescription="@string/str_delete"
+        android:layout_weight="0"
+        android:layout_gravity="center_vertical"
+        android:layout_height="32dp"
+        android:layout_width="32dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/test_native"
+        android:id="@+id/tvNative"
+        android:layout_weight="1"
+        android:layout_gravity="left|center_vertical"
+        android:gravity="left|start"
+        android:textStyle="bold"
+        android:textSize="@dimen/abc_text_size_medium_material"
+        android:textColor="@color/mycolors_text" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/test_foreign"
+        android:id="@+id/tvForeign"
+        android:layout_gravity="center_vertical|right"
+        android:layout_weight="1"
+        android:gravity="end|right"
+        android:textSize="@dimen/abc_text_size_medium_material"
+        android:textColor="@color/mycolors_text" />
+
+    <ImageView
+        android:src="@drawable/btn_check_buttonless_on"
+        android:id="@+id/icoWordLearned"
+        android:contentDescription="@string/str_learnt"
+        android:layout_weight="0"
+        android:layout_gravity="center_vertical"
+        android:layout_width="32dp"
+        android:layout_height="32dp" />
+</LinearLayout>

@@ -1,0 +1,75 @@
+abrir	v.		to open
+acabar	v.		to finish, to end
+amar	v.		to love
+amarelo	adj.		yellow
+o avião	n.		(aero)plane
+azul	adj.		blue
+o barco	n.		ship, boat
+beber	v.		to drink
+a bicicleta	n.		bicycle, bike
+bom/boa	adj.		good
+branco	adj.		white
+a cadeira	n.		chair
+a caneta	n.		pen
+cantar	v.		to sing
+o cão	n.		dog
+o carro	n.		car
+a casa	n.		house
+o céu	n.		sky; heaven
+o comboio	n.		train
+começar	v.		to begin, to start
+comer	v.		to eat
+compreender	v.		to understand
+curto	adj.		short
+dançar	v.		to dance
+dar	v.		to give
+difícil	adj.		difficult
+a escada	n.		stairs, staircase
+a escola	n.		school
+escrever	v.		to write
+escutar	v.		to listen (to)
+fácil	adj.		easy
+falar	v.		to speak, to talk
+fechar	v.		to close, to shut
+feliz	adj.		happy
+a filha	n.		daughter
+o filho	n.		son
+frio	adj.		cold
+o gato	n.		cat
+gordo	adj.		fat; thick
+grande	adj.		large, big; great
+a irmã	n.		sister
+o irmão	n.		brother
+a janela	n.		window
+jogar	v.		to play
+o lápis	n.	inv.	pencil
+lento	adj.		slow
+ler	v.		to read
+o livro	n.		book
+longo	adj.		long
+a lua	n.		moon
+a mãe	n.		mother
+magro	adj.		thin
+o mar	n.		sea
+mau/má	adj.		bad
+a mesa	n.		table
+morrer	v.		to die
+odiar	v.		to hate
+olhar	v.		to look (at), to watch
+ouvir	v.		to hear
+o pai	n.		father
+o papel	n.		paper
+pequeno	adj.		small, little
+a porta	n.		door
+preto	adj.		black
+quente	adj.		warm, hot
+rápido	adj.		fast, quick
+o rio	n.		river
+o sol	n.		sun
+tomar	v.		to take
+trabalhar	v.		to work
+triste	adj.		sad
+ver	v.		to see
+verde	adj.		green
+vermelho	adj.		red
+viver	v.		to live

@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Examen de vocabulario</string>
+    <string name="select_vocabulary">Selecciona vocabulario</string>
+
+    <string name="action_settings">Configuración</string>
+    <string name="create_vocabulary">Nuevo</string>
+    <string name="import_vocabulary">Importar</string>
+    <string name="export_vocabulary">Exportar</string>
+    <string name="str_confirm_delete_vocabulary">¿Borrar vocabulario </string>
+    <string name="title_activity_vocabulary_visualization">Palabras del Vocabulario</string>
+    <string name="test_native">Palabra</string>
+    <string name="test_foreign">Traducción</string>
+
+    <!-- Pantalla principal de vocabulario -->
+    <string name="change_vocabulary">Cambiar</string>
+    <string name="str_add_word">Crear palabra</string>
+    <string name="str_edit_word">Editar palabra</string>
+    <string name="str_test">Examen de palabras</string>
+    <string name="str_stats">Stats</string>
+    <string name="str_filter">Filtro&#8230;</string>
+    <string name="str_test_foreign">Examen de traducciones</string>
+    <string name="str_encoding">Codificación</string>
+
+    <string name="str_confirm_delete">¿Borrar palabra </string>
+    <string name="str_confirm_reset">¿Resetear estadísticas?</string>
+    <string name="str_yes">Sí</string>
+    <string name="str_no">No!</string>
+    <string name="str_removed_word">La palabra ha sido borrada</string>
+    <string name="str_word_native">Palabra / Frase</string>
+    <string name="str_part_of_speech">Parte de la oración:</string>
+    <string name="str_notes">Notas</string>
+    <string name="str_word_foreign">Traducción:</string>
+    <string name="str_ok">OK</string>
+    <string name="str_cancel">Cancelar</string>
+    <string name="title_activity_word_edition">Añadir / Editar Palabra</string>
+
+    <string name="title_activity_vocabulary_test">Examen de Vocabulario</string>
+    <string name="strTranslation">Traducción:</string>
+    <string name="str_correct_answer">Respuesta Correcta:</string>
+    <string name="str_next">Siguiente</string>
+    <string name="str_end">Terminar examen</string>
+    <string name="title_activity_stats">Estadísticas</string>
+    <string name="str_words_learnt">Palabras aprendidas:</string>
+    <string name="str_words_total">Palabras totales:</string>
+    <string name="str_progress">Progreso:</string>
+    <string name="str_questions_answered">Respuestas correctas:</string>
+    <string name="str_questions_attempted">Respuestas intentadas:</string>
+    <string name="str_success_rate">Porcentaje de éxito:</string>
+    <string name="str_reset">Resetear</string>
+    <string name="str_back">Atrás</string>
+    <string name="str_enter_vocabulary_name">Introduce nombre del vocabulario:</string>
+    <string name="str_open">Abrir</string>
+    <string name="str_delete_vocabulary">Borrar</string>
+    <string name="str_delete">Borrar</string>
+    <string name="str_learnt">Aprendida</string>
+    <string name="str_vocabulary_complete">¡Vocabulario completado!</string>
+    <string name="str_empty">(vacío)</string>
+    <string name="str_correct">¡CORRECTO!</string>
+    <string name="str_fail">¡ERROR!</string>
+    <string name="str_select_file">Selecciona tu gestor de archivos</string>
+    <string name="str_select_path">Selecciona tu gestor de archivos</string>
+    <string name="str_install_filemanager">¡Necesitas instalar un gestor de archivos para seleccionar un archivo!</string>
+    <string name="str_error_exporting">Error exportando </string>
+    <string name="str_error_importing">Error importando </string>
+    <string name="str_expanding">Descomprimiendo vocabulario predefinido: </string>
+    <string name="str_predefined">Predefinido</string>
+    <string name="str_exporting">Exportando a: </string>
+    <string name="str_finished_exporting">Terminada exportación de </string>
+    <string name="str_progress_importing">Importando </string>
+    <string name="str_progress_exporting">Exportando </string>
+</resources>

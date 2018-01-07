@@ -1,0 +1,759 @@
+10, diez			д'есять , desyat (DYEYsyats)
+100 , cien	m.		сто , sto
+1000, mil	f.		т'ысяча , tisyacha
+11, once			од'иннадцать , odinnadtsat (aDINnatsats)
+13, trece			трин'адцать , trinadtsat
+146, ciento cuarenta y seis			сто с'орок шесть , sto sorok shest
+16, dieciséis	n.		шестн'адцать , shestnadtsat (sheystNADtsats)
+17, diecisiete	n.		семн’адцать , semnadtsat
+20, veinte			двадцать , dvadtsat
+200,doscientos			двести , dvesti
+30, treinta			тр'идцать , tridtsat (TRITsat)
+300 , trescientos			триста , trista (TRISta)
+400, cuatrocientos			чет'ыреста , chetiresta
+500, quinientos			пятьс'от , pyatsot
+6, seis			шесть , shest (sheyst)
+600, seiscientos			шестьс'от , shestsot (sheystSOT)
+80, ochenta			в’осемьдесят , vosemdesyat
+900, novecientos			девятьс'от , devyatsot
+a			к , k
+a él le gusta mucho...			ему очень нравится... , emu ochen nravitsya...
+a ellos les gusta...			им нравятся... , im nravyatsya...
+a propósito, por cierto			кстати , kstati
+abajo			вниз , vniz (vnis)
+abandonar			оставл'ять , ostavlyat (astaFLYATS)
+abrigo	n.		пальт'о , palto (palTO)
+abril			Апр'ель , aprel
+abrir			открыв'ать , otkrivat (atkriVATS)
+abrirse	v.		открыться , otkritsya
+abuela			Б'абушка , babushka (BAbushka)
+abuelo	m.		Д'едушка , dedushka (DYEdushka)
+aburrido			скуч'ающий , skuchayushchiy
+adelgazar			похуд'еть , pojudet
+aeropuerto			аэроп'орт , aeroport (eraPORT)
+afeitarse	v.		бр'иться , britsya (BRITsa) ; побр'иться , pobritsya (paBRITsa)
+agosto			'август , avgust (AVgust)
+agua	f.		вод'а , voda (vaDA)
+ahora	adv.		теп'ерь , teper (tiPYER)
+ajedrez	n. pl.		ш'ахматы , shajmati
+al lado, junto a	adv.		у , u
+alcanzar	v.		догн'ать , dognat (dagNATS)
+alfombra	m.		ков'ёр , kovyor (kaVYOR)
+algo, un poco			н'есколько , neskolko (NISkoylka)
+algún			некоторые , nekotorie
+algunos			некоторые , nekotorie ; н'есколько , neskolko (NISkoylka)
+allí			там , tam (tam)
+alto			выс'окий , visokiy (viSOki)
+altura, altitud	f.		высот'а , visota (visaTA)
+altura, estatura			рост , rost (rost)
+amar	v.		Люб'ить , lyubit (lyuBITS)
+amarillo	adj.		ж'ёлтый , zhyoltiy (ZHOLti)
+amigo			друг , drug (druk)
+ancho			Шир'окий , shirokiy (shiROki)
+Anciano, viejo	n.		Стар'ик , starik (staRIK)
+andar, caminar			ход’ить , jodit
+ángulo			'угол , ugol (Ugal)
+animal	n.		жив'отное , zhivotnoe
+anteayer, antes de ayer	adv.		позавчера , pozavchera
+anterior	adj.		прежний , prezhniy (PRYEzhni)
+año			Год , god (god)
+apagar ; desenchufar	v.		выключ'ать , viklyuchat ; в'ыключить , viklyuchit
+apellido			фам'илия , familiya (KA)
+aprender			изуч'ать , izuchat (isuCHATS) ; изуч'ить , izuchit (isuCHITS)
+aproximadamente			'около ,olo (Ukala)
+aquel	pron.		Тот , tot (tot)
+aquella			та , ta
+aquello	(adj. n.)		то , to
+aquellos, aquellas	pron.		те , te
+aquí			здесь , zdes (sdyeys) ; тут , tut
+árbol, arbol			д'ерево , derevo (DYEreva)
+Archivo	m.		arjiv ; Арх'ив
+así	adv.		Так , tak (tak)
+aterrorizado , asustado			напуганный
+atrás			наз'ад , nazad (naZAD)
+(aún) más			ещ'ё , eshyo
+aunque			хот'я , jotya
+ave			птица , ptitsa
+avenida			просп'ект , prospekt
+avergonzado			пристыженный
+avión			самол'ёт , samolyot (samaLYOT)
+ayer			вчер'а , vchera (fchiRA)
+ayuda	f.		п'омощь , pomosh
+ayudar			помог'ать , pomogat (pamaGATS)
+azúcar	m.		с'ахар , sajar
+azul	adj.		с'иний , siniy (SIni)
+bailar			танцев'ать , tantsevat (tantsiVATS) ; станцев'ать , stantsevat
+bajar	v.		спускаться, spuskatsya ; спуститься , spustitsya
+bajo (low)	adj.		н'изкий , nizkiy (NIZkiy)
+balcón	n.		balkon ; балк'он
+banco			банк , bank (bank)
+bandeja			подн'ос , podnos (padNOS)
+bar	n.		бар , bar (bar)
+barco			Кор'абль , korabl (kaRABL)
+bastante, suficiente			дост'аточно , dostAtochno
+beber	v.		пить , pit (pits)
+bebida			нап'иток , napitok
+biblioteca	f.		библиот'ека , biblioteka (bibliaTYEka)
+bicicleta, bici			велосип'ед , velosiped
+bien	(adv.)		хорош'о , jorosho (jaraSHO)
+billete, ticket	m.		билет , bilet (biLYET)
+bistec	n.		бифшт'екс , bifshteks
+blanco	adj.		Б'елый , beliy (byEliy)
+bolígrafo			р’учка , ruchka
+bolsillo			карм'ан , karman (karMAN)
+bota			ботинок , botinok
+breve, corto, pequeño			короткий , korotkiy (kaROTki)
+brillante			яркий , yarkiy
+buenas noches			спокойной ночи , spokoynoy nochi
+bueno	adj.		д'обрый , dobriy (DObrey) ; хор'оший , joroshiy (jaROshiy)
+bus, autobús	n.		avtobus ; авт'обус
+caballo			Л'ошадь , loshad (LOshad)
+cabeza			голов'а , golova (galaVA)
+cada			к'аждый , kazhdiy (KAYHdi)
+caer			п'адать , padat (PAdats)
+café			к'офе , kofe (KOfe)
+cafetería	n.		каф'е , kafe
+caja, cajero (donde se paga)	f.		касса , kassa
+calcetines grises			серые носки , serie noski
+calefacción			отопл'ение , otoplenie (otoPLYEniye)
+caliente	adj.		гор'ячий , goryachiy (garYAchi)
+calle			'Улица , ulitsa (Ulitsa)
+calma, tranquilidad, silencio	f.		тишин'а , tishina (tishiNA) ; тишь , tish
+cama			кров'ать , krovat (kraVATS)
+camarera	f.		офици'антка , ofitsiantka (afiTSIANTka)
+camarero			офици'ант , ofitsiant
+cambiar			измен'ять , izmenyat
+cambio, vuelta			сдача , sdacha
+camino			дор'ога , doroga (daROga)
+camisa			руб'ашка , rubashka (ruBASHka)
+camiseta			м'айка , mayka
+campo			п'оле , pole (pOlye)
+cancelar	v.		отменить , otmenit
+canción	f.		п'есня , pesnya (PYESnya)
+cansado			усталый , ustalniy
+cantar			петь , pet (pyets) ; спеть , spet (spyets)
+cara			лиц'о , litso
+cara (adj.)	adj. f.		дорог'aя , dorogaya
+carne	n.		мясо , myaso (MYAsa)
+(carne de) cerdo			свин'ина , svinina (sviNIna)
+(carne de) cordero			бар'анина , baranina (baRAnina)
+(carne de) ternera			гов'ядина , govyadina
+caro			Дорог'ой , dorogoy (daraGOY)
+carta	n.		письм'о , pismo (pisMO)
+cartera, maletín			Портф'ель , portfel (partFYEL)
+Casa	n. m.		dom ; Дом
+casi	adv.		почт'и , pochti (pachTI)
+celoso			ревнивый
+cena			'ужин , uzhin (Uyhin)
+cenar			'ужинать , uzhinat (Uyinats) ; по'ужинать , pouzhinat (paUyinats)
+centro			ц'ентр ; tsentr (SYENter)
+cerca (de)	adv.		'около ,olo (Ukala)
+cero			ноль , nol ; нуль , nul
+cerrar			закрыв'ать , zakrivat (zakriVATS)
+cerveza			п'иво , pivo (PIva)
+chaqueta			пидж'ак , pidzhak (pidYHAK)
+chaqueta violeta			Фиолетовая кофта , fioletovaya kofta
+cheque			чек , chek (chyek)
+chica, joven			Д'евушка , devushka (DYEvushka)
+chico			м'альчик , malchik (MALchik)
+cielo			н'ебо , nebo (NYEba)
+cigarrillo	f.		папир’оса , papirosa (papiROsa)
+cinco			пять , pyat (pyAt)
+cine			Кин'о , kino (kiNO)
+ciudad			г'ород , gorod (gOrod)
+claro, fácil de entender	adj.		'ясный , yasniy (YASni)
+coche			маш'ина , mashina (maSHIna)
+cocina			К'ухня , kujnya (KUJnya)
+cocinar			гот'овить , gotovit (gaTOvits) ; пригот'овить , prigotovit (prigaTOvits)
+coger			brat ; брать
+colocarse, ponerse			стать , stat (stats)
+color			цвет , tsvet (svyet)
+comer ; to eat	v.		есть , est (YEyst)
+comer (to have lunch) (to dine)	v.		об'едать , obEdat (aBYEdats)
+comida (acto de comer)			Об'ед , obed (aBYED)
+comida (food)			ед'а , eda (yeDA)
+cómo, como			как , kak (kak)
+como siempre			по-пр'ежнему , po-prezhnemu
+cómodo, confortable	adj.		уд'обный , udobniy (uDOBni)
+comprar			покуп'ать , pokupat (pakuPATS) ; купить , kupit
+con, desde			с , s
+conejo	m.		кролик , krolik (KROlek)
+confirmar	v.		подтверждать , podtverzhdat (patverzhDATS) ; подтвердить , podtverdit (patverDITS)
+conseguir			дост'ать , dostat
+consentir, estar de acuerdo (agree), acordar	v.		соглаш'аться , soglashatsya (shaglaSHATsa) ; соглас'иться , soglasitsya (saglaSITsa)
+contar, relatar			расск'азывать , rasskazivat (raskAzivats) ; рассказ'ать , rasskazat (raskazAts)
+contento, satisfecho			довольный , dovolniy
+continente			контин'ент , kontinent
+continuar			продолж'ать , prodolzhat (pradalYHATS) ; прод'олжить , prodolzhit (praDOLyhits)
+correcto			пр'авильный , pravilniy (PRAvilniy)
+correr	v.		Б'егать , begat
+cosa			вещь , vesh
+costa, orilla			Б'ерег , bereg (BYEreg)
+costar	v.		ст'оить , stoit (STOits)
+cristal			стекл'о , steklo (steKLO)
+crudo			сыр'ой , siroy (siROY)
+cual, el cual	pron.		кот'орый , kotoriy (kaTOri)
+cualquier, cualquiera			люб'ой , lyuboy (lyuBOY)
+cuando, cuándo	adv.		когд'а , kogda (kakDA)
+cuánto, cuántos	adv.		сколько , skolko (SKOYLke)
+¿cuánto cuesta un billete a/para Moscú?			ск’олько ст’оит бил’ет до Москв’ы? , skolko stoit bilet do Moskvi?
+¿cuánto dinero?			сколько денег? , skolko deneg?
+¿cuánto le debo?			ск’олько я вам д’олжен? , skolko ya vam dolzhen?
+cuarto	adj.		четвертый , chetvertiy
+(cuarto de) baño			в'анная , vannaya
+cuatro			чет'ыре , chetire (chetIri)
+cuchara			л'ожка , lozhka (LOZHka)
+cuchillo , navaja			нож , nozh
+cuero			К'ожа , kozha (KOyha)
+cuerpo			т'ело , telo (tyEla?)
+culpable			виновный
+dar			Дав'ать , davat ; Дать , dat
+de (from)			из , iz (is) ; изо , izo
+de nada			пож'алуйста , pozhaluysta (paYHAlusta)
+de nuevo	adv.		снова , snova
+debajo, bajo	(prep.)		под , pod (pod)
+deber, tener que			Д'олжен , dolzhen
+débil			сл'абый ; slAbiy (SLAbi)
+decepcionado			разочар'ованный
+décimo	adj.		дес’ятый , desyatiy
+decir			сказ'ать , skazat (skaZATS) ; Говор'ить , govorit (gavaRITS)
+dejar	v.		оставл'ять , ostavlyat
+delgado			т'онкий
+desayuno			з'автрак , zavtrak (SAFtrak)
+descansar			отдых'ать , otdijat (atdiJATS) ; отдохнуть , otdojnut (atdajNUTS)
+desconocido			неизвестный , neizvestniy
+desde (from-distancia)	prep.		от , ot (at)
+desde (since)			из , iz (is)
+despacho, gabinete			кабин'ет , kabinet (kabinYET)
+despertarse			просн'уться , prosnutsya
+después, luego			д'альше , dalshe (DALshi) ; пот'ом , potom (paTOM)
+día			Д'ень , den (dyEN)
+(día de) fiesta	m.		праздник , prazdnik
+diario	adj.		ежедневный , ezhednevniy
+diciembre			Дек'абрь , dekabr (diKABR)
+difícil, duro			тр'удный , trudniy (TRUDni)
+dinero			д'еньги , dengi (DYENgi)
+dirección			'адрес , adres
+doce			двен'адцать , dvenadtsat
+doce huevos			Двенадцать яиц , dvenadtsat yaits
+doctor	m.		доктор , doktor
+doctor, médico	m.		врач , vrach (vrach)
+dolor			боль , bol (bol)
+domingo			Воскрес'енье , voskresEne (voskreSINye)
+donde, dónde			где , gde (guidyE)
+dorado, de oro	adj.		золот'ой , zolotoy (zalaTOY)
+dormir			спать , spat (spats)
+dormitorio			Сп'альня , spalnya (SPALnya)
+dos, 2			два , dva (dva)
+ducha	m.		душ , dush
+dueño			владелец , bladelets
+durante	prep.		в течение , v techenie (veteCHInie)
+edificio	n.		зд’ание , zdanie (sDAnie)
+ejemplo			прим'ер , primer (priMYER)
+ejercicio			упражн'ение , uprazhnenie (uprazhNYENie)
+él	pr.		Он , on (on)
+el ocho de agosto			восьм’ого ’августа , vosmogo avgusta
+él tiene treinta años		emu=a el...	ему тридцать лет , emu tridtsat let
+elegir	v.		выбир'ать , vibirat (vibiRATS) ; в'ыбрать , vibrat (viBRATS)
+ella	pron.		он'а , ona (aNA)
+ella tiene seis años			Ей шесть лет , ey shest let
+ellos, ellas			Он'и , oni (aNI)
+ellos juegan			они играют , oni igrayut
+empezar	v.		нач'ать , nachat (naCHATS) ; начин'ать , nachinat (nachiNATS)
+en agosto			в ’августе , v avguste
+en, dentro de			v , в ; во , vo
+en (el año) mil novecientos			в т’ысяча девятис’отом год’у , v tisyacha devyatisotom godu
+en junio			в и’юне , v iyune
+en otoño	adv.		’осенью , osenyu
+en todas partes (everywhere)	adv.		везд’е , vezde
+en total/sólo/solamente dieciséis horas			всего шестнадцать часов , vsego shestnadtsat chasov
+en verano	adv.		л’етом , letom
+encender, enchufar	(v.)		vklyuchit ; включ'ить
+encontrar			наход'ить , najodit (najaDITS)
+enero			Янв'арь , yanvar (yanVAR)
+enfadado			серд'итый , serditiy ; расс'ерженный
+enfermera			медсестр'а , medsestra (medsestrA)
+enfermo, herido			Больн'ой , bolnoy (balNOY)
+enlace, conexión, relación			связь , svyaz (svyas)
+ensalada			сал'ат , salat
+enseñar			Уч'ить , uchit (uCHITS) ; выуч'ить , viuchit (viuCHITS)
+entender			поним'ать , ponimat (paniMATS)
+entero, todo, intacto	adj.		ц'елый , tseliy (TSEli)
+entonces	(adv.)		тогд'а , togda (takDA)
+entrada			вход , vjod (vjod)
+entre			м'ежду , mezhdu (MYEyhdu)
+equipaje	m.		баг'аж , bagazh (baGAZH)
+equivocarse	v.		ошиб’аться , oshibatsya (ashiBATsa) ; ошиб’иться , oshibitsya (ashiBITsa)
+era, época			век , vek
+error, equivocación			ош'ибка , oshibka (aSHIBka)
+escalera			Л'естница , lestnitsa (LYESTnitsa)
+escribir			пис'ать , pisat ; напис'ать , napisat
+escuchar			сл'ушать , slushat (SLUshets) ; посл'ушать , poslushat (poSLUshets)
+escuela			Шк'ола , shkola (shKOla)
+eso, ello			onO ; Он'о
+España			Испания , Ispaniya
+español ; idioma español	(adj. m.)		ispAnskiy ; исп'анский
+español ; un español			исп'анец , ispanets
+especial, peculiar			специ'альный , spetsialniy (spetsiALni)
+esperar, anticipar, prever			ждать , zhdat (zhdats) ; подождать , podozhdat (padazhDATS)
+esposa			Жен'а , zhena (yheNA)
+esposo, marido	(m.)		муж , muzh
+esquina			'угол , ugol (Ugal)
+está bastante lejos			’это дов’ольно далек’о , eto dovolno daleko
+ésta, esta, esa			'Эта , eta
+¿está lejos de aquí?			’это далек’о отс’юда? , eto daleko otsyuda?
+Esta tarde voy a salir con...			Сегодня вечером я встречаюсь с...
+estación (de transporte)			ст'анция , stantsiya (STANTsia)
+estación (de tren)			вокз'ал , vokzal (vakSAL)
+éste, este, ese			'Этот , Etot
+este (punto cardinal)			вост'ок , vostok
+esto, eso			'это , eto (Eta)
+estos, estas, esos, esas			'Зти , eti (Eti)
+estrecho	adj.		'узкий , uzkiy (USki)
+estrella	f.		звезд'а , zvezda (zvyezDA)
+estudiante	m.		студ'ент , student
+estudiar			уч'иться , uchitsya
+estúpido, tonto			глупый , glupiy (GLUpi)
+extranjero	n.		иностранец , inostranets (inasTRAnets KO)
+falda			Юбка , yubka (YUBka)
+falda rosa			жёлтая юбка , zhyoltaya yubka
+familia	f.		семь'я , semya (siMYA)
+famoso	adj.		знамен'итый , znamenitiy
+febrero			Февр'аль , fevral (feVRAL)
+fecha			д'ата , data (DAta)
+fecha de nacimiento			д'ата рожд'ения , data rozhdeniya
+feliz , afortunado	adj.		счастл'ивый , schastliviy (shastLIvi)
+fila, hilera, línea	n.		ряд , ryad (ryad)
+final			кон'ец , konets (kanyETS)
+frío	m.		х'олод , jolod (jOlad)
+frío (adj)	adj.		холодный , jolodniy
+fuente			fontAn ; фонт'ан
+fuera (de), más allá (de)			Вне , vne
+fuerte, intenso			с'ильный , silniy (SILni)
+fuerte, robusto			кр'епкий , krepkiy (kryEPki)
+fumar			кур'ить , kurit (kuRRITS)
+funcionar			раб'отать , rabotat (raBOtats) ; функцион'ировать , funktsionirovat (funktsiaNIravats)
+futuro	n.		будущее , budushee
+gafas			очк'и , ochki (achKI)
+garaje			Гар'аж , garazh (gaRASH)
+gata			кошка , koshka (KOSHka)
+gato			кот , kot
+gente			л'юди , lyudi (lyUdi)
+gordo			т'олстый , tolstiy
+gracias			Спас'ибо , spasibo (spaSIba)
+Gran Bretaña	n.		Великобритания , Belikobritaniya
+grande			болш'ой , bolshoy
+gris	adj.		с'ерый , seriy
+guapa	adj. f.		крас'ивая , krasivaya
+guapo			крас'ивый , krasiviy (kraSIviy)
+guía, conductor			проводн'ик , provodnik (pravadNIK)
+(ha) ganado			выиграл , viigral
+habitación	f.		к'омната , komnata (KOMnata)
+hablar			говор'ить , govorit (gavaRITS)
+hacer			д'елать , delat
+hacerse, convertirse, llegar a ser			стать ; stat (stats)
+hacia			к , k
+hambre			Г'олод , golod (GOlad)
+hambriento			гол'одный , golodniy
+hasta			до , do (do)
+(aquí) hay dos pasteles			Здесь два пирожных , zdes dva pirozhnij
+hay un pastel			Здесь одно пирожне , zdes odno pirozhnoe
+hermana			Сестр'а , sestra (seysTRA)
+hermano			Бр'ат , brat (brat)
+hielo			лёд , lyod (lyod)
+hierba	f.		трав'а , trava
+hija	f.		Дочь
+hijo	m.		С'ын , sin (sin)
+hoja, página			страница , stranitsa
+hola (formal)			здр'авствуйте , zdravstvuyte (SDRASTvuyche) ; здр'авствуй, zdravstvuy
+hola (informal)			прив'ет , privet (priVYET)
+hombre	(m.)		мужч'ина , muzhchina
+hora (de reloj)			Час , chas (chas)
+hospital			Больн'ица , bolnitsa (balNITsa)
+hotel			гост'иница , gostInitsa (gasTInitsa) ; отель , otel
+hoy	adv.		сег'одня , segodnya (seVODnya)
+(hoy) es lunes			сег’одня понед’ельник , segodnya ponedelnik
+huevo			яйц'о , yaytso (yaytSO)
+húmedo	adj.		сыр'ой , siroy (siROY) ; вл'ажный , vlazhniy (VLASHni)
+importante	adj.		в'ажный , vazhniy
+intentar	v.		стар’аться , staratsya ; постар’аться , postaratsya
+interesante			интер'есный , interesniy (inteRYESni)
+internacional			междунар'одный , mezhdunarodniy
+interruptor			выключ'атель , viklyuchatel
+invierno			зим'а , zima (ziMA)
+ir	v.		идт'и , idti (idTI)
+isla	m.		'остров , ostrov
+jardín			Сад , sad (sad)
+juego			игр'а , igra (iGRA)
+jueves			четв'ерг , chetverg (chetvyErk)
+jugar	v.		Игр'ать , igrat (iGRATS) ; сыгр'ать , sigrat (siGRATS)
+jugar al ajedrez			игр'ать в ш'ахматы , igrat v shajmati
+julio			И'юль , iyul (iYUL)
+junio			И'юнь , iyun (iYUN)
+la camiseta cuesta diez euros			Футболка стоит десят евро , futbolka stoit desyat euro
+la casa tiene ocho habitaciones , hay ocho habitaciones en la casa			В доме восемь комнат , v dome vosem komnat
+lago			'озеро , ozero (Ozera)
+lagos	n. pl.		озера , ozera
+largo			дл'инный , dlinniy (DLINni)
+las dos menos cuarto			без пятнадцати два , bez pyatnadtsati dva
+leche			Молок'о , moloko (malaKO)
+leer	v.		чит'ать , chitat
+lejano			далекий , dalekiy
+lejos			Далек'о , daleko (daleKO)
+lengua			Яз'ык , yazik (yaZIK)
+lento			м'едленный , medlenniy (MYEDlyenniy)
+libertad			своб'ода , svoboda (svaBOda)
+libro			Кн'ига , kniga (KNIga)
+ligero	adj.		л'ёгкий , lyogkiy (LYOki)
+limón			лим'он , limon
+limpiar			ч'истить , chistit (CHIStits)
+limpio	adj.		ч’истый , chistiy
+liso, plano			гл’адкий , gladkiy
+listo, inteligente			'умный , umniy (UMni)
+llama			Пл'амя , plamya (PLAmya)
+llave			ключ , klyuch (klyuch)
+llegar			прибыв'ать , pribivat (pribiVATS) ; дойт'и , doyti
+lleno			сытый
+lugar			м'есто , mesto
+luna			лун'а , luna (luNA)
+lunes			понед'ельник , ponedelnik (paniDYELnik)
+luz			свет , svet
+madera			д'ерево , derevo (DYEreva)
+madre			М'ать , mat (mats)
+maestro, profesor			уч'итель , uchitel (uCHItyel)
+mal	adv.		пл'охо , plojo (PLOja)
+maleta			чемод'ан , chemodan (chemaDAN)
+malo			плох'ой , plojoy (plaJOY)
+mano , brazo	f.		рук'а , ruka (ruKA)
+manzana			'яблоко , yabloko (yAblaka)
+mañana	(n.)		'утро , utro (Utra)
+mañana	(adv.)		zAvtra ; з'автра
+máquina			маш'ина , mashina (maSHIna)
+mar			море , more (MOrye)
+marrón			кор'ичневый , korichneviy (kaRICHnevi)
+martes			Вт'орник , vtornik (FTORnik)
+marzo			Март , mart (mart)
+más			б'ольше , bolshe
+más de, por encima de			свыше , svishe
+más fuerte	adj.		кр’епче, krepche
+más lejos, más adelante	adv.		д'альше , dalshe (DALshi)
+más temprano	adv.		р’аньше , ranshe
+mayo			Май , may (may)
+mayor, más viejo			старший , starshiy
+me alegro de verte			рад теб'я в'идеть , rad tebya videt
+me duele la cabeza, tengo dolor de cabeza			у мен'я бол'ит голов'а , u menya bolit golova
+me gusta ese color			мне нравится тот цвет , mne nravitsya tot tsvet
+me llamo...			Мен'я зов'ут... , menya zovut... (miNA zaVUT...)
+mejor	(adv)		л'учше ; luchshe (LUCHshi)
+mejor	(adj.)		лучший , luchshiy
+menor (de edad)			мл'адший , mladshiy (MLADshi)
+mes	m.		м'есяц , mesyats (MYEsyets)
+mesa			Стол , stol (stol)
+metro			метр'о , metro (meytrO)
+mi madre es alta			моя мама высокая
+mi padre es gordo			мой папа толстый
+mía	adj. f.		мо'я , moya
+miércoles			сред'а , sreda (sreyDA)
+millón			милли'он , million
+minuto			Мин'ута , minuta (miNUta)
+mío	(adj. n.)		мо'ё , moyo
+mío	adj. m.		Мой , moy
+míos, mías			мо'и , moi (maI)
+mirar	v.		Смотр'еть , smotret (smaTRETS)
+mismo			же , zhe
+modo, manera	n.		сп'особ , sposob (SPOsob)
+molestar			беспок'оить , bespokoit ; надоесть , nadoest
+moneda	n.		мон'ета , moneta
+montaña			гор'а , gora (gaRA)
+moto, motocicleta			мотоц'икл , mototsikl (mataTSIKL)
+muchos			многие , mnogie
+muerte			смерть , smert (smert)
+mujer	f.		ж'енщина , zhenshina (ZHYENSHchina)
+mundo, universo			Мир , mir (mir)
+música			м'узыка , muzika
+muy, mucho			'очень , ochen (Ochen) ; мн'ого , mnogo (mNOga)
+nada			ничт'о , nichto (nichTO) ; ничег'о , nichego (nicheVO)
+necesito encontrar esta dirección			мне н’ужно найт’и ’этот ’адрес , mne nuzhno nayti etot adres
+necesito un... (m) (+v.)			мне нужен... , mne nuzhen...
+necesito un... (n) (+v.)			мне нужно... , mne nuzhno...
+necesito una... (f.)			мне нужна... , mne nuzhna...
+negro	adj. m.		chyorniy ; ч'ёрный (CHORni)
+nervioso			нервный , nervniy
+nieto	m.		внук , vnuk (vnuk)
+niña			Д'евочка , dEvochka
+niño			реб'ёнок , rebyOnok (reBYOnak)
+No			Нет , net (nyet)
+no me gusta esta habitación			мне не нр’авится ’этот н’омер , mne ne nravitsya etot nomer
+noche	f.		ночь , noch (noch)
+nombre			'Имя , imya (Imya)
+norte			с'евер , sever (SEYver)
+nos	(pron)		Нас , nas
+nosotros, nosotras			мы , mi (mi)
+noticia , novedad			н'овость , novost (NOvast)
+noveno			девятый , devyatiy
+novia			подр'ужка
+noviembre			но'ябрь , noyabr (nayABR)
+nube			'облако , oblako (Ablaka)
+nuestra			Н'аша , nasha
+nuestro	adj. m.		Наш , nash (nash)
+nuestro	adj. n.		Н'ашe , NAshe
+nuestros, nuestras			Н'аши , nashi
+nueve			д'евять , devyat (DYEvyet)
+número			число , chislo
+número (de habitación)			Н'омер , nomer (NOmer)
+nunca	adv.		никогд'а , nikogda (nikagDA)
+ochenta			в'осемьдесят , vosemdesyat (VOsyemdyeSAT)
+ocho			в'осемь , vosem (VOsyem)
+ochocientos			восемьс'от , vosemsot (vosyemSOT)
+octavo			восьмой , vosmoy
+octubre			окт'ябрь ,tyabr (akTYABR)
+ocurrir, pasar			случаться , sluchatsya
+oeste			з'апад , zapad
+oír	v.		сл'ышать , slishat (SLIshats) ; усл'ышать , uslishat (uSLIshats)
+ojo			глаз , glaz (glas)
+oler			пахнуть , pajnut (PAJnuts - pajNUTS)
+olvidar			забыв'ать , zabivat (zabiVATS) ; заб'ыть , zabit (zaBITS)
+ópera			'опера , opera
+ordenar, poner en orden	v.		убир'ать , ubirat (ubiRATS) ; убр'ать , ubrat (uBRATS)
+oreja, oído			’ухо , ujo
+orgulloso	adj.		г'ордый , gordiy
+oscuridad	f.		темнот'а , temnota (tyemnoTA)
+oscuro	adj.		тёмный , tyomniy (TYOMni)
+otoño			'осень , osen (Osin)
+otro			другой , drugoy (druGOY)
+padre	m.		от'ец , otets (aTYETS)
+padrino			крёстный (отец) , kryostniy (otets)
+padrino			крёстный (отец) , kryostniy (otets)
+pagar	v.		заплат’ить , zaplatit ; плат'ить , platit (plaTITS)
+país			Стран'а , strana (straNA)
+palabra			слово , slovo (SLOva)
+pan			хлеб , jleb (jlyeb)
+pantalla			экр'ан , ekran (eKRAN)
+pantalón, pantalones			бр'юки , bryuki (BRYUki)
+pantalones verdes			зелёные брюки , zelyonie bryuki
+pañuelo			плат'ок , platok (plaTOK)
+papel			бум'ага , bumaga (buMAga)
+para qué			зачем , zachem (saCHYEM)
+pararse	v.		стать , stat
+pared	f.		стен'а , stena (steNA)
+parque			Парк , park (park)
+pasear			гул'ять , gulyat (gulyATS)
+pasillo			Корид'ор , koridor (koriDOR)
+patata	m.		карт'офель , kartofel (karTOfil)
+paz			Мир , mir (mir)
+película	m.		фильм , film (film)
+pelo (cabellera)	n. pl.		волосы , volosi
+pensar			Д'умать , dumat (DUmats)
+peor	adv		хуже , juzhe (JUyhe)
+pequeño			М'аленький , malenkiy (MAlenki)
+perderse			заблуд'иться , zabluditsya (zabluDITsa)
+perfecto , perfectamente	adv.		отлично
+pero	(conj)		no , но (no)
+perro			Соб'ака , sobaka (saBAka)
+persona			челов'ек , chelovek (chelaVYEK)
+pescado			р'ыба , riba (rIba)
+piel			К'ожа , kozha (KOyha)
+pierna, pie			ног'а , noga (naGA)
+piscina	m.		басс'ейн , basseyn
+piso, apartamento			Кварт'ира , kvartira (kfarTIra)
+piso (nivel en un edificio)			эт’аж , etazh (eTAZH)
+plato			тар'елка , tarelka (taRYELka)
+plaza			пл'ощадь , ploshad (plashCHAD)
+pobre			б'едный , bedniy
+poder	(v.)		мочь , moch
+por	prep.		за , za (sa)
+por favor			пож'алуйста , pozhaluysta (paYHAlusta)
+por qué			почем'у , pochemu (pechiMU)
+por supuesto, desde luego			кон'ечно , konechno (kanyECHna)
+porque			потом’у что , potomu chto
+postre			дес'ерт , desert
+precio	f.		цен'а , tsena
+pregunta			вопр'ос , vopros (vaPROS)
+preguntar			спрос'ить , sprosit (sprasIts)
+preocupado			взволнованный
+preparado, hecho			готовый , gotoviy
+preparar	v.		гот'овить , gotovit (gaTOvits)
+primavera			весн'а , vesna (vyesNA)
+primero			первый , perviy
+principal, líder, jefe	adj.		гл'авный , glavniy (GLAVni)
+principio, comienzo	n.		нач'ало , nachalo (naCHAla)
+probar			пробовать , probovat (PRObavats) ; попробовать , poprobovat (paPRObavats)
+problema	f.		проблема , problema (praBLYEma)
+profundo	adj.		глуб'окий , glubokiy (gluBOki)
+prohibir			запрет'ить ; zapretit (zapreTITS)
+prueba, intento			проба , proba
+pueblo			дер'евня , derevnya (dyeRYEVnya)
+puente			Мост , most (most)
+puerta			Дверь , dver (diVYER)
+¿qué día es hoy?			как’ое сег’одня числ’о? , kakoe segodnya chislo?
+qué, que			chto ; что
+querer, desear			хот'еть , jotet (jatyEts)
+queso			сыр , sir
+quien, quién			кто , kto (kTO)
+quiero estar delgada			я хочу быть тонкой
+quinto			пятый , pyatiy
+quitar, extraer	v.		удалить , udalit (udaLITS) ; удалять , udalyat (udaLYATS)
+quizás, puede ser	adv.		может быть , mozhet bit (MOzhetbits)
+radio	n.		р'адио , radio
+rápido	(adj.)		ск'орый , skoriy (SKOri) ; Б'ыстрый ; bIstriy
+raza, especie			пор'ода , poroda
+recibir	v.		получ'ать , poluchat (paluCHATS) ; получ'ить , poluchit (paluCHITS)
+recibo			квит'анция , kvitantsiya (kfiTANTsia)
+recomendar			рекомендовать , rekomendovat
+red	f.		сеть , set (syet)
+regalo			под'арок , podarok (paDArek)
+región, distrito			'Область , oblast (Oblast)
+respuesta			отв'ет , otvet (atVYET)
+restaurante			рестор'ан , restoran (restaRAN)
+río			рек'а , reka (reyKA)
+robar			красть , krast (krast) ; укр'асть , ukrast (uKRAST)
+rojo	adj. m.		krasniy ; кр'асный
+romper	v.		ломать , lomat
+rosa			Р'оза , roza (ROsa)
+rosa (color)			розовый , rozoviy
+sábado			Субб'ота , subbota (suBOta)
+saber	v.		знать , znat (snats)
+saber (hacer algo)	v.		ум’еть , umet (uMYETS) ; сум’еть , sumet
+sabio	adj.		м'удрый , mudriy (MUdri)
+salario, paga	f.		зарплата , zarplata
+salida			в'ыход , vijod (VIjod)
+salir			выход'ить , vijodit (vijaDITS)
+sangre	f.		кровь , krov (krof)
+se puede, es posible	adv.		м'ожно , mozhno
+seco	adj.		сух'ой , sujoy (suJOY)
+segundo	adj		второй , vtoroy
+segundo (orden), secundario			второй , vtoroy (ftaROY)
+segundo (tiempo)			сек'унда , sekunda (seKUNda)
+semáforo			светоф'ор , svetofor
+semana			Нед'еля , nedelya (niDYELya)
+sentarse	v.		сад'иться , saditsya (saDITsa)
+señal			сигн'ал , signal
+septiembre			сент'ябрь , sentyabr (senTYABR)
+séptimo			седьмой , sedmoy
+ser	v.		Быть , bit
+serie			ряд , ryad (ryad)
+servicio, lavabo			туал'ет , tualet (tualyET)
+sexto			шестой , shestoy
+sí			Да , da (da)
+si (if)			ли , li (NO) ; 'если , esli (YESli)
+siempre			всегд'а , vsegda (no audio)
+siete			семь , sem (syem)
+siglo			век , vek
+significar			зн'ачить , znachit (SNAchits) ; означ'ать , oznachat (asnaCHATS)
+silla			стул , stul (stul)
+simple, fácil, sencillo			прост'ой , prostoy (prasTOY)
+sin			без , bez (byez)
+sino	(conj)		а ; a
+sobre, acerca de			о , o (o)
+sobre, en			на , na (na)
+sobre, por encima de	prep.		над , nad (nad)
+social	adj.		социальный , sotsialniy
+sol			солнце , solntse (SOLNtse)
+sólo, solamente			т'олько , tolko (TOYLka)
+sonreír	v.		улыб’аться , ulibatsya (uliBATsa) ; улыбн’уться , ulibnutsya (ulibNUTsa)
+sopa			суп , sup
+sorprendido			удивл'ённый , udiblyonniy
+suelo	m.		пол , pol (pol)
+superior	n.		старший , starshiy
+sur			ЮГ , yug (yuk)
+suyo, suya, suyos, suyas, de ellos/as			Их , ij
+suyo, suyos, suya, suyas ; de ella			е'ё , eyo (yeYO)
+suyo, suyos, suya, suyas (de él)			ег'о , ego (yeVO)
+tamaño			разм'ер , razmer
+también			Т'акже ; т'оже
+tarde	adv.		п'оздно , pozdno
+tarta			торт , tort (tort)
+Taxi	n.		Такс'и , taksi
+té			чай , chay (chay)
+te gusta			тебе нравится , tebe nravitsya
+(te mando) un beso , te beso (literal)			целую , tseluyu
+teatro			те'атр , teatr (teATR)
+techo			потол'ок , potolok (petaLOK)
+teléfono			телеф'он , telefon
+temprano			р'ано , rano (RAna)
+tenedor			в'илка , vilka
+tener			держ'ать , derzhat ; Им'еть , imet
+tengo que...	adv.		н'адо... , nado...
+tercero	adj.		тр'етий , tretiy (TREYti)
+tía			т'ётя , tyotya (TYOtya) ; т'ётка , tyotka (TYOTka)
+tiempo (atmosférico)			пог'ода , pogoda (paGOda)
+tiempo (de reloj), momento, hora (de)			вр'емя , vremya (VREYmya) ; пор'а , pora
+tienda	m.		магаэ'ин , magazin (magaSIN)
+tiendas	m.pl.		магаэ'ини , magazini
+¿tiene una mesa para dos?			у вас есть ст’ол на дво’их? , u vas est stol na dvoij?
+tierra			земл'я , zemlya (zemlyA)
+tío			Д'ядя , dyadya (DYAda)
+toalla			полот'енце , polotentse (palaTYENtse)
+tocar			касаться , kasatsya (kaSATsa) ; каснуться , kasnutsya (kasNUTsa)
+todavía	adv.		ещ'ё , eshyO (iSHYO)
+todo			всё , vsyo
+todos quieren...			всё хотят...
+todos, todas			все , vse
+tomate			помидор , pomidor
+toro			Бык , bik
+trabajador, diligente			трудолюб'ивый , trudolyubiviy
+trabajar	v.		раб'отать , rabotat (raBOtats)
+trabajo			раб'ота , rabota
+tranquilo, silencioso	adj.		т’ихий , tijiy (TIji)
+tranvía			Трамв'ай , tramvay (tramVAY)
+tras ; a ; por ; en ; durante	prep.		за , za (za)
+tras, después de			п'осле , posle
+tren			п'оеэд , poezd (POest)
+tres			три , tri (tri)
+triángulo	m.		треугольник , treugolnik
+triste			гр'устный , grustniy
+tú			ты , ti
+(tú) eres mi mejor amigo			ты мой лучший друг , ti moy luchshiy drug
+¿tú me entiendes?			ты меня понимаешь? , ti menya ponimaesh?
+tú pareces...			Ты выгядишь...
+tuya			тво'я , tvoya
+tuyo	adj. n.		тво'ё , tvoyO
+tuyo			тв'ой , tvoy
+tuyos, tuyas			тво'и , tvoi
+Ucrania	(n.)		Украина , ukraina
+último	adj. m.		посл'едний , posledniy (pasLEYDni)
+un billete para/hacia...			один билет до... , odin bilet do...
+una vez al día			раз в день , raz v den
+uno			од'ин , odin (aDIN)
+urgente			срочный , srochniy (SROCHni)
+usar			исп'ользовать , ispolzovat ; п'ользовать , polzovat
+vaca			кор'ова , korova (kaROva)
+vacaciones (de la escuela)	n. pl.		кан'икулы , kanikuli (kaNIkuli)
+vago			лен'ивый , leniviy (lyeNIviy)
+vecino	m.		сос'ед , sosed (sasyED)
+vender	v.		продав'ать , prodavat (pradaVATS)
+ventana			окн'о ,no (akNO)
+ver			в'идеть , videt (VIdyets)
+verano			л'ето , leto (LYEta)
+verdad			пр'авда , pravda (PRAVda)
+verde	adj.		зел'ёный , zelyoniy (zelYOniy)
+versión			в'ерсия , versiya (VYERsya)
+vestir, llevar puesto, ponerse			одевать , odevat (adyeVATS) ; одеть , odet (aDYETS)
+vez, ocasión			раз , raz (ras)
+vida			жизнь , zhizn (YHIzen)
+viejo	(adj.)		ст'арый , stariy (STAri)
+viento			В'етер , veter (VYEyter)
+viernes			П'ятница , pyatnitsa (PYATnitsa)
+vino			Вин'о , vino (viNO)
+visitar	v.		навещать , naveshat (naveshCHATS) ; навестить , navestit (navesTITS)
+vivimos en el quinto piso			мы живём на пятом этаже , mi zhivyom na pyatom etazhe
+volar	v.		лет'ать , letat
+vosotros, vosotras	pron.		вы , vi (VI)
+voy al sexto piso			Я иду на шестой этаж , ya idu na shestoy etazh
+voz			г'олос , golos
+vuestra			В'аша , vasha
+vuestro	adj. m.		Ваш , vash
+vuestro	(adj. n.)		vashe ; В'ашe
+vuestros, vuestras			в'аши , vashi
+y			и , i (i) ; а , a
+ya (already)	adv.		уж'е , uzhe (uYHE)
+yo			я , ya (ya)
+(Yo) compro esto , Lo compro			я куплю это , ya kupluyu eto
+(Yo) quiero beber , Tengo sed			я хоч’у пить , ya jochu pit
+yo soy baja			я низкая
+yo te amo			я теб'я любл'ю , ya tebya lyublyu (ya tebYA lubLU)
+(yo) tengo...			у мен'я есть... , u menya est...
+yo veo			я вижу , ya vizhu
+yo vivo en Moscú			я живу в Москве , ya zhivu v Moskve
+zona			З'она , zona (SOna)
+zumo de naranja			апельс’иновый сок , apelsinoviy sok

@@ -1,0 +1,75 @@
+alkaa	v.		to begin, to start
+antaa	v.		to give
+asua	v.		to live
+aurinko	n.		sun
+auto	n.		car
+avata	v.		to open
+helppo	adj.		easy
+hidas	adj.		slow
+hieno	adj.		thin
+hyvä	adj.		good
+ikkuna	n.		window
+iso	adj.		large, big; great
+isä	n.		father
+joki	n.		river, stream
+juna	n.		train
+juoda	v.		to drink
+katsoa	v.		to look at, to watch
+keltainen	adj.		yellow
+kirja	n.		book
+kirjoittaa	v.		to write
+kissa	n.		cat
+koira	n.		dog
+koulu	n.		school
+kuolla	v.		to die
+kuu	n.		moon
+kuulla	v.		to hear
+kuuma	adj.		hot
+kuunnella	v.		to listen
+kylmä	adj.		cold
+kynä	n.		pen
+laulaa	v.		to sing
+leikkiä	v.		to play
+lentokone	n.		(aero)plane
+lopettaa	v.		to stop
+lukea	v.		to read
+lyhyt	adj.		short
+lyijykynä	n.		pencil
+meri	n.		sea
+musta	adj.		black
+nopea	adj.		fast, quick, rapid
+nähdä	v.		to see
+onnellinen	adj.		happy; fortunate
+ottaa	v.		to take
+ovi	n.		door
+paha	adj.		bad
+paksu	adj.		fat, thick
+paperi	n.		paper
+pieni	adj.		small, little
+pitkä	adj.		long
+poika	n.		son, boy
+polkupyörä	n.		bicycle, bike
+portaat	n.	pl.	stairs
+puhua	v.		to speak
+punainen	adj.		red
+pöytä	n.		table
+rakastaa	v.		to love
+sininen	adj.		blue
+sisko	n.		sister
+sulkea	v.		to close, to shut
+surullinen	adj.		sad
+syödä	v.		to eat
+taivas	n.		sky, heaven
+talo	n.		house
+tanssia	v.		to dance
+tuoli	n.		chair
+tytär	n.		daughter
+työskennellä	v.		to work
+vaikea	adj.		difficult
+valkea	adj.		white; blank
+veli	n.		brother
+vene	n.		boat
+vihata	v.		to hate
+vihreä	adj.		green
+ymmärtää	v.		to understand
+äiti	n.		mother

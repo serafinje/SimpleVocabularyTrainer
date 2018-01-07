@@ -1,0 +1,165 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/mycolors_app_background"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.sera.android.simplevocabularytrainer.VocabularyVisualization">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/ibTitleCancelUpdate"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="0"
+            android:background="@color/mycolors_app_background"
+            android:contentDescription="@string/str_ok"
+            android:src="@drawable/ic_delete"
+            android:visibility="invisible" />
+        <EditText
+        android:id="@+id/tvTitle"
+        style="@style/Base.TextAppearance.AppCompat.Title"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+            android:layout_weight="1"
+        android:background="@color/mycolors_app_background"
+        android:gravity="center"
+        android:inputType="text"
+        android:maxLines="1"
+        android:padding="@dimen/separacion_doble"
+        android:text="@string/app_name"
+        android:textColor="@color/mycolors_text"
+        android:textStyle="bold" />
+
+        <ImageButton
+            android:id="@+id/ibTitleUpdate"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="0"
+            android:background="@color/mycolors_app_background"
+            android:contentDescription="@string/str_ok"
+            android:src="@drawable/btn_check_buttonless_on"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+        <!--android:paddingBottom="@dimen/abc_action_bar_default_padding_material"-->
+        <Button
+            android:id="@+id/btnChangeVocabulary"
+            style="@style/myapp_button"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_margin="@dimen/separacion"
+            android:layout_weight="1"
+            android:text="@string/change_vocabulary" />
+
+        <Button
+            android:id="@+id/btnAddWord"
+            style="@style/myapp_button"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_margin="@dimen/separacion"
+            android:layout_weight="1"
+            android:padding="0dp"
+            android:text="@string/str_add_word" />
+
+        <Button
+            android:id="@+id/btnStats"
+            style="@style/myapp_button"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_margin="@dimen/separacion"
+            android:layout_weight="1"
+            android:text="@string/str_stats" />
+
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/tvFiltro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/my_editview"
+        android:ellipsize="end"
+        android:inputType="textFilter"
+        android:maxLines="1"
+        android:textColorHint="@color/mycolors_text_gray"
+        android:hint="@string/str_filter" />
+
+    <ListView
+        android:id="@+id/lvWordsList"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="top"
+        android:layout_weight="1" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnTestNative"
+            style="@style/myapp_button"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_margin="@dimen/separacion"
+            android:layout_weight="1"
+            android:text="@string/str_test" />
+
+        <Button
+            android:id="@+id/btnTestForeign"
+            style="@style/myapp_button"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_margin="@dimen/separacion"
+            android:layout_weight="1"
+            android:text="@string/str_test_foreign" />
+
+        <!--Button
+            android:id="@+id/btnEncoding"
+            style="@style/myapp_button"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_margin="@dimen/separacion"
+            android:layout_weight="1"
+            android:text="@string/str_encoding" /-->
+
+        <Spinner
+            android:id="@+id/spnEncoding"
+            style="@style/myapp_button"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="@dimen/separacion"
+            android:layout_weight="1"
+            android:text="@string/str_encoding" />
+
+    </LinearLayout>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        ads:adSize="SMART_BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id" />
+</LinearLayout>

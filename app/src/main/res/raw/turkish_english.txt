@@ -1,0 +1,74 @@
+açmak	v.		to open
+almak	v.		to take
+anlamak	v.		to understand
+anne	n.		mother
+araba	n.		car
+ay	n.		moon
+baba	n.		father
+bakmak	v.		to look (at)
+başlamak	v.		to begin, to start
+beyaz	adj.		white
+bisiklet	n.		bicycle, bike
+bitmek	v.		to finish, to end
+büyük	adj.		large, big; great
+çabuk	adj.		quick, fast
+çalışmak	v.		to work
+dans etmek			to (do a) dance
+deniz	n.		sea
+dinlemek	v.		to listen (to)
+duymak	v.		to hear
+erkek kardeş			brother
+ev	n.		house; home
+gemi	n.		ship, boat
+gök	n.		sky
+görmek	v.		to see
+güneş	n.		sun
+içmek	v.		to drink
+iskemle	n.		chair
+iyi	adj.		good
+kağıt	n.		paper
+kalem	n.		pencil; pen
+kapamak	v.		to close, to shut
+kapı	n.		door
+kedi	n.		cat
+kırmızı	adj.		red
+kısa	adj.		short
+kitap	n.		book
+kız	n.		girl; daughter
+kız kardeş			sister
+kolay	adj.		easy
+konuşmak	v.		to speak, to talk
+köpek	n.		dog
+kötü	adj.		bad
+küçük	adj.		small, little
+masa	n.		table
+mavi	adj.		blue
+merdiven	n.		stairs, staircase
+mutlu	adj.		happy
+nefret etmek			to hate
+nehir	n.		river
+oğul	n.		son
+okul	n.		school
+okumak	v.		to read
+oynamak	v.		to play
+ölmek	v.		to die
+pencere	n.		window
+sarı	adj.		yellow
+sevmek	v.		to love, to like
+sıcak	adj.		hot
+siyah	adj.		black
+soğuk	adj.		cold
+şarkı söylemek			to sing (a song)
+şişman	adj.		fat
+tren	n.		train
+uçak	n.		(aero)plane
+uzun	adj.		long
+üzgün	adj.		sad
+vermek	v.		to give
+yaşamak	v.		to live
+yavaş	adj.		slow
+yazmak	v.		to write
+yemek	v.		to eat
+yeşil	adj.		green
+zayıf	adj.		thin
+zor	adj.		difficult
